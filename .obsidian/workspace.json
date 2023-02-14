@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8823e1a49428683",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/ND week 7/Defintion of self-adjoint problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/ND week 7/Defintion of self-adjoint problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NumDiffDiff/ND week 7/Defintion of self-adjoint problems.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,8 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c600ab2dd6f4c5d",
+  "active": "5d7e09c7d111af60",
   "lastOpenFiles": [
+    "NumDiffDiff/ND week 7/Defintion of self-adjoint problems.md",
     "Untitled.canvas",
     "NumDiffDiff/ND week 7/General discrete maximal principle.md",
     "NumDiffDiff/ND week 7/Week 7.md",
@@ -168,7 +173,6 @@
     "NumDiffDiff/ND week 7/Variable step size.md",
     "NumDiffDiff/ND week 7/Self-adjoint problems.md",
     "NumDiffDiff/ND week 7/Neumann, Robin, mixed BCs.md",
-    "NumDiffDiff/ND week 7/Defintion of self-adjoint problems.md",
     "Adjoint differential equation.md",
     "Irregular grids.md"
   ]

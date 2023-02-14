@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "8e601ed9c3ec249d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d1b977622e9d884",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dab50ab7ff4ed8ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinStat/4.1 Distribution and density function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c600ab2dd6f4c5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/ND week 7/Defintion of self-adjoint problems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3f265a820227fc3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e6c6c2d61d34092",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a41bc3c6d0c945b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d7e09c7d111af60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "fc299c0c2c80978b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b77821847d1b6236",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "03198d569b8cf077",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b07b3b56432ede8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c9475c85da2f3ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0d908eeb2ed9322",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6078262a9a812f8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "705dd4988a3ce55e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "a3f265a820227fc3",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "NumDiffDiff/ND week 7/General discrete maximal principle.md",
+    "NumDiffDiff/ND week 7/Week 7.md",
+    "NumDiffDiff/ND week 7/Irregular grid.md",
+    "NumDiffDiff/ND week 7/Variable step size.md",
+    "NumDiffDiff/ND week 7/Self-adjoint problems.md",
+    "NumDiffDiff/ND week 7/Neumann, Robin, mixed BCs.md",
+    "NumDiffDiff/ND week 7/Defintion of self-adjoint problems.md",
+    "Adjoint differential equation.md",
+    "Irregular grids.md"
+  ]
+}

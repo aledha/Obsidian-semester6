@@ -30,17 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a3f265a820227fc3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NumDiffDiff/ND week 7/Defintion of self-adjoint problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NumDiffDiff/ND week 7/Defintion of self-adjoint problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NumDiffDiff/ND week 7/Defintion of self-adjoint problems.md"
+              }
             }
           }
         ]
@@ -164,7 +160,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3f265a820227fc3",
+  "active": "1c600ab2dd6f4c5d",
   "lastOpenFiles": [
     "Untitled.canvas",
     "NumDiffDiff/ND week 7/General discrete maximal principle.md",

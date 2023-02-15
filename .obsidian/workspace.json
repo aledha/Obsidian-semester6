@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumDiffDiff/ND week 7/General discrete maximal principle.md",
+                "file": "LinStat/4.2 Moments and Characteristic Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/ND week 7/General discrete maximal principle.md",
+                "file": "LinStat/4.2 Moments and Characteristic Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/ND week 7/General discrete maximal principle.md",
+                "file": "LinStat/4.2 Moments and Characteristic Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/ND week 7/General discrete maximal principle.md"
+                "file": "LinStat/4.2 Moments and Characteristic Functions.md"
               }
             }
           }
@@ -166,8 +166,8 @@
   },
   "active": "1c600ab2dd6f4c5d",
   "lastOpenFiles": [
-    "NumDiffDiff/ND week 7/Defintion of self-adjoint problems.md",
     "NumDiffDiff/ND week 7/General discrete maximal principle.md",
+    "NumDiffDiff/ND week 7/Defintion of self-adjoint problems.md",
     "LinStat/4.1 Distribution and density function.md",
     "Untitled.canvas",
     "NumDiffDiff/ND week 7/Week 7.md",

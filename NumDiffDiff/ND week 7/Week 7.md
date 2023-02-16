@@ -8,16 +8,19 @@ BO section 6.  
 Methods of undetermined coefficients. 
 Beehive grid.   
   
-Sparsity, positive coefficients, and the discrete maximum principle. 
-Error analysis and convergence.    
+[[General discrete maximal principle|Sparsity, positive coefficients, and the discrete maximum principle]]. 
+[[Error and stability analysis]]    
   
-FDMs through integration. Box-integration. Triangular grids. Monotone and conservative schemes.    
+[[FDMs through integration. ]]
+[[Box-integration]]. 
+[[Triangular grids]]. 
+Monotone and conservative schemes.    
   
 Converting to 0 boundary condition.
 
 # Last week
-![[Pasted image 20230214115804.png|1000]]
-![[Pasted image 20230214115854.png|1000]]
-![[Pasted image 20230214115913.png|1000]]
+![[Pasted image 20230214115804.png|700]]
+
+
 
 

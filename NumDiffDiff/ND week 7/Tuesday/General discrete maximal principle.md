@@ -17,3 +17,7 @@ $$-\mathcal{L}_{h}V_{h}\le 0 \quad \text{in }\mathbb{G}$$
 $$\Rightarrow\quad \max_{P\in\overline{\mathbb{G}}}V_{P}\le \max_{P\in \partial^{*}\mathbb{G}}V_P$$
 ## Theorem: Monotone
 $-\mathcal{L}_{h}$ is **monotone** if DMP holds and (A1) and (A2) holds
+
+## Proof
+![[Pasted image 20230214115854.png|1000]]
+![[Pasted image 20230214115913.png|700]]

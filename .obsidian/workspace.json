@@ -11,23 +11,62 @@
             "id": "1c600ab2dd6f4c5d",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Screenshots/Pasted image 20230215112744.png"
+              }
+            }
+          },
+          {
+            "id": "eff48a197c28875b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "LinStat/4.2 Moments and Characteristic Functions.md",
+                "file": "NumDiffDiff/ND week 7/Week 7.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f8823e1a49428683",
+            "id": "0626be507f8a8a9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/ND week 7/Week 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd6220b0c7541805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/ND week 7/Week 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3ae600fab1cd1b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/ND week 7/Thursday/Triangular grids.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -54,7 +93,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -86,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 200
   },
   "right": {
     "id": "03198d569b8cf077",
@@ -102,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinStat/4.2 Moments and Characteristic Functions.md",
+                "file": "NumDiffDiff/ND week 7/Thursday/Triangular grids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinStat/4.2 Moments and Characteristic Functions.md",
+                "file": "NumDiffDiff/ND week 7/Thursday/Triangular grids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinStat/4.2 Moments and Characteristic Functions.md"
+                "file": "NumDiffDiff/ND week 7/Thursday/Triangular grids.md"
               }
             }
           }
@@ -164,17 +203,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c600ab2dd6f4c5d",
+  "active": "5d7e09c7d111af60",
   "lastOpenFiles": [
-    "NumDiffDiff/ND week 7/General discrete maximal principle.md",
-    "NumDiffDiff/ND week 7/Defintion of self-adjoint problems.md",
-    "LinStat/4.1 Distribution and density function.md",
-    "Untitled.canvas",
     "NumDiffDiff/ND week 7/Week 7.md",
-    "NumDiffDiff/ND week 7/Irregular grid.md",
-    "NumDiffDiff/ND week 7/Variable step size.md",
-    "NumDiffDiff/ND week 7/Self-adjoint problems.md",
-    "NumDiffDiff/ND week 7/Neumann, Robin, mixed BCs.md",
-    "Adjoint differential equation.md"
+    "NumDiffDiff/ND week 7/Thursday/Box-integration.md",
+    "NumDiffDiff/ND week 7/Thursday/Error and stability analysis.md",
+    "NumDiffDiff/ND week 7/Thursday/Untitled.md",
+    "NumDiffDiff/ND week 7/Thursday/FDMs through integration..md",
+    "Screenshots/Pasted image 20230215112744.png",
+    "NumDiffDiff/ND week 7/Tuesday/Neumann, Robin, mixed BCs.md",
+    "NumDiffDiff/ND week 7/Tuesday/General discrete maximal principle.md",
+    "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md",
+    "LinStat/4.2 Moments and Characteristic Functions.md"
   ]
 }

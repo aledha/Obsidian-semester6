@@ -7,7 +7,7 @@ $$\int_{\Omega}\nabla \cdot \vec{F} \quad \text{d}x \text{d}y=\oint_{\partial \O
 
 $\vec{n}$: outward unit normal
 $\partial \Omega$: piecewise $C^{1}$
-
+![[Pasted image 20230216163435.png|400]]
 ## Elliptic problem in divergence form
 
 $$-\mathcal{L}u=f\quad \text{in }\mathbb{\Omega}\tag{P}$$

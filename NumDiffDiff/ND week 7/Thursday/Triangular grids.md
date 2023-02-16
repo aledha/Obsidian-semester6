@@ -1,4 +1,5 @@
-Insert
+![[Pasted image 20230216163633.png]]
+![[Pasted image 20230216163646.png|500]]
 
 $$-\int_{K_{P}}\mathcal{L}u \quad \text{d}x \text{d}y \stackrel{DT}{=}-\sum\limits_{i=1}^{s}\int_{\gamma_{i}}a \partial_{n} u \quad \text{d}s=\int_{K_{P}}f \quad \text{d}x \text{d}y$$
 FDM/FVM:

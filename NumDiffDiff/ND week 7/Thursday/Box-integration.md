@@ -1,5 +1,5 @@
-(grid)
-(stencil)
+![[Pasted image 20230216163519.png|700]]
+![[Pasted image 20230216163537.png|700]]
 
 $$\begin{align*}
 \int_{K_{p}} f \quad \text{d}x \text{d}y &\stackrel{A=aI}{=}-\int_{\partial K_{P}}a \frac{\partial u}{\partial n} \quad \text{d}s\\
@@ -28,7 +28,7 @@ $$\alpha_{PQ}=a_{Q'} \frac{l_{Q}}{A_{P}h_{Q }} \quad , \qquad \alpha_{PP}= \sum\
 3. Neumann B.C.s or other 
 	1. Need equations for $U_{P}, \quad p\in \partial\mathbb{G}$
 	2. See figure:
-
+![[Pasted image 20230216163606.png|400]]
 
 $$\partial_{n}u+\alpha u=g \quad \text{in } \partial \Omega$$
 $$\begin{align*}

@@ -93,7 +93,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -203,17 +203,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d7e09c7d111af60",
+  "active": "c3ae600fab1cd1b6",
   "lastOpenFiles": [
-    "NumDiffDiff/ND week 7/Week 7.md",
     "NumDiffDiff/ND week 7/Thursday/Box-integration.md",
     "NumDiffDiff/ND week 7/Thursday/Error and stability analysis.md",
-    "NumDiffDiff/ND week 7/Thursday/Untitled.md",
     "NumDiffDiff/ND week 7/Thursday/FDMs through integration..md",
+    "NumDiffDiff/ND week 7/Thursday/Triangular grids.md",
+    "NumDiffDiff/ND week 7/Week 7.md",
+    "NumDiffDiff/ND week 7/Thursday/Untitled.md",
     "Screenshots/Pasted image 20230215112744.png",
     "NumDiffDiff/ND week 7/Tuesday/Neumann, Robin, mixed BCs.md",
     "NumDiffDiff/ND week 7/Tuesday/General discrete maximal principle.md",
-    "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md",
-    "LinStat/4.2 Moments and Characteristic Functions.md"
+    "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md"
   ]
 }

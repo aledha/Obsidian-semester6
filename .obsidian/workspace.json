@@ -8,65 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c600ab2dd6f4c5d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Screenshots/Pasted image 20230215112744.png"
-              }
-            }
-          },
-          {
-            "id": "eff48a197c28875b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NumDiffDiff/ND week 7/Week 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0626be507f8a8a9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NumDiffDiff/ND week 7/Week 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd6220b0c7541805",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NumDiffDiff/ND week 7/Week 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c3ae600fab1cd1b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinStat/4.2 Moments and Characteristic Functions.md",
+                "file": "Optimering/Week 7/Monday/KKT-conditions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a1bfc49a3b0d58c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimering/Week 7/Friday/Lecture 12.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +59,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -141,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinStat/4.2 Moments and Characteristic Functions.md",
+                "file": "Optimering/Week 7/Friday/Lecture 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinStat/4.2 Moments and Characteristic Functions.md",
+                "file": "Optimering/Week 7/Friday/Lecture 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinStat/4.2 Moments and Characteristic Functions.md"
+                "file": "Optimering/Week 7/Friday/Lecture 12.md"
               }
             }
           }
@@ -203,17 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3ae600fab1cd1b6",
+  "active": "9a1bfc49a3b0d58c",
   "lastOpenFiles": [
-    "LinStat/4.1 Distribution and density function.md",
+    "Optimering/Week 7/Friday/Second order optimality conditions.md",
+    "Optimering/Week 7/Friday/Lecture 12.md",
+    "Optimering/Week 7/Friday/Example of KKT.md",
+    "Linear Independance.md",
+    "Optimering/Week 7/Monday/KKT-conditions.md",
+    "Optimering/Week 7/Monday/Lecture 11.md",
+    "Optimering/Week 7/Monday/Linear independance constraint qualification.md",
+    "Optimering/Week 7/Monday/Farkas_ Lemma.md",
     "LinStat/4.2 Moments and Characteristic Functions.md",
-    "NumDiffDiff/ND week 7/Thursday/Triangular grids.md",
-    "NumDiffDiff/ND week 7/Thursday/Box-integration.md",
-    "NumDiffDiff/ND week 7/Thursday/Error and stability analysis.md",
-    "NumDiffDiff/ND week 7/Thursday/FDMs through integration..md",
-    "NumDiffDiff/ND week 7/Week 7.md",
-    "NumDiffDiff/ND week 7/Thursday/Untitled.md",
-    "Screenshots/Pasted image 20230215112744.png",
-    "NumDiffDiff/ND week 7/Tuesday/Neumann, Robin, mixed BCs.md"
+    "LinStat/4.1 Distribution and density function.md"
   ]
 }

@@ -8,7 +8,7 @@
 # Week 7
 [First slide](https://wiki.math.ntnu.no/_media/tma4180/2023v/lecture11.pdf)
 
-[[Constraint qualifications]]   
+[[Linear independance constraint qualification]]   
 LICQ   
 Farkas' Lemma   
 KKT-conditions   

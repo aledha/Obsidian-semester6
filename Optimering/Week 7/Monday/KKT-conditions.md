@@ -2,7 +2,7 @@
 Assume that $x^{*}$ is a local solution to (P) and the LICQ holds at $x^{*}$. 
 Then there exists a "Lagrange multiplier" 
 $$\lambda^{*}\in \mathbb{R}^{\xi \cup \mathcal{I}}$$
-Such that the KKT- conditionts holds:
+Such that the KKT- conditions holds:
 * $$\nabla _{x}\mathcal{L}(x^{*},\lambda^{*})=0$$
 * $$\begin{align*}
 	c_{i}(x^{*})&= 0 \quad\forall i\in \xi\\

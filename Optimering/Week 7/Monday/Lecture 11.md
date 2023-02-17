@@ -25,7 +25,7 @@ $$\begin{cases}
 
 Warning: this will be a heavy lecture
 
-[[Constraint qualifications]]   
+[[Linear independance constraint qualification]]   
 	-   ▶  When does the equality $T_Ω(x) = F_Ω(x)$ hold?
 	-  ▶  Linear independence constraint qualification (LICQ).
 [[LICQ]]   

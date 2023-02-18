@@ -3,12 +3,12 @@ Assume that $x^{*}$ is a point where the [[KKT-conditions]] holds with Lagrange 
 $$\mathcal{C}(x^{*},\lambda^{*})=\begin{cases}
 p\in \mathcal{F}_\Omega(x^{*}):\quad {\left\langle \nabla c_{i}(x^{*}),p \right\rangle}=0
 \end{cases}$$
-For all $i\in \mathcal{I}\invcup \mathcal{A}(x^{*})$ with $\lambda^{*}_{i}>0$
+For all $i\in \mathcal{I}\cap \mathcal{A}(x^{*})$ with $\lambda^{*}_{i}>0$
 Or
 $$p\in \mathcal{C}(x^{*},\lambda^{*})\quad\Leftrightarrow\quad \begin{cases}
 {\left\langle \nabla c_{i}(x^{*}),p\right\rangle}=0 \quad\forall\quad i\in \xi \\
-{\left\langle \nabla c_{i}(x^{*}),p\right\rangle}\ge0 \quad\forall\quad i\in \mathcal{I}\invcup \mathcal{A(x^{*})} \quad \text{with } \lambda^{*}_{i}=0\\
-{\left\langle \nabla c_{i}(x^{*}),p\right\rangle}=0 \quad\forall\quad i\in  \mathcal{I}\invcup \mathcal{A(x^{*})} \quad \text{with } \lambda^{*}_{i}>0
+{\left\langle \nabla c_{i}(x^{*}),p\right\rangle}\ge0 \quad\forall\quad i\in \mathcal{I}\cap \mathcal{A(x^{*})} \quad \text{with } \lambda^{*}_{i}=0\\
+{\left\langle \nabla c_{i}(x^{*}),p\right\rangle}=0 \quad\forall\quad i\in  \mathcal{I}\cap \mathcal{A(x^{*})} \quad \text{with } \lambda^{*}_{i}>0
 \end{cases}$$
 if $p\in \mathcal{C}(x^{*},\lambda^{*})$, then 
 $${\left\langle \nabla f(x^{*}),p \right\rangle}=\sum\limits_{i\in \xi \cup \mathcal{I}}\lambda^{*}_{i}{\left\langle \nabla c_{i}(x^{*}), p \right\rangle}=0$$

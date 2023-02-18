@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Week 7/Friday/Lecture 12.md",
+                "file": "Optimering/Week 7/Friday/Second order optimality conditions.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Week 7/Friday/Lecture 12.md",
+                "file": "Optimering/Week 7/Friday/Second order optimality conditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Week 7/Friday/Lecture 12.md",
+                "file": "Optimering/Week 7/Friday/Second order optimality conditions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Week 7/Friday/Lecture 12.md"
+                "file": "Optimering/Week 7/Friday/Second order optimality conditions.md"
               }
             }
           }
@@ -171,15 +171,15 @@
   },
   "active": "9a1bfc49a3b0d58c",
   "lastOpenFiles": [
-    "Optimering/Week 7/Friday/Second order optimality conditions.md",
-    "Optimering/Week 7/Friday/Lecture 12.md",
     "Optimering/Week 7/Friday/Example of KKT.md",
+    "Optimering/Week 7/Friday/Lecture 12.md",
+    "Optimering/Week 7/Friday/Second order optimality conditions.md",
+    "NumDiffDiff/ND week 7/Tuesday/Self-adjoint problems.md",
+    "NumDiffDiff/ND week 7/Tuesday/Variable step size.md",
+    "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md",
+    "NumDiffDiff/ND week 7/Tuesday/General discrete maximal principle.md",
+    "NumDiffDiff/ND week 7/Thursday/Triangular grids.md",
     "Linear Independance.md",
-    "Optimering/Week 7/Monday/KKT-conditions.md",
-    "Optimering/Week 7/Monday/Lecture 11.md",
-    "Optimering/Week 7/Monday/Linear independance constraint qualification.md",
-    "Optimering/Week 7/Monday/Farkas_ Lemma.md",
-    "LinStat/4.2 Moments and Characteristic Functions.md",
-    "LinStat/4.1 Distribution and density function.md"
+    "Optimering/Week 7/Monday/KKT-conditions.md"
   ]
 }

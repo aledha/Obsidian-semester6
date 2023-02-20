@@ -1,3 +1,4 @@
+=Linear independance constraint qualification
 ## Definition:
 Let $\Omega\in \mathbb{R}^d$ be given by the constraints
 $$\begin{cases}

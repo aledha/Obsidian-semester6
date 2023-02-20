@@ -1,5 +1,110 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "Axiom": {
+      "type": "Axiom",
+      "color": "248, 248, 255",
+      "icon": {
+        "name": "lock",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Axiom.",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Definition": {
+      "type": "Definition",
+      "color": "248, 248, 255",
+      "icon": {
+        "name": "book",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Definition.",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Theorem": {
+      "type": "Theorem",
+      "color": "248, 248, 255",
+      "icon": {
+        "name": "magic",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Theorem.",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Proposition": {
+      "type": "Proposition",
+      "color": "248, 248, 255",
+      "icon": {
+        "name": "calculator",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Proposition",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Axiom_Dark": {
+      "type": "Axiom",
+      "color": "0, 0, 0",
+      "icon": {
+        "name": "lock",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Axiom.",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Definition_Dark": {
+      "type": "Definition",
+      "color": "0, 0, 0",
+      "icon": {
+        "name": "book",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Definition.",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Theorem_Dark": {
+      "type": "Theorem",
+      "color": "0, 0, 0",
+      "icon": {
+        "name": "magic",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Theorem.",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Proposition_Dark": {
+      "type": "Proposition",
+      "color": "0, 0, 0",
+      "icon": {
+        "name": "calculator",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Proposition",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "9.2.1",
@@ -13,12 +118,12 @@
     "admonitions": true,
     "icons": true,
     "other": true,
-    "advanced": false
+    "advanced": true
   },
   "icons": [],
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
   "msDocConverted": false,
   "useSnippet": false,
-  "snippetPath": "custom-admonitions.92847c"
+  "snippetPath": "custom-admonitions.ff39ef"
 }

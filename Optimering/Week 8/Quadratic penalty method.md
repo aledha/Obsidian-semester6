@@ -45,7 +45,9 @@ $\Rightarrow\quad$ $Q(x,\mu)$ has no global solutions
 Assume that $f$ is coercive and continuous, and that 
 $c_{i}\quad i\in \xi$    are continuous.
 there exists $\hat x\in \mathbb{R}^{d}$ such that $c_{i}(\hat x)=0\quad i\in \xi$
-Let $\mu_{k}\to \infty$ and let $x_{k}$ be a gloval solution of $$\min_{x_{k}\in \mathbb{R}^{d}} Q(x,\mu_{k})$$
+Let $\mu_{k}\to \infty$ and let $x_{k}$ be a gloval solution of 
+$$\min_\limits{x_{k}\in \mathbb{R}^{d}} Q(x,\mu_{k})$$
+
 Then the sequence $x_{k}$ is bounded (it has a converging subsequence).
 Every accumulation point is a solution of $\text{min} f$ such that $c_{i}(x)=0\quad i\in \xi$.
 

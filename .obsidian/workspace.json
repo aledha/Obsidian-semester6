@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Week 8/Quadratic penalty method.md",
+                "file": "NumDiffDiff/ND week 7/Thursday/Box-integration.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Week 8/Quadratic penalty method.md",
+                "file": "NumDiffDiff/ND week 7/Thursday/Box-integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Week 8/Quadratic penalty method.md",
+                "file": "NumDiffDiff/ND week 7/Thursday/Box-integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Week 8/Quadratic penalty method.md"
+                "file": "NumDiffDiff/ND week 7/Thursday/Box-integration.md"
               }
             }
           }
@@ -183,9 +183,9 @@
   },
   "active": "12333468fcb8d97b",
   "lastOpenFiles": [
-    "Optimering/Week 8/Week 8.md",
     "Optimering/Week 8/Quadratic penalty method.md",
     "Optimering/Week 8/Slater's constraint qualification.md",
+    "Optimering/Week 8/Week 8.md",
     "Optimering/Week 7/Monday/LICQ.md",
     "Notes/Abelian Group.md",
     "Notes/Action of linear map repr under basis left-multiplication of matrix representation.md",

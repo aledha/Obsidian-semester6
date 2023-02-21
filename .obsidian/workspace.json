@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
+                "file": "Optimering/Week 7/Monday/KKT-conditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
+                "file": "Optimering/Week 7/Monday/KKT-conditions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md"
+                "file": "Optimering/Week 7/Monday/KKT-conditions.md"
               }
             }
           }
@@ -213,7 +212,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d7e09c7d111af60",
+  "active": "c3ae600fab1cd1b6",
   "lastOpenFiles": [
     "NumDiffDiff/Week 8/Method of characteristics.md",
     "NumDiffDiff/Week 8/ND Week 8.md",

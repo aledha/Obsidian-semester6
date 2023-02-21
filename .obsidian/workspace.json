@@ -20,31 +20,63 @@
             }
           },
           {
-            "id": "9a1bfc49a3b0d58c",
+            "id": "12333468fcb8d97b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Abelian iff inversion is a homomorphism.md",
+                "file": "NumDiffDiff/ND week 7/Tuesday/General discrete maximal principle.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "12333468fcb8d97b",
+            "id": "8a13c9c124b00611",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumDiffDiff/ND week 7/Thursday/Box-integration.md",
+                "file": "NumDiffDiff/Week 8/Hyperbolic equations.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c256828c6045ad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/Week 8/Method of characteristics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b59518516abd8188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3c83503819a19e4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -71,7 +103,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -103,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 224.5
   },
   "right": {
     "id": "03198d569b8cf077",
@@ -119,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/ND week 7/Thursday/Box-integration.md",
+                "file": "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/ND week 7/Thursday/Box-integration.md",
+                "file": "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/ND week 7/Thursday/Box-integration.md"
+                "file": "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md"
               }
             }
           }
@@ -181,17 +213,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12333468fcb8d97b",
+  "active": "5d7e09c7d111af60",
   "lastOpenFiles": [
-    "Optimering/Week 8/Quadratic penalty method.md",
-    "Optimering/Week 8/Slater's constraint qualification.md",
-    "Optimering/Week 8/Week 8.md",
-    "Optimering/Week 7/Monday/LICQ.md",
-    "Notes/Abelian Group.md",
-    "Notes/Action of linear map repr under basis left-multiplication of matrix representation.md",
-    "Notes/Absolutely Convergent Series.md",
-    "Notes/Abelian iff inversion is a homomorphism.md",
-    "Notes/Arbitrary intersection of linear subspaces is a linear subspace.md",
-    "Notes/Absolute complement of a set is a proper class.md"
+    "NumDiffDiff/Week 8/Method of characteristics.md",
+    "NumDiffDiff/Week 8/ND Week 8.md",
+    "NumDiffDiff/Week 8/Hyperbolic equations.md",
+    "NumDiffDiff/ND week 7/Tuesday/General discrete maximal principle.md",
+    "NumDiffDiff/ND week 7/Thursday/Error and stability analysis.md",
+    "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md",
+    "NumDiffDiff/ND week 7/Tuesday/Variable step size.md",
+    "NumDiffDiff/ND week 7/Tuesday/Defintion of self-adjoint problems.md",
+    "NumDiffDiff/ND week 7/Tuesday/Self-adjoint problems.md",
+    "NumDiffDiff/ND week 7/Tuesday/Neumann, Robin, mixed BCs.md"
   ]
 }

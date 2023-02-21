@@ -23,7 +23,7 @@ $$-\mathcal{L}_{h}U_{P}= \alpha_{PP}U_{P}- \sum\limits_{i=1}^{s}\alpha_{PQ _{i}}
 Want this to be an approx of (P).
 **Taylor:**
 $$-\mathcal{L}_{h}u_{P}=\alpha_{PP}u_{P}-\sum\limits_{i=1}^{s}\alpha_{PQ_{i}}u(P+h(\xi_{i},\eta_{i}))$$
-$$=\alpha_{PP}u_{P}-\sum\limits_{i=1}^{s}\alpha_{PQ_{i}}\left(u_{P}+ h(\xi_{i}u_{x}+\eta_{i}u_{y})_{P} + \frac{1}{2}h^{2}(\xi_{i}^{2}u_{xx}+2\eta_{i}\xi_{i}u_{xy}+\eta_{i}^{2}u_{yy})\right)+ O(h^{3})\tag{*}$$
+$$=\alpha_{PP}u_{P}-\sum\limits_{i=1}^{s}\alpha_{PQ_{i}}\left(u_{P}+ h(\xi_{i}u_{x}+\eta_{i}u_{y})_{P} + \frac{1}{2}h^{2}(\xi_{i}^{2}u_{xx}+2\eta_{i}\xi_{i}u_{xy}+\eta_{i}^{2}u_{yy})_{P}\right)+ O(h^{3})\tag{*}$$
 
 ### System of equations for irregular grids
 To have $\mathcal{L}_{h}u_{P}=\mathcal{L}u_{P}+ O(h^{r})$ need $r$ of the following equations to be true:

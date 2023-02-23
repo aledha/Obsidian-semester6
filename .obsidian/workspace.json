@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md",
+                "file": "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "16ec5c8353bd58e8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
               }
             }
           },
@@ -66,16 +76,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c3c83503819a19e4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md",
+                "file": "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md",
+                "file": "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md"
+                "file": "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md"
               }
             }
           }
@@ -212,17 +215,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3ae600fab1cd1b6",
+  "active": "16ec5c8353bd58e8",
   "lastOpenFiles": [
-    "NumDiffDiff/ND week 7/Thursday/Box-integration.md",
-    "NumDiffDiff/ND week 7/Tuesday/Variable step size.md",
-    "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md",
-    "Optimering/Week 7/Monday/KKT-conditions.md",
-    "NumDiffDiff/Week 8/Method of characteristics.md",
     "NumDiffDiff/Week 8/ND Week 8.md",
+    "NumDiffDiff/Week 8/Method of characteristics.md",
+    "Optimering/Week 7/Friday/Second order optimality conditions.md",
+    "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md",
+    "NumDiffDiff/ND week 7/Tuesday/Variable step size.md",
+    "NumDiffDiff/ND week 7/Thursday/Box-integration.md",
+    "Optimering/Week 7/Monday/KKT-conditions.md",
     "NumDiffDiff/Week 8/Hyperbolic equations.md",
     "NumDiffDiff/ND week 7/Tuesday/General discrete maximal principle.md",
-    "NumDiffDiff/ND week 7/Thursday/Error and stability analysis.md",
-    "NumDiffDiff/ND week 7/Tuesday/Defintion of self-adjoint problems.md"
+    "NumDiffDiff/ND week 7/Thursday/Error and stability analysis.md"
   ]
 }

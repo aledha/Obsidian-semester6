@@ -44,6 +44,30 @@
             }
           },
           {
+            "id": "4a6fede1afee1de5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/Exercises and projects/Project 1/1a).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d340bf622e310b1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/Exercises and projects/Project 1/1c).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "12333468fcb8d97b",
             "type": "leaf",
             "state": {
@@ -92,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/Week 8/Discretisation of the transport equation.md",
+                "file": "NumDiffDiff/Exercises and projects/Project 1/1c).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/Week 8/Discretisation of the transport equation.md",
+                "file": "NumDiffDiff/Exercises and projects/Project 1/1c).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/Week 8/Discretisation of the transport equation.md"
+                "file": "NumDiffDiff/Exercises and projects/Project 1/1c).md"
               }
             }
           }
@@ -229,10 +253,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d7e09c7d111af60",
+  "active": "d340bf622e310b1f",
   "lastOpenFiles": [
-    "NumDiffDiff/Week 8/Von Neumann stability.md",
+    "NumDiffDiff/Exercises and projects/Project 1/1a).md",
+    "NumDiffDiff/Exercises and projects/Project 1/1c).md",
     "NumDiffDiff/Week 8/Discretisation of the transport equation.md",
+    "NumDiffDiff/Exercises and projects/Project 1",
+    "NumDiffDiff/Week 8/Von Neumann stability.md",
     "NumDiffDiff/Week 8/ND Week 8.md",
     "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
     "NumDiffDiff/Week 8/Method of characteristics.md",

@@ -23,9 +23,23 @@
             "id": "16ec5c8353bd58e8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cfa2f4917addee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/Week 8/Discretisation of the transport equation.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,8 +146,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
+                "file": "NumDiffDiff/Week 8/Discretisation of the transport equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
+                "file": "NumDiffDiff/Week 8/Discretisation of the transport equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md"
+                "file": "NumDiffDiff/Week 8/Discretisation of the transport equation.md"
               }
             }
           }
@@ -215,9 +228,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16ec5c8353bd58e8",
+  "active": "1e3ca41686d301b2",
   "lastOpenFiles": [
+    "NumDiffDiff/Week 8/Von Neumann stability.md",
+    "NumDiffDiff/Week 8/Discretisation of the transport equation.md",
     "NumDiffDiff/Week 8/ND Week 8.md",
+    "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
     "NumDiffDiff/Week 8/Method of characteristics.md",
     "Optimering/Week 7/Friday/Second order optimality conditions.md",
     "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md",

@@ -4,7 +4,7 @@
 
 Conservation laws.    
 
-Discretisation of the transport equation. 
+[[Discretisation of the transport equation]]. 
 Consistency and von Neumann stability.
 
 

@@ -78,4 +78,9 @@ Can choose $\vec\phi_{0}$ freely
 Bondary conditions:
 $v_{1}=g_{0}\quad \vec v_{2}(1)=\vec g_{1}$
 Using $\vec{u}=P^{T}\vec{v}$:
-$$1/sq $$
+
+$$1/\sqrt{2} (u_1 +u_2)(0)=g_0, \quad 1/\sqrt{2}(u_1 -u_2)(1)=g_1$$
+BC at both sides, must satisfy (3)
+
+
+

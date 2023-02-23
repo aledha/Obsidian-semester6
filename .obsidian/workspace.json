@@ -146,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,7 +229,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e3ca41686d301b2",
+  "active": "5d7e09c7d111af60",
   "lastOpenFiles": [
     "NumDiffDiff/Week 8/Von Neumann stability.md",
     "NumDiffDiff/Week 8/Discretisation of the transport equation.md",

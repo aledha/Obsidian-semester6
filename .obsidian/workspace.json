@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Week 8/Penality and barrier methods.md",
+                "file": "NumDiffDiff/Exercises and projects/Project 1/1c).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ced87e960a42c06c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/Exercises and projects/Project 1/1c).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Week 8/Penality and barrier methods.md",
+                "file": "NumDiffDiff/Exercises and projects/Project 1/1c).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Week 8/Penality and barrier methods.md",
+                "file": "NumDiffDiff/Exercises and projects/Project 1/1c).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Week 8/Penality and barrier methods.md"
+                "file": "NumDiffDiff/Exercises and projects/Project 1/1c).md"
               }
             }
           }
@@ -205,16 +217,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7d78df5f036ada3",
+  "active": "ced87e960a42c06c",
   "lastOpenFiles": [
-    "Optimering/Week 8/Week 8.md",
+    "NumDiffDiff/Exercises and projects/Project 1/1a).md",
+    "NumDiffDiff/Exercises and projects/Project 1/1c).md",
+    "NumDiffDiff/Exercises and projects/Project 1/1d).md",
     "Optimering/Week 8/Penality and barrier methods.md",
+    "Optimering/Week 8/Week 8.md",
     "Optimering/Week 8/Augmented Lagrangian method.md",
     "Optimering/Week 8/Logarithmic Barrier methods.md",
     "Optimering/Week 7/Monday/Farkas_ Lemma.md",
     "Optimering/Week 8/Quadratic penalty method.md",
-    "NumDiffDiff/Exercises and projects/Project 1/1c).md",
-    "NumDiffDiff/Exercises and projects/Project 1/1a).md",
     "NumDiffDiff/Week 8/Discretisation of the transport equation.md",
     "NumDiffDiff/Exercises and projects/Project 1",
     "NumDiffDiff/Week 8/Von Neumann stability.md",

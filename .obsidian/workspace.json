@@ -49,67 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 1/1a).md",
+                "file": "Optimering/Week 8/Week 8.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d340bf622e310b1f",
+            "id": "c7d78df5f036ada3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 1/1c).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12333468fcb8d97b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NumDiffDiff/ND week 7/Tuesday/General discrete maximal principle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a13c9c124b00611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NumDiffDiff/Week 8/Hyperbolic equations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c256828c6045ad4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NumDiffDiff/Week 8/Method of characteristics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b59518516abd8188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
+                "file": "Optimering/Week 8/Penality and barrier methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 1/1c).md",
+                "file": "Optimering/Week 8/Penality and barrier methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 1/1c).md",
+                "file": "Optimering/Week 8/Penality and barrier methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 1/1c).md"
+                "file": "Optimering/Week 8/Penality and barrier methods.md"
               }
             }
           }
@@ -253,10 +205,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d340bf622e310b1f",
+  "active": "c7d78df5f036ada3",
   "lastOpenFiles": [
-    "NumDiffDiff/Exercises and projects/Project 1/1a).md",
+    "Optimering/Week 8/Week 8.md",
+    "Optimering/Week 8/Penality and barrier methods.md",
+    "Optimering/Week 8/Augmented Lagrangian method.md",
+    "Optimering/Week 8/Logarithmic Barrier methods.md",
+    "Optimering/Week 7/Monday/Farkas_ Lemma.md",
+    "Optimering/Week 8/Quadratic penalty method.md",
     "NumDiffDiff/Exercises and projects/Project 1/1c).md",
+    "NumDiffDiff/Exercises and projects/Project 1/1a).md",
     "NumDiffDiff/Week 8/Discretisation of the transport equation.md",
     "NumDiffDiff/Exercises and projects/Project 1",
     "NumDiffDiff/Week 8/Von Neumann stability.md",

@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 1/1c).md",
+                "file": "NumDiffDiff/Exercises and projects/Project 1/1d).md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 1/1c).md",
+                "file": "NumDiffDiff/Exercises and projects/Project 1/1d).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 1/1c).md",
+                "file": "NumDiffDiff/Exercises and projects/Project 1/1d).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 1/1c).md"
+                "file": "NumDiffDiff/Exercises and projects/Project 1/1d).md"
               }
             }
           }
@@ -219,9 +219,10 @@
   },
   "active": "ced87e960a42c06c",
   "lastOpenFiles": [
-    "NumDiffDiff/Exercises and projects/Project 1/1a).md",
     "NumDiffDiff/Exercises and projects/Project 1/1c).md",
+    "NumDiffDiff/Exercises and projects/Project 1/1a).md",
     "NumDiffDiff/Exercises and projects/Project 1/1d).md",
+    "NumDiffDiff/ND week 7/Tuesday/Variable step size.md",
     "Optimering/Week 8/Penality and barrier methods.md",
     "Optimering/Week 8/Week 8.md",
     "Optimering/Week 8/Augmented Lagrangian method.md",
@@ -236,7 +237,6 @@
     "NumDiffDiff/Week 8/Method of characteristics.md",
     "Optimering/Week 7/Friday/Second order optimality conditions.md",
     "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md",
-    "NumDiffDiff/ND week 7/Tuesday/Variable step size.md",
     "NumDiffDiff/ND week 7/Thursday/Box-integration.md",
     "Optimering/Week 7/Monday/KKT-conditions.md",
     "NumDiffDiff/Week 8/Hyperbolic equations.md",

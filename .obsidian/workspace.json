@@ -8,79 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3ae600fab1cd1b6",
+            "id": "06e2b2551ca41f7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
+                "file": "Optimering/Week 9/Quasi-Newton methods.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "16ec5c8353bd58e8",
+            "id": "541437baa09c53bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cfa2f4917addee1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NumDiffDiff/Week 8/Discretisation of the transport equation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a6fede1afee1de5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Optimering/Week 8/Week 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7d78df5f036ada3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 1/1c).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ced87e960a42c06c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 1/1d).md",
+                "file": "Optimering/Week 9/SR1-method.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 1/1d).md",
+                "file": "Optimering/Week 9/SR1-method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 1/1d).md",
+                "file": "Optimering/Week 9/SR1-method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 1/1d).md"
+                "file": "Optimering/Week 9/SR1-method.md"
               }
             }
           }
@@ -217,12 +169,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ced87e960a42c06c",
+  "active": "541437baa09c53bb",
   "lastOpenFiles": [
+    "Optimering/Week 9/Quasi-Newton methods.md",
+    "Optimering/Week 9/SR1-method.md",
     "NumDiffDiff/Exercises and projects/Project 1/1c).md",
-    "NumDiffDiff/Exercises and projects/Project 1/1a).md",
-    "NumDiffDiff/Exercises and projects/Project 1/1d).md",
     "NumDiffDiff/ND week 7/Tuesday/Variable step size.md",
+    "Optimering/Weekly topics.md",
+    "Optimering/Week 9/Chapter 5- Advanced methods for unconstrained optimization.md",
+    "Optimering/Week 9",
+    "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md",
+    "NumDiffDiff/ND week 7/Thursday/Box-integration.md",
+    "NumDiffDiff/Exercises and projects/Project 1/1d).md",
+    "NumDiffDiff/Exercises and projects/Project 1/1a).md",
     "Optimering/Week 8/Penality and barrier methods.md",
     "Optimering/Week 8/Week 8.md",
     "Optimering/Week 8/Augmented Lagrangian method.md",
@@ -236,8 +195,6 @@
     "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
     "NumDiffDiff/Week 8/Method of characteristics.md",
     "Optimering/Week 7/Friday/Second order optimality conditions.md",
-    "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md",
-    "NumDiffDiff/ND week 7/Thursday/Box-integration.md",
     "Optimering/Week 7/Monday/KKT-conditions.md",
     "NumDiffDiff/Week 8/Hyperbolic equations.md",
     "NumDiffDiff/ND week 7/Tuesday/General discrete maximal principle.md",

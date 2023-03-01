@@ -171,8 +171,9 @@
   },
   "active": "541437baa09c53bb",
   "lastOpenFiles": [
-    "Optimering/Week 9/Quasi-Newton methods.md",
+    "test.md",
     "Optimering/Week 9/SR1-method.md",
+    "Optimering/Week 9/Quasi-Newton methods.md",
     "NumDiffDiff/Exercises and projects/Project 1/1c).md",
     "NumDiffDiff/ND week 7/Tuesday/Variable step size.md",
     "Optimering/Weekly topics.md",
@@ -197,7 +198,6 @@
     "Optimering/Week 7/Friday/Second order optimality conditions.md",
     "Optimering/Week 7/Monday/KKT-conditions.md",
     "NumDiffDiff/Week 8/Hyperbolic equations.md",
-    "NumDiffDiff/ND week 7/Tuesday/General discrete maximal principle.md",
-    "NumDiffDiff/ND week 7/Thursday/Error and stability analysis.md"
+    "NumDiffDiff/ND week 7/Tuesday/General discrete maximal principle.md"
   ]
 }

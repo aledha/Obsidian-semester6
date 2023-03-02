@@ -30,9 +30,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f1d02b6c5957c5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/Week 9/Week 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06030cbc93548945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/Week 9/Implicit schemes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef4a596d747da5ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/Week 9/Dissipation and dispersion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5980b0e5ef6a35d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/Week 9/Hyperbolic system of PDEs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "217c0c54aea7b25e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/Week 9/Lex-Wendroff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -107,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Week 9/SR1-method.md",
+                "file": "NumDiffDiff/Week 9/Lex-Wendroff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Week 9/SR1-method.md",
+                "file": "NumDiffDiff/Week 9/Lex-Wendroff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Week 9/SR1-method.md"
+                "file": "NumDiffDiff/Week 9/Lex-Wendroff.md"
               }
             }
           }
@@ -169,10 +229,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "541437baa09c53bb",
+  "active": "217c0c54aea7b25e",
   "lastOpenFiles": [
-    "test.md",
+    "NumDiffDiff/Week 9/Hyperbolic system of PDEs.md",
+    "NumDiffDiff/Week 9/Lex-Wendroff.md",
+    "NumDiffDiff/Week 9/Week 9.md",
+    "NumDiffDiff/Week 9/Dissipation and dispersion.md",
+    "NumDiffDiff/Week 9/Implicit schemes.md",
+    "Screenshots/Pasted image 20230302122808.png",
+    "Screenshots/Pasted image 20230302122518.png",
+    "NumDiffDiff/Week 9",
     "Optimering/Week 9/SR1-method.md",
+    "test.md",
     "Optimering/Week 9/Quasi-Newton methods.md",
     "NumDiffDiff/Exercises and projects/Project 1/1c).md",
     "NumDiffDiff/ND week 7/Tuesday/Variable step size.md",
@@ -193,11 +261,6 @@
     "NumDiffDiff/Exercises and projects/Project 1",
     "NumDiffDiff/Week 8/Von Neumann stability.md",
     "NumDiffDiff/Week 8/ND Week 8.md",
-    "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
-    "NumDiffDiff/Week 8/Method of characteristics.md",
-    "Optimering/Week 7/Friday/Second order optimality conditions.md",
-    "Optimering/Week 7/Monday/KKT-conditions.md",
-    "NumDiffDiff/Week 8/Hyperbolic equations.md",
-    "NumDiffDiff/ND week 7/Tuesday/General discrete maximal principle.md"
+    "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md"
   ]
 }

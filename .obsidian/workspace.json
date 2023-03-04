@@ -85,24 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumDiffDiff/Week 9/Explicit and implicit schemes for transport equations.md",
+                "file": "Optimering/Week 9/Trust region methods.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "591de1ee89317f5f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -177,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/Week 9/Explicit and implicit schemes for transport equations.md",
+                "file": "Optimering/Week 9/Trust region methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/Week 9/Explicit and implicit schemes for transport equations.md",
+                "file": "Optimering/Week 9/Trust region methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/Week 9/Explicit and implicit schemes for transport equations.md"
+                "file": "Optimering/Week 9/Trust region methods.md"
               }
             }
           }
@@ -239,10 +229,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "591de1ee89317f5f",
+  "active": "217c0c54aea7b25e",
   "lastOpenFiles": [
-    "NumDiffDiff/Week 9/Week 9.md",
+    "Optimering/Week 9/Chapter 5- Advanced methods for unconstrained optimization.md",
+    "Optimering/Week 9/Trust region methods.md",
+    "Optimering/Week 9/DFP and BFGS method.md",
+    "Optimering/Week 9/Quasi-Newton methods.md",
+    "Optimering/Week 9/SR1-method.md",
+    "Untitled.md",
     "NumDiffDiff/Week 9/Explicit and implicit schemes for transport equations.md",
+    "NumDiffDiff/Week 9/Week 9.md",
     "NumDiffDiff/Week 9/Lex-Wendroff.md",
     "NumDiffDiff/Week 9/Hyperbolic system of PDEs.md",
     "NumDiffDiff/Week 9/Dissipation and dispersion.md",
@@ -250,13 +246,10 @@
     "Screenshots/Pasted image 20230302122808.png",
     "Screenshots/Pasted image 20230302122518.png",
     "NumDiffDiff/Week 9",
-    "Optimering/Week 9/SR1-method.md",
     "test.md",
-    "Optimering/Week 9/Quasi-Newton methods.md",
     "NumDiffDiff/Exercises and projects/Project 1/1c).md",
     "NumDiffDiff/ND week 7/Tuesday/Variable step size.md",
     "Optimering/Weekly topics.md",
-    "Optimering/Week 9/Chapter 5- Advanced methods for unconstrained optimization.md",
     "Optimering/Week 9",
     "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md",
     "NumDiffDiff/ND week 7/Thursday/Box-integration.md",
@@ -268,9 +261,6 @@
     "Optimering/Week 8/Logarithmic Barrier methods.md",
     "Optimering/Week 7/Monday/Farkas_ Lemma.md",
     "Optimering/Week 8/Quadratic penalty method.md",
-    "NumDiffDiff/Week 8/Discretisation of the transport equation.md",
-    "NumDiffDiff/Exercises and projects/Project 1",
-    "NumDiffDiff/Week 8/Von Neumann stability.md",
-    "NumDiffDiff/Week 8/ND Week 8.md"
+    "NumDiffDiff/Exercises and projects/Project 1"
   ]
 }

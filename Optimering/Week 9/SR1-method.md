@@ -5,7 +5,7 @@ Define
 $$B_{k+1}=B_{k}+\sigma vv^{T}$$
 With $v\in\mathbb{R}^{d}$ and $\sigma=\{\pm 1 \}$  in such a way that
 $$B_{k+1}s_{k}=y_{k}\tag{*}$$
-Remember that $s_{k}:=x_{k+1}-x_{k}$  and $\nabla f(x_{k+1})-\nabla f(x_{k})=y_{k}$
+Remember that $s_{k}:=x_{k+1}-x_{k}$  and $y_{k}:=\nabla f(x_{k+1})-\nabla f(x_{k})$
 
 Denote $ab^{T}= a\otimes b$ 
 $(*)$ implies that

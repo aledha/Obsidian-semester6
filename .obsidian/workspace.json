@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Week 9/Trust region methods.md",
+                "file": "Optimering/Week 9/Quasi-Newton methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Week 9/Trust region methods.md",
+                "file": "Optimering/Week 9/Quasi-Newton methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Week 9/Trust region methods.md"
+                "file": "Optimering/Week 9/Quasi-Newton methods.md"
               }
             }
           }
@@ -229,7 +229,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "217c0c54aea7b25e",
+  "active": "5d7e09c7d111af60",
   "lastOpenFiles": [
     "Optimering/Week 9/Chapter 5- Advanced methods for unconstrained optimization.md",
     "Optimering/Week 9/Trust region methods.md",

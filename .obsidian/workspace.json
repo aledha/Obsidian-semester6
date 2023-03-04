@@ -90,9 +90,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "591de1ee89317f5f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -229,7 +239,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "217c0c54aea7b25e",
+  "active": "591de1ee89317f5f",
   "lastOpenFiles": [
     "NumDiffDiff/Week 9/Week 9.md",
     "NumDiffDiff/Week 9/Explicit and implicit schemes for transport equations.md",

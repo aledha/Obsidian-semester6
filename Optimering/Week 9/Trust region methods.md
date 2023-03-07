@@ -9,3 +9,5 @@ For line search:
 * Choose some upper bound for the radius of a "trust region", on which you expect $m_{k}$ to be a good model of the function $f$.
 * Define $p_{k}$ as a solution of the constraint problem $\min_\limits{p}m_{k}(p) \quad\text{s.t.}\quad \left\lVert p \right\rVert\le \Delta$.
 * Define $x_{k+1}=x_{k}+p_{k}$.
+
+

@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Week 9/Quasi-Newton methods.md",
+                "file": "Optimering/Week 9/Trust region methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Week 9/Quasi-Newton methods.md",
+                "file": "Optimering/Week 9/Trust region methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Week 9/Quasi-Newton methods.md"
+                "file": "Optimering/Week 9/Trust region methods.md"
               }
             }
           }
@@ -229,12 +229,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d7e09c7d111af60",
+  "active": "217c0c54aea7b25e",
   "lastOpenFiles": [
+    "Optimering/Week 9/Quasi-Newton methods.md",
     "Optimering/Week 9/Chapter 5- Advanced methods for unconstrained optimization.md",
     "Optimering/Week 9/Trust region methods.md",
     "Optimering/Week 9/DFP and BFGS method.md",
-    "Optimering/Week 9/Quasi-Newton methods.md",
     "Optimering/Week 9/SR1-method.md",
     "Untitled.md",
     "NumDiffDiff/Week 9/Explicit and implicit schemes for transport equations.md",

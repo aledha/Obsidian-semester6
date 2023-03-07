@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2cd3e3fb4c74282d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Week 9/Trust region methods.md",
+                "file": "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Week 9/Trust region methods.md",
+                "file": "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Week 9/Trust region methods.md"
+                "file": "NumDiffDiff/Week 10/Weak formulation of PDEs.md"
               }
             }
           }
@@ -229,14 +241,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "217c0c54aea7b25e",
+  "active": "2cd3e3fb4c74282d",
   "lastOpenFiles": [
+    "NumDiffDiff/Week 10/Week 10.md",
+    "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
+    "NumDiffDiff/Week 10",
+    "Optimering/Week 9/Trust region methods.md",
     "Optimering/Week 9/Quasi-Newton methods.md",
     "Optimering/Week 9/Chapter 5- Advanced methods for unconstrained optimization.md",
-    "Optimering/Week 9/Trust region methods.md",
     "Optimering/Week 9/DFP and BFGS method.md",
     "Optimering/Week 9/SR1-method.md",
-    "Untitled.md",
     "NumDiffDiff/Week 9/Explicit and implicit schemes for transport equations.md",
     "NumDiffDiff/Week 9/Week 9.md",
     "NumDiffDiff/Week 9/Lex-Wendroff.md",
@@ -260,7 +274,6 @@
     "Optimering/Week 8/Augmented Lagrangian method.md",
     "Optimering/Week 8/Logarithmic Barrier methods.md",
     "Optimering/Week 7/Monday/Farkas_ Lemma.md",
-    "Optimering/Week 8/Quadratic penalty method.md",
     "NumDiffDiff/Exercises and projects/Project 1"
   ]
 }

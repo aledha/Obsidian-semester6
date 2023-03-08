@@ -76,3 +76,41 @@ Space of piecewise polynomials of order 1 associated to $\tau _{h}$
 	$$X_{h}^{1}=\{v\in C(\overline \Omega ): \quad v_{h}|_{K}\in \mathbb{P}_{1}\quad\forall\quad K\in \tau _{h} \}$$
 	where $\mathbb{P}_{1}$ is the space of first order polynomials
 	Note: $X_{h}^{1}$ is a vector space.
+		$u_{h}+v_{h}\in X_{h}^{1}\quad\implies\quad au_{h}+bv_{h}\in X_{h}^{1}$
+
+### Basis of $X_{h}^{1}$
+#insert subdivision triangle hats
+$$\phi _{i}(x)=\begin{cases} 
+\frac{x-x_{i-1}}{h_{i}} & x\in[x_{i-1},x_{i}) \\
+\frac{x_{i+1}-x}{h_{i+1}} & x\in (x_{i},x_{i+1}] \\
+0 & \text{else}
+\end{cases}$$
+for $i=1,\dots M-1$
+$$\phi _{0}(x)=\begin{cases}
+\frac{x_{1}-x}{h_{1}} & x\in[0,x_{1}] \\
+0 & \text{else}
+\end{cases}$$
+$$\phi _{M}(x)=\begin{cases}
+\frac{x-x_{M-1}}{h_{M}} & x\in[x_{M-1},x_{M}] \\
+0 & \text{else}
+\end{cases}$$
+#### Observation 1
+$\phi _{j}(x_{i})=\begin{cases} 1 & i=j \\ 0 & i≠j\end{cases}$
+and $\phi _{i}\ge0$,   and $\phi _{i}=0$  for $x\notin[x_{i-1},x_{i+1}]$ 
+$\implies\quad \text{supp }\phi _{i}=\{\overline{x: \phi _{i}≠0}\}\subset [x_{i-1},x_{i+1}]$ 
+
+### Lemma 1
+$$v_{h}\in X_{h}^{1}\quad\Leftrightarrow\quad v_{h}=\sum\limits_{i=1}^{M}c_{i}\phi _{i}(x)$$
+Where $c_{i}=v_{h}(x_{i})$.
+
+Proof:
+	Define $w_{h}(x):=\sum\limits_{i=1}^{M}v_{h}(x_{i})\phi _{i}(x)$
+	Then
+	$w_{h}(x_{k})=0+\dots+v_{h}(x_{k})\cdot 1+0=v_{h}(x_{k})\quad\forall\quad k$
+	$\quad\implies\quad w_{h}(x)=v_{h}(x)\quad\forall\quad x\in[0,1]$ since both piecewise linear. $\square$ 
+
+### Observation 2
+* $X_{h}^{1}\subset H^{1}(\Omega )$     ($v_{h}$ bounded, $\in L^{2}$,   $\nabla v_{h}$ piecewise constant, $\in L^{2}$)
+* $v_{h}\in X^{1}_{h}$,      $v_{h}(0)=0=v_{h}(1) \quad\implies\quad c_{0}=0=c_{M}$  
+	* $\quad\implies\quad v_{h}\in H_{0}^{1}(\Omega )$
+

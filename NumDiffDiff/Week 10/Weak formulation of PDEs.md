@@ -30,20 +30,39 @@ $$\int_{0}^{1}u_{x}v_{x}\text{ d}x=\int_{0}^{1}fv \text{ d}x \quad\forall\quad v
 
 
 # Multi dimension
-$$-\mathcal{L}u=f \quad \text{in } \Omega \in \mathbb{R}$$
+$$-\mathcal{L}u=f \quad \text{in } \Omega \in \mathbb{R}^{d}\tag{4}$$
 with $u=0$ on $\partial_{}\Omega$.
 With
 $$\mathcal{L}u=\sum\limits_{}^{}\partial_{i}(a_{ij} \partial_{_{j}})u=\nabla \cdot(A \nabla u)$$
 Integration by parts in multi-d
-$$\int_{\Omega }(\nabla \cdot \vec{G})\cdot v=\int_{\Omega }\nabla \cdot(\vec{G v})-\vec{G}\cdot \nabla v$$
+$$\int_{\Omega }(\nabla \cdot \vec{G})\cdot v=\int_{\Omega }(\nabla \cdot(\vec{G v})-\vec{G}\cdot \nabla v)$$
 	Since 
-	$(\partial_{{i}}G_{i})v=\partial_{i}(G_{i}v)-G_{i}\partial_{i}v$
+	$(\partial_{{i}}G_{i})v=\partial_{i}(G_{i}v)-G_{i}\partial_{i}v$                  (The product rule rewritten)
 	And $(\nabla \cdot\vec{G})\cdot v=\sum\limits_{i}^{}(\partial_{{i}}G_{i})v$
+	$\quad\Rightarrow\quad (\nabla \cdot \vec{G})\cdot v=\sum\limits_{i}^{}\partial_{i}(G_{i}v)-\sum\limits_{i}^{}G_{i}\partial_{i}v= \nabla (\vec{G}v)-\vec{G}\nabla v$ 
 
-So we get 
+So we have 
 $$\int_{\Omega} (\nabla \cdot \vec{G})\cdot v=-\int_\Omega \vec{G}\cdot \nabla v+\int_{\Omega }\nabla \cdot (\vec{G}v)$$
 We can also use the divergence theorem on the last term
-$$\int_{\Omega }\nabla \cdot (\vec{G}v)$$
-Now we take $(4)\cdot v$, take $\int_\Omega \text{ d}x$ and do integration by parts. (with $\vec{G}=-A \nabla u$)
-$$\Downarrow$$
-$$\int_{\Omega }A \nabla u \cdot \nabla v-\int_{\partial \Omega }A$$
+	$$\int_{\Omega} (\nabla \cdot \vec{G})\cdot v=-\int_\Omega \vec{G}\cdot \nabla v +\int_{\partial \Omega}\vec{G} \cdot v \cdot  \vec{n}$$
+Now we take $(4)\cdot v$, take $\int_\Omega \text{ d}x$ and do integration by parts. 
+$$\begin{align*}
+\int_{\Omega }(-\mathcal{L}u)\cdot v &= \int_{\Omega }fv\\
+\int_{\Omega }(-\nabla \cdot (A \nabla u))\cdot v&= \int_{\Omega }fv
+\end{align*}$$
+$$\Downarrow \qquad  (\vec{G}=-A \nabla u)$$
+$$\int_{\Omega }A \nabla u \cdot \nabla v-\int_{\partial \Omega }A \nabla u \cdot v \cdot \vec{n}=\int_{\Omega }fv$$
+	If we choose   $v|_{\partial \Omega }=0 \quad\Rightarrow\quad \int_{\partial \Omega }A \nabla u \cdot v \cdot \vec{n}=0$ 
+So we finally get
+$$\int_{\Omega }A \nabla u \cdot \nabla v=\int_{\Omega }fv$$
+
+### Definition 2: Bilinear form
+$$a(u,v)=\int_{\Omega }(-Lu)v \qquad \text{for }u,v\in H_{0}^{1}(\Omega )\tag{5}$$
+#### Example
+* $(1)\quad\Rightarrow\quad a(u,v)=\int_{0}^{1}u_{x}v_{x}\text{ d}x$
+* $(4)\quad\Rightarrow\quad a(u,v)=\int_{\Omega } A \nabla u \cdot \nabla v \text{ d}x$
+
+## Definition 3:
+$u\in H^{1}_{0}(\Omega )$ is a weak solution of $(4)$ if 
+$$a(u,v)=F(v):=\int_{\Omega }fv \qquad\forall\quad v\in H_{0}^{1}(\Omega )\tag{6}$$
+Now $F(v)$ is a linear functional on the Hilbert spave $H_{0}^{1}(0,1)$

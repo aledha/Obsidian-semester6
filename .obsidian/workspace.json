@@ -97,7 +97,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
+                "file": "NumDiffDiff/Week 10/The Galerkin method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce49b31ab75a2ea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/Week 10/Some functional analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdefd6c91b6e735e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/Week 10/The Galerkin method.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
+                "file": "NumDiffDiff/Week 10/The Galerkin method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
+                "file": "NumDiffDiff/Week 10/The Galerkin method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/Week 10/Weak formulation of PDEs.md"
+                "file": "NumDiffDiff/Week 10/The Galerkin method.md"
               }
             }
           }
@@ -241,10 +265,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cd3e3fb4c74282d",
+  "active": "5d7e09c7d111af60",
   "lastOpenFiles": [
-    "NumDiffDiff/Week 10/Week 10.md",
+    "Screenshots/Pasted image 20230308132750.png",
     "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
+    "NumDiffDiff/Week 10/The Galerkin method.md",
+    "NumDiffDiff/Week 10/Some functional analysis.md",
+    "Screenshots/Pasted image 20230308121914.png",
+    "NumDiffDiff/Week 10/Week 10.md",
     "NumDiffDiff/Week 10",
     "Optimering/Week 9/Trust region methods.md",
     "Optimering/Week 9/Quasi-Newton methods.md",
@@ -271,9 +299,6 @@
     "NumDiffDiff/Exercises and projects/Project 1/1a).md",
     "Optimering/Week 8/Penality and barrier methods.md",
     "Optimering/Week 8/Week 8.md",
-    "Optimering/Week 8/Augmented Lagrangian method.md",
-    "Optimering/Week 8/Logarithmic Barrier methods.md",
-    "Optimering/Week 7/Monday/Farkas_ Lemma.md",
     "NumDiffDiff/Exercises and projects/Project 1"
   ]
 }

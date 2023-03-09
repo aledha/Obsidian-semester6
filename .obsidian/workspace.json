@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Week 10/Exact solution of the trust region problem.md",
+                "file": "NumDiffDiff/Week 10/The Galerkin method.md",
                 "mode": "source",
                 "source": false
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Week 10/Exact solution of the trust region problem.md",
+                "file": "NumDiffDiff/Week 10/The Galerkin method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Week 10/Exact solution of the trust region problem.md",
+                "file": "NumDiffDiff/Week 10/The Galerkin method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Week 10/Exact solution of the trust region problem.md"
+                "file": "NumDiffDiff/Week 10/The Galerkin method.md"
               }
             }
           }
@@ -291,16 +291,16 @@
   },
   "active": "7266a3d1dbf841a5",
   "lastOpenFiles": [
-    "Optimering/Week 9/Trust region methods.md",
+    "NumDiffDiff/Week 10/Some functional analysis.md",
+    "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
     "Optimering/Week 10/Exact solution of the trust region problem.md",
+    "Optimering/Week 9/Trust region methods.md",
     "Optimering/Week 10/Week 10.md",
     "Optimering/Week 9/Chapter 5- Advanced methods for unconstrained optimization.md",
     "NumDiffDiff/Week 10/A FEM for 1d poisson.md",
     "Optimering/Week 10",
     "NumDiffDiff/Week 10/The Galerkin method.md",
     "Screenshots/Pasted image 20230308132750.png",
-    "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
-    "NumDiffDiff/Week 10/Some functional analysis.md",
     "Screenshots/Pasted image 20230308121914.png",
     "NumDiffDiff/Week 10/Week 10.md",
     "NumDiffDiff/Week 10",

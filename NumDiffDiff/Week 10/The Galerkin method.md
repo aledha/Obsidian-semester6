@@ -42,7 +42,7 @@ $V=H^{1}_{0}$,     $V_{h}=\text{span}\{\text{ sin}(i \pi x) \}_{i=1}^{n}, \quad 
 	a(\phi _{j},\phi _{i})&= \int_{0}^{1}\phi _{j}'\phi _{i}' \text{ d}x\\
 	&=  \int_{0}^{1}j \pi \text{ cos}(j \pi x) i \pi \text{ cos}(i \pi x)\text{ d}x\\
 	&= \begin{cases}
-	j^{2}\pi ^{2} \cdot \frac{1}{2 \pi }  & \text{for }i=j\\
+	j^{2}\pi ^{2} \cdot \frac{1}{2  }  & \text{for }i=j\\
 	0 & \text{else}
 	\end{cases}
 	\end{align*}$$

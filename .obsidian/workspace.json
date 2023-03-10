@@ -189,7 +189,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#insert",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -291,15 +291,16 @@
   },
   "active": "7266a3d1dbf841a5",
   "lastOpenFiles": [
-    "NumDiffDiff/Week 10/Some functional analysis.md",
+    "Notes/Basis (Linear Algebra).md",
+    "NumDiffDiff/Week 10/A FEM for 1d poisson.md",
+    "NumDiffDiff/Week 10/The Galerkin method.md",
     "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
+    "NumDiffDiff/Week 10/Some functional analysis.md",
     "Optimering/Week 10/Exact solution of the trust region problem.md",
     "Optimering/Week 9/Trust region methods.md",
     "Optimering/Week 10/Week 10.md",
     "Optimering/Week 9/Chapter 5- Advanced methods for unconstrained optimization.md",
-    "NumDiffDiff/Week 10/A FEM for 1d poisson.md",
     "Optimering/Week 10",
-    "NumDiffDiff/Week 10/The Galerkin method.md",
     "Screenshots/Pasted image 20230308132750.png",
     "Screenshots/Pasted image 20230308121914.png",
     "NumDiffDiff/Week 10/Week 10.md",
@@ -324,7 +325,6 @@
     "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md",
     "NumDiffDiff/ND week 7/Thursday/Box-integration.md",
     "NumDiffDiff/Exercises and projects/Project 1/1d).md",
-    "NumDiffDiff/Exercises and projects/Project 1/1a).md",
     "NumDiffDiff/Exercises and projects/Project 1"
   ]
 }

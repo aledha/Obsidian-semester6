@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b49fdf2818a0c29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/Week 10/The Galerkin method.md",
+                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/Week 10/The Galerkin method.md",
+                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/Week 10/The Galerkin method.md"
+                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md"
               }
             }
           }
@@ -156,10 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7266a3d1dbf841a5",
+  "active": "5d7e09c7d111af60",
   "lastOpenFiles": [
-    "NumDiffDiff/Week 10/A FEM for 1d poisson.md",
     "NumDiffDiff/Week 10/The Galerkin method.md",
+    "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
+    "NumDiffDiff/Exercises and projects/Project 2",
+    "NumDiffDiff/Week 10/A FEM for 1d poisson.md",
     "Optimering/Week 10/More constrained problems.md",
     "Optimering/Week 10/Week 10.md",
     "Optimering/Week 10/Non-linear least squares problems.md",
@@ -191,7 +206,6 @@
     "NumDiffDiff/ND week 7/Tuesday/Variable step size.md",
     "Optimering/Weekly topics.md",
     "Optimering/Week 9",
-    "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md",
     "NumDiffDiff/Exercises and projects/Project 1"
   ]
 }

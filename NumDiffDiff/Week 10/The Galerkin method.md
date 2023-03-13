@@ -62,8 +62,8 @@ Need a more precise definition of $X_{h}^{1}$ and a basis to use $(1)$.
 
 ## The space $X_{h}^{1}(\Omega )$
 We use now $\Omega =[0,1]$
-#insert subdivision
-![[Pasted image 20230308132750.png|700]]
+![[Pasted image 20230313154502.png|500]]
+
 Partition: $0=x_{0},x_{1}<\dots<x_{M}=1$
 $h_{i}:= x_{i}-x_{i-1}$
 Element: $K_{i}:=(x_{i-1},x_{i}), \quad i=1,\dots,M$
@@ -79,7 +79,7 @@ Space of piecewise polynomials of order 1 associated to $\tau _{h}$
 		$u_{h}+v_{h}\in X_{h}^{1}\quad\implies\quad au_{h}+bv_{h}\in X_{h}^{1}$
 
 ### Basis of $X_{h}^{1}$
-#insert subdivision triangle hats
+![[Pasted image 20230313154523.png|500]]
 $$\phi _{i}(x)=\begin{cases} 
 \frac{x-x_{i-1}}{h_{i}} & x\in[x_{i-1},x_{i}) \\
 \frac{x_{i+1}-x}{h_{i+1}} & x\in (x_{i},x_{i+1}] \\

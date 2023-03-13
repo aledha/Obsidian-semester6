@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "065efaf31edd05f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimering/Week 10/Linear programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d8b18abb57ade15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimering/Week 11/Active set method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
+                "file": "Optimering/Week 11/Active set method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
+                "file": "Optimering/Week 11/Active set method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/Week 10/Weak formulation of PDEs.md"
+                "file": "Optimering/Week 11/Active set method.md"
               }
             }
           }
@@ -169,19 +192,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b49fdf2818a0c29",
+  "active": "1e3ca41686d301b2",
   "lastOpenFiles": [
-    "NumDiffDiff/Week 10/Some functional analysis.md",
+    "Optimering/Week 11/Week 11.md",
+    "Optimering/Week 11/Quadratic programming.md",
+    "Optimering/Week 11/Active set method.md",
+    "Optimering/Week 10/Non-linear least squares problems.md",
+    "Optimering/Week 10/Exact solution of the trust region problem.md",
     "NumDiffDiff/Week 10/The Galerkin method.md",
+    "Pasted image 20230313154523.png",
+    "Pasted image 20230313154502.png",
+    "NumDiffDiff/Week 10/Some functional analysis.md",
+    "Optimering/Week 10/Linear programming.md",
+    "Optimering/Week 11/SQP method for equality constraints.md",
+    "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
+    "Optimering/Week 11",
     "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
     "NumDiffDiff/Exercises and projects/Project 2",
     "NumDiffDiff/Week 10/A FEM for 1d poisson.md",
-    "Optimering/Week 10/More constrained problems.md",
     "Optimering/Week 10/Week 10.md",
-    "Optimering/Week 10/Non-linear least squares problems.md",
-    "Optimering/Week 10/Exact solution of the trust region problem.md",
     "Notes/Basis (Linear Algebra).md",
-    "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
     "Optimering/Week 9/Trust region methods.md",
     "Optimering/Week 9/Chapter 5- Advanced methods for unconstrained optimization.md",
     "Optimering/Week 10",
@@ -197,14 +227,9 @@
     "NumDiffDiff/Week 9/Lex-Wendroff.md",
     "NumDiffDiff/Week 9/Hyperbolic system of PDEs.md",
     "NumDiffDiff/Week 9/Dissipation and dispersion.md",
-    "NumDiffDiff/Week 9/Implicit schemes.md",
     "Screenshots/Pasted image 20230302122808.png",
     "Screenshots/Pasted image 20230302122518.png",
     "NumDiffDiff/Week 9",
-    "test.md",
-    "NumDiffDiff/Exercises and projects/Project 1/1c).md",
-    "NumDiffDiff/ND week 7/Tuesday/Variable step size.md",
-    "Optimering/Weekly topics.md",
     "Optimering/Week 9",
     "NumDiffDiff/Exercises and projects/Project 1"
   ]

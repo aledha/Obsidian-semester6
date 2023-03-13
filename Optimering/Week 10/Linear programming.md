@@ -67,3 +67,40 @@ denote $A_{B}:=\{a_{i} \}_{i\in B}$ and  $b_{B}=\{b_{i} \}_{i\in B}$.
 The vertices of $P$ are on the form
 $$x_{B}:=A_{B}^{-1}b_{B}$$
 and satisfy $Ax_{b}\ge b$.
+
+## Definition: Standard form
+A linear programme is in *standard form* if it is of the form
+$$\min_\limits{}c^{T}x \quad\text{s.t.}\quad \begin{align*}
+Ax&=  b\\
+x&\ge 0
+\end{align*}
+$$
+Note: If we have a problem in standard form, then the feasible polyhedron cannot contain any lines
+$\quad\implies\quad$ all the minimal faces are vertices.
+$\quad\implies\quad$ If the problem has a solution, there exists a vertex that is a solution.
+
+One can show that every linear programme can be rewritten in standard form (possibly by increasing the number of variables).
+
+### Example
+Continuing the same problem, e.g. for $A\in \mathbb{R}^{d \times m}$
+$$\min_\limits{x}c^{T}x \quad\text{s.t.}\quad Ax\ge b$$
+First, introduce slack variable $s\in \mathbb{R}^{m}\quad\implies\quad$ rewrite 
+$$Ax\ge b \quad \to \quad \begin{align*}
+Ax-s&= b\\
+s&\ge 0
+\end{align*}$$
+Then write $x= x^{+}-x^{-}$, with $\begin{cases}x^{+}\ge0 \\ x^{-}\ge0\end{cases}$
+$$\implies\quad c^{T}x=c^{T}x^{+}-c^{T}x^{-}$$
+And $Ax=Ax^{+}-Ax^{-}$. The problem then becomes
+$$\min_\limits{x^{+},x^{-},s}c^{T}x^{+}-c^{T}x^{-} \quad\text{s.t.}\quad \begin{align*}
+Ax^{+}-Ax^{-}-s&= b\\
+s,x^{+},x^{-}\ge0
+\end{align*}$$
+Rewrite for simplicity, 
+$$\min_\limits{\hat x}\hat c^{T}\hat x \quad\text{s.t.}\quad \begin{align*}
+\hat A\hat x&= b\\
+\hat x&\ge 0
+\end{align*}$$
+With $\hat x =\begin{bmatrix}x^{+} \\ x^{-} \\ s & \end{bmatrix}\in \mathbb{R}^{2d+ m}$
+$\hat c= \begin{bmatrix}c \\ -c \\ 0\end{bmatrix}\in \mathbb{R}^{2d + m}$  and
+$\hat A = \begin{bmatrix}A & -A & -I\end{bmatrix}$

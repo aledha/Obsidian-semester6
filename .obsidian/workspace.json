@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
+                "file": "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
+                "file": "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
+                "file": "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md"
+                "file": "NumDiffDiff/Week 10/Weak formulation of PDEs.md"
               }
             }
           }
@@ -169,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d7e09c7d111af60",
+  "active": "9b49fdf2818a0c29",
   "lastOpenFiles": [
+    "NumDiffDiff/Week 10/Some functional analysis.md",
     "NumDiffDiff/Week 10/The Galerkin method.md",
     "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
     "NumDiffDiff/Exercises and projects/Project 2",
@@ -181,7 +182,6 @@
     "Optimering/Week 10/Exact solution of the trust region problem.md",
     "Notes/Basis (Linear Algebra).md",
     "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
-    "NumDiffDiff/Week 10/Some functional analysis.md",
     "Optimering/Week 9/Trust region methods.md",
     "Optimering/Week 9/Chapter 5- Advanced methods for unconstrained optimization.md",
     "Optimering/Week 10",

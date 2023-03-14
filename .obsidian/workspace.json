@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Week 8/Slater's constraint qualification.md",
+                "file": "NumDiffDiff/Week 10/Some functional analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Week 8/Slater's constraint qualification.md",
+                "file": "NumDiffDiff/Week 10/Some functional analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Week 8/Slater's constraint qualification.md",
+                "file": "NumDiffDiff/Week 10/Some functional analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Week 8/Slater's constraint qualification.md"
+                "file": "NumDiffDiff/Week 10/Some functional analysis.md"
               }
             }
           }
@@ -219,6 +219,7 @@
   },
   "active": "251eee41e48968dc",
   "lastOpenFiles": [
+    "Optimering/Week 8/Slater's constraint qualification.md",
     "Optimering/Week 7/Monday/KKT-conditions.md",
     "Optimering/Week 8/Augmented Lagrangian method.md",
     "NumDiffDiff/Week 11/Week 11.md",
@@ -253,7 +254,6 @@
     "NumDiffDiff/Week 10",
     "Optimering/Week 9/Quasi-Newton methods.md",
     "Optimering/Week 9/DFP and BFGS method.md",
-    "Optimering/Week 9/SR1-method.md",
     "Screenshots/Pasted image 20230302122808.png",
     "Screenshots/Pasted image 20230302122518.png",
     "NumDiffDiff/Week 9",

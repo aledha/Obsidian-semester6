@@ -23,7 +23,7 @@ Note:
 $H^{k}(\Omega )$ are *Hilbert spaces* with corresponding inner products
 $${\left\langle u \text{ , } v \right\rangle}_{H^{k}(\Omega )}=\int_{\Omega }uv+ \int_{\Omega }\nabla u \cdot \nabla v + \ldots + \int_{\Omega }\nabla ^{k}u \cdot \nabla ^{k}v$$
 And norm 
-$$\lVert u \rVert_{H^{k}(\Omega )}^{2}=\lVert u \rVert_{k}^{2}=\lVert u \rVert_{L^{2}}+\lVert \nabla u \rVert_{L^{2}}^{2}+\ldots+ \lVert \nabla ^{k}u \rVert^{2}_{L^2}$$
+$$\lVert u \rVert_{H^{k}(\Omega )}^{2}=\lVert u \rVert_{k}^{2}=\lVert u \rVert^{2}_{L^{2}}+\lVert \nabla u \rVert_{L^{2}}^{2}+\ldots+ \lVert \nabla ^{k}u \rVert^{2}_{L^2}$$
 $$H_{0}^{1}=\{ f\in H^{1}(\Omega ): \quad \text{"}f=0 \text{ on } \partial_{}\Omega \text{"}$$
 Such that any $\int_{\partial \Omega } f =0$
 

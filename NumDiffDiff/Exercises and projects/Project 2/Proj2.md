@@ -58,16 +58,19 @@ Integrating the left-hand side by parts and simplifying, we obtain:
 
 $$\left[ aN_i'(x)N_j(x) \right]_{x_1}^{x_2} + \int_{x_1}^{x_2} a N_i'(x)N_j'(x) dx + \left[ b N_i(x) N_j(x) \right]_{x_1}^{x_2} + \int_{x_1}^{x_2} c N_i(x)N_j(x) dx = \int_{x_1}^{x_2} N_i(x)f(x)dx$$
 
-We can write this in matrix form as:
 
-$$\begin{bmatrix} a/h & -a/h \ -a/h & a/h \end{bmatrix} \begin{bmatrix} u_1 \ u_2 \end{bmatrix} + \begin{bmatrix} b/2 & -b/2 \ -b/2 & b/2 \end{bmatrix} \begin{bmatrix} u_1 \ u_2 \end{bmatrix} + \begin{bmatrix} c/3 & c/6 \ c/6 & c/3 \end{bmatrix} \begin{bmatrix} u_1 \ u_2 \end{bmatrix} = \begin{bmatrix} \int_{x_1}^{x_2} N_1(x)f(x)dx \ \int_{x_1}^{x_2} N_2(x)f(x)dx \end{bmatrix}$$
 
-This gives us the elemental stiffness matrix $K_e$ and load vector $f_e$ as:
 
-$$K_e = \frac{1}{h}\begin{bmatrix} a & -a \ -a & a \end{bmatrix} + \frac{1}{2}\begin{bmatrix} b & -b \ -b & b \end{bmatrix} + \frac{1}{3}\begin{bmatrix} c & c/2 \ c/2 & c \end{bmatrix}$$
+## 2d)
 
-$$f_e = \begin{bmatrix} \int_{x_1}^{x_2} N_1(x)f(x)dx \ \int_{x_1}^{x_2} N_2(x)f(x)dx \end{bmatrix}$$
-
-We can assemble these elemental matrices into a
-
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![alexander hatle](https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAGNmyxZ2A7CU69hoZV8pRDiCBanWFB1QUcnqA_AsQa_X%3Ds96-c&w=64&q=75)
+$$w_{1}=\begin{cases}
+2x & \quad\text{for }x \in \left(0, \frac{1}{2}\right) \\
+2(1-x)  & \quad\text{for }x \in \left(\frac{1}{2},1\right)
+\end{cases}$$
+$$\begin{align*}
+f&= -aw_{xx}+bw_{x}+cu\\
+&= \begin{cases}
+2b+2cx & \quad\text{for }x \in \left(0, \frac{1}{2}\right)\\
+-2b +2c(1-x) & \quad\text{for }x\in \left(\frac{1}{2},1\right)
+\end{cases}
+\end{align*}$$

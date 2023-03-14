@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumDiffDiff/Week 10/Some functional analysis.md",
+                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/Week 10/Some functional analysis.md",
+                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/Week 10/Some functional analysis.md",
+                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/Week 10/Some functional analysis.md"
+                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md"
               }
             }
           }
@@ -219,6 +219,7 @@
   },
   "active": "251eee41e48968dc",
   "lastOpenFiles": [
+    "NumDiffDiff/Week 10/Some functional analysis.md",
     "Optimering/Week 8/Slater's constraint qualification.md",
     "Optimering/Week 7/Monday/KKT-conditions.md",
     "Optimering/Week 8/Augmented Lagrangian method.md",
@@ -237,7 +238,6 @@
     "NumDiffDiff/Week 10/The Galerkin method.md",
     "Screenshots/Pasted image 20230313154523.png",
     "Screenshots/Pasted image 20230313154502.png",
-    "NumDiffDiff/Week 10/Some functional analysis.md",
     "Optimering/Week 10/Linear programming.md",
     "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
     "Optimering/Week 11",

@@ -57,3 +57,4 @@ which we already know how to solve.
 	$W_{0}\supset \xi$   
 	And add/remove indicies until we have found the solution
 Algorithm in [[Active set method]]
+

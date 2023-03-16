@@ -25,3 +25,12 @@ $$\phi _{i}(x)=\begin{cases}
 0  & \quad \text{elsewhere},
 \end{cases}$$
 where $x_{i}$ is nodal point number $i$, and $h_{i}=x_{i}-x_{i-1}$.
+
+
+## Questions
+* 2b: $H^1$ and $L^{2}$norm on error
+	* Solution as piecewise linear function, tak difference and then integrate?
+	* For gradient term in $\lVert \cdot  \rVert_{H^{1}}$, solution is piecewise constant?
+* 2d: non-smooth solutions
+	* Why is there a gradient term in $F$? Why not just piecewise?
+	* How to compute?

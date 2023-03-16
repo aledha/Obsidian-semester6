@@ -158,7 +158,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,13 +241,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e3ca41686d301b2",
+  "active": "20783250e35ffddb",
   "lastOpenFiles": [
+    "NumDiffDiff/Exercises and projects/Project 2/Proj2 scribbles.md",
+    "NumDiffDiff/Week 11/P1 FEM in 1d-complication.md",
     "Screenshots/Pasted image 20230316124831.png",
     "NumDiffDiff/Week 11/P1 FEM in 1d.md",
-    "NumDiffDiff/Week 11/P1 FEM in 1d-complication.md",
     "NumDiffDiff/Week 11/Week 11.md",
-    "NumDiffDiff/Exercises and projects/Project 2/Proj2 scribbles.md",
     "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
     "NumDiffDiff/Week 10/Some functional analysis.md",
     "Optimering/Week 8/Slater's constraint qualification.md",

@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
+                "file": "Optimering/Week 11/SQP method for equality constraints.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
+                "file": "Optimering/Week 11/SQP method for equality constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
+                "file": "Optimering/Week 11/SQP method for equality constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md"
+                "file": "Optimering/Week 11/SQP method for equality constraints.md"
               }
             }
           }
@@ -244,27 +244,27 @@
   "active": "8de52b52a038dc19",
   "lastOpenFiles": [
     "NumDiffDiff/Exercises and projects/Project 2/Proj2 scribbles.md",
+    "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
+    "Optimering/Week 7/Monday/KKT-conditions.md",
+    "Optimering/Week 11/SQP method for equality constraints.md",
+    "Optimering/Week 11/Week 11.md",
+    "Optimering/Week 11/Active set method.md",
+    "Optimering/Week 11/Quadratic programming.md",
+    "NumDiffDiff/Week 11/P1 FEM in 1d-complication.md",
+    "NumDiffDiff/Week 10/Some functional analysis.md",
     "NumDiffDiff/Week 11/P1 FEM in 1d.md",
     "Optimering/Week 10/Exact solution of the trust region problem.md",
     "Optimering/Week 9/Trust region methods.md",
     "Optimering/Week 10/Week 10.md",
     "Optimering/Week 9/Chapter 5- Advanced methods for unconstrained optimization.md",
-    "Optimering/Week 11/Week 11.md",
-    "NumDiffDiff/Week 11/P1 FEM in 1d-complication.md",
     "Screenshots/Pasted image 20230316124831.png",
     "NumDiffDiff/Week 11/Week 11.md",
-    "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
-    "NumDiffDiff/Week 10/Some functional analysis.md",
     "Optimering/Week 8/Slater's constraint qualification.md",
-    "Optimering/Week 7/Monday/KKT-conditions.md",
     "Optimering/Week 8/Augmented Lagrangian method.md",
     "NumDiffDiff/Week 11/General boundary conditions.md",
-    "Optimering/Week 11/Quadratic programming.md",
-    "Optimering/Week 11/SQP method for equality constraints.md",
     "NumDiffDiff/Week 11/Neumann and mixed BCs.md",
     "NumDiffDiff/Week 11",
     "NumDiffDiff/Week 10/A FEM for 1d poisson.md",
-    "Optimering/Week 11/Active set method.md",
     "Optimering/Week 10/Non-linear least squares problems.md",
     "NumDiffDiff/Week 10/The Galerkin method.md",
     "Screenshots/Pasted image 20230313154523.png",

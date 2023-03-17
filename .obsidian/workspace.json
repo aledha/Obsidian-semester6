@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2 scribbles.md",
+                "file": "Optimering/Week 10/Exact solution of the trust region problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,14 +97,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2 scribbles.md",
+                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2 scribbles.md",
+                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2 scribbles.md",
+                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2 scribbles.md"
+                "file": "NumDiffDiff/Exercises and projects/Project 2/Proj2.md"
               }
             }
           }
@@ -241,12 +241,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20783250e35ffddb",
+  "active": "8de52b52a038dc19",
   "lastOpenFiles": [
-    "NumDiffDiff/Week 11/P1 FEM in 1d-complication.md",
     "NumDiffDiff/Exercises and projects/Project 2/Proj2 scribbles.md",
-    "Screenshots/Pasted image 20230316124831.png",
     "NumDiffDiff/Week 11/P1 FEM in 1d.md",
+    "Optimering/Week 10/Exact solution of the trust region problem.md",
+    "Optimering/Week 9/Trust region methods.md",
+    "Optimering/Week 10/Week 10.md",
+    "Optimering/Week 9/Chapter 5- Advanced methods for unconstrained optimization.md",
+    "Optimering/Week 11/Week 11.md",
+    "NumDiffDiff/Week 11/P1 FEM in 1d-complication.md",
+    "Screenshots/Pasted image 20230316124831.png",
     "NumDiffDiff/Week 11/Week 11.md",
     "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
     "NumDiffDiff/Week 10/Some functional analysis.md",
@@ -260,9 +265,7 @@
     "NumDiffDiff/Week 11",
     "NumDiffDiff/Week 10/A FEM for 1d poisson.md",
     "Optimering/Week 11/Active set method.md",
-    "Optimering/Week 11/Week 11.md",
     "Optimering/Week 10/Non-linear least squares problems.md",
-    "Optimering/Week 10/Exact solution of the trust region problem.md",
     "NumDiffDiff/Week 10/The Galerkin method.md",
     "Screenshots/Pasted image 20230313154523.png",
     "Screenshots/Pasted image 20230313154502.png",
@@ -270,10 +273,7 @@
     "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
     "Optimering/Week 11",
     "NumDiffDiff/Exercises and projects/Project 2",
-    "Optimering/Week 10/Week 10.md",
     "Notes/Basis (Linear Algebra).md",
-    "Optimering/Week 9/Trust region methods.md",
-    "Optimering/Week 9/Chapter 5- Advanced methods for unconstrained optimization.md",
     "Optimering/Week 10",
     "Screenshots/Pasted image 20230308132750.png",
     "Screenshots/Pasted image 20230308121914.png",

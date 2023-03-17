@@ -10,4 +10,5 @@ For line search:
 * Define $p_{k}$ as a solution of the constraint problem $\min_\limits{p}m_{k}(p) \quad\text{s.t.}\quad \left\lVert p \right\rVert\le \Delta$.
 * Define $x_{k+1}=x_{k}+p_{k}$.
 
+[[Exact solution of the trust region problem]]
 

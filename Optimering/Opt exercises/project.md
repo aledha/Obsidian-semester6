@@ -1,30 +1,33 @@
 Ole Gunnar Røsholt Hovland
 Alexander Edward Hatle
 Mar González Alonso
+## P1
 
-$$E_{elast}^{bar}(e_{ij})= \frac{c}{2l_{ij}^2}(L(e_{ij})-l_{ij})^2=\frac{c}{2l_{ij}^2}(\Vert x^{(i)}-
-x^{(j)} \Vert-l_{ij})^2$$
-$$E_{grav}^{bar}(e_{ij})=\frac{\rho g l_{ij}}{2}(x_3^{(i)}+x_3^{(j)})$$
-$$E_{elast}^{cable}(e_{ij})
-\begin{cases}
-\frac{k}{2l_{ij}^{2}}(\Vert x^{(i)}-x^{(j)}
-\Vert-l_{ij})^{2}  & \quad \text{for }\Vert x^{(i)}-x^{(j)}\Vert >l_{ij} \\
-0 & \quad\text{for }\Vert x^{(i)}-x^{(j)}\Vert\le l_{ij}
-\end{cases}$$
-$$E_{grav}^{cable}(e_{ij})=0$$
-$$E_{ext}(X)= \sum\limits_{i=1}^{N} m_{i}g x_3^{(i)}$$
-$$ E(X)= \sum\limits_{e_{ij} \in \mathcal{B}}^{}(E_{elast}^{bar}(e_{ij})+E_{grav}^{bar}(e_{ij}))+
-\sum\limits_{e_{ij} \in \mathcal{C}}^{}E_{elast}^{cable}(e_{ij}) +E_{ext}(X)$$
-$$ \min_\limits{X}E(X)=\sum\limits_{e_{ij} \in \mathcal{E}}^{}E_{elast}^{cable}(e_{ij})
-+E_{ext}(X)~~~~~~~~~~~~~~~~s.t.~~~x^{(i)}=p^{(i)}, i=1,..., M.$$
-$$ \min_\limits{X}E(X)=\sum\limits_{e_{ij} \in
-\mathcal{B}}^{}(E_{elast}^{bar}(e_{ij})+E_{grav}^{bar}(e_{ij})) + \sum\limits_{e_{ij} \in
-\mathcal{C}}^{}E_{elast}^{cable}(e_{ij}) +E_{ext}(X)
-~~~~~~s.t.~~~x^{(i)}=p^{(i)}, i=1,..., M.$$
-$$ \min_\limits{X}E(X)=\sum\limits_{e_{ij} \in
-\mathcal{B}}^{}(E_{elast}^{bar}(e_{ij})+E_{grav}^{bar}(e_{ij})) + \sum\limits_{e_{ij} \in
-\mathcal{C}}^{}E_{elast}^{cable}(e_{ij}) +E_{ext}(X)
-~~~~~~s.t.~~~x_3^{(i)}\ge 0, i=1,..., M.$$
+To show this we want to use the "existence of minimizers" theorem from the lectures. For the theorem to hold, i.e. for a global solution to exist, our function must be lower semi continuous, coercive and the space we operate in must be closed and non-empty.
+
+
+$\mathcal{B}$ and $\mathcal{C}$ can only shrink/stretch around their respective tetherpoints whitch is continous. The only worrisome point is if to points ar exatly on top of eachother, where the energy explode to infinity and then to zero, but this point is still lower continuous. Since all the terms are at least lower continuous, their sum is as well. 
+
+  
+
+Let us first look at type (1) constraints. In the $x$- and $y$ direction, the only terms they apply in are the elastic energy in $\mathcal{B}$ and $\mathcal{C}$. Increasing these variables to $\pm\infty$ will increase $E(X)$ to $+\infty$. Now for the z-direction: for non-negative $z$ , all terms grow to $+\infty$. The negative direction is a little more work. The only terms that apply here are:
+
+$$\begin{align*}
+
+E_{\text{elast}}^{\text{bar}},E_{\text{elast}}^{\text{cable}}&\sim z^{2},\\
+
+E_{\text{grav}}^{\text{bar}},E_{\text{ext}}&\sim z.
+
+\end{align*}$$
+
+This means that when $z\rightarrow-\infty$, $E_{\text{grav}}^{\text{bar}}$ and $E_{\text{ext}}$ become neglegable and $E(X)\rightarrow+\infty$. 
+
+  
+
+Now for the (2) constraint type. Since $z$ cannot be negative, and the set is closed, there are not any peoblems in this direction. The tricky part here is that if we move all the points to $\pm\infty$ in the $x$- or $y$ direction, then $E(X)$ does not tend to infinity, but remain constant! To fix this problem we can define the origo for (only) the  $x$- or $y$ axis to be in one of the points (the easisiest would be in $x^{(1)}$). In other words, the $x$- and $y$ coordinates are defined in relation to their distance to the "fixed" node. Coercivity in $x$- and $y$ direction is then introduced, and our problem admits a global solution.
+
+  
+
 
 $\textbf{P2: Show that the function E defined in (4) is C1, but typically not C2.}$
 
@@ -87,9 +90,16 @@ g(tX+(1-t)Y)&= \lVert t(x^{(i)}-x^{(j)})+(1-t)(y^{(i)}-y^{(j)}) \rVert-l_{ij}\\
 &\stackrel{\text{Triangle ineq.}}{\le}t \lVert x^{(i)}-x^{(j)} \rVert+(1-t)\lVert y^{(i)}-y^{(j)} \rVert -(1-t+t)l_{ij}\\
 &= tg(X)+(1-t)g(Y).
 \end{align*}$$
-So $g$ is convex
+So $g$ is convex, and by extension $\sum\limits_{e_{ij}\in \xi }^{}E^{\text{cable}}_\text{elast} (e_{ij})$ is convex.
 
- 
+Again, the sum of of convex functions is also convex, so
+$$\min_\limits{X}E(X)=\sum\limits_{e_{ij}\in \xi }^{}E^{\text{cable}}_\text{elast} (e_{ij})+E_\text{ext}(X),\tag{4}$$
+is convex.
+
+Note that since 
+$$E_{ext}(tX+(1-t)Y)=tE_{ext}(X)+(1-t)E_{ext}(Y),$$
+the problem is not 
+
 $\textbf{P4: Formulate the necessary and sufficient optimality conditions for (4).}$
 We have a free optimization problem and our function $E(X)$ is convex and $C^1$ for this
 case. Hence we know that our necessary and sufficient optimality conditions are $\Delta E(X)=0$. More specifically
@@ -221,3 +231,8 @@ Even though the Hessian is not positive definite, it could be positive definite 
 If LICQ holds at X (the solution), and the matrix $H_{\mathcal{L}}(X,\lambda)$ is pos definitive
 on $ker(A(X)) \in \mathcal{R}^{(3N-M) \times \mathcal{A}}$ (Jacobian of $c_1(x^{(i)})$), then
 we will have local convergence.
+
+
+## P11
+
+This problem is adressed in P1, and the way we handled the issue there is an easely applicable strategy to adress this issue in our numerical solvers as well.

@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Week 11/SQP method for equality constraints.md",
+                "file": "Optimering/Week 7/Monday/Farkas Lemma.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Week 11/SQP method for equality constraints.md",
+                "file": "Optimering/Week 7/Monday/Farkas Lemma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Week 11/SQP method for equality constraints.md",
+                "file": "Optimering/Week 7/Monday/Farkas Lemma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Week 11/SQP method for equality constraints.md"
+                "file": "Optimering/Week 7/Monday/Farkas Lemma.md"
               }
             }
           }
@@ -243,10 +243,12 @@
   },
   "active": "8de52b52a038dc19",
   "lastOpenFiles": [
-    "NumDiffDiff/Exercises and projects/Project 2/Proj2 scribbles.md",
-    "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
+    "Optimering/Week 7/Friday/Example of KKT.md",
+    "Optimering/Week 7/Friday/Second order optimality conditions.md",
     "Optimering/Week 7/Monday/KKT-conditions.md",
     "Optimering/Week 11/SQP method for equality constraints.md",
+    "NumDiffDiff/Exercises and projects/Project 2/Proj2 scribbles.md",
+    "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
     "Optimering/Week 11/Week 11.md",
     "Optimering/Week 11/Active set method.md",
     "Optimering/Week 11/Quadratic programming.md",
@@ -273,7 +275,6 @@
     "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
     "Optimering/Week 11",
     "NumDiffDiff/Exercises and projects/Project 2",
-    "Notes/Basis (Linear Algebra).md",
     "Optimering/Week 10",
     "Screenshots/Pasted image 20230308132750.png",
     "Screenshots/Pasted image 20230308121914.png",

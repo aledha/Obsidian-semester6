@@ -8,115 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7266a3d1dbf841a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NumDiffDiff/Week 10/The Galerkin method.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b49fdf2818a0c29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "065efaf31edd05f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Optimering/Week 10/Linear programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d8b18abb57ade15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NumDiffDiff/Week 10/A FEM for 1d poisson.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abe75eadfc2d53d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NumDiffDiff/Week 11/Neumann and mixed BCs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "251eee41e48968dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NumDiffDiff/Week 11/P1 FEM in 1d.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20783250e35ffddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Optimering/Week 10/Exact solution of the trust region problem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8de52b52a038dc19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Optimering/Week 7/Monday/Farkas Lemma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1adf9095546bc677",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Opt exercises/Project 1 TMA4180.md",
+                "file": "NumDiffDiff/Week 12/P1 FEM in 2d.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Opt exercises/Project 1 TMA4180.md",
+                "file": "NumDiffDiff/Week 12/P1 FEM in 2d.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Opt exercises/Project 1 TMA4180.md",
+                "file": "NumDiffDiff/Week 12/P1 FEM in 2d.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Opt exercises/Project 1 TMA4180.md"
+                "file": "NumDiffDiff/Week 12/P1 FEM in 2d.md"
               }
             }
           }
@@ -253,10 +155,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1adf9095546bc677",
+  "active": "1e3ca41686d301b2",
   "lastOpenFiles": [
-    "Optimering/Week 7/Monday/Farkas Lemma.md",
+    "NumDiffDiff/Week 12/Convergence of Galerkin method.md",
+    "NumDiffDiff/Week 12/P1 FEM in 2d.md",
+    "NumDiffDiff/Week 12/Week 12.md",
     "Optimering/Opt exercises/Project 1 TMA4180.md",
+    "[.md",
+    "NumDiffDiff/Week 12",
+    "Optimering/Week 7/Monday/Farkas Lemma.md",
     "Optimering/Week 7/Friday/Example of KKT.md",
     "Optimering/Week 7/Friday/Second order optimality conditions.md",
     "Optimering/Week 7/Monday/KKT-conditions.md",
@@ -278,11 +185,7 @@
     "Optimering/Week 8/Slater's constraint qualification.md",
     "Optimering/Week 8/Augmented Lagrangian method.md",
     "NumDiffDiff/Week 11/General boundary conditions.md",
-    "NumDiffDiff/Week 11/Neumann and mixed BCs.md",
     "NumDiffDiff/Week 11",
-    "NumDiffDiff/Week 10/A FEM for 1d poisson.md",
-    "Optimering/Week 10/Non-linear least squares problems.md",
-    "NumDiffDiff/Week 10/The Galerkin method.md",
     "Screenshots/Pasted image 20230313154523.png",
     "Screenshots/Pasted image 20230313154502.png",
     "Optimering/Week 11",

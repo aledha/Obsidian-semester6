@@ -98,13 +98,13 @@ is convex.
 
 Note that since 
 $$E_{ext}(tX+(1-t)Y)=tE_{ext}(X)+(1-t)E_{ext}(Y),$$
-the problem is not 
+$E_{ext}(X)$ is not strictly convex. However, this is not sufficient to conclude weather $E(X)$ is strictly convex or not.
 
 $\textbf{P4: Formulate the necessary and sufficient optimality conditions for (4).}$
 We have a free optimization problem and our function $E(X)$ is convex and $C^1$ for this
-case. Hence we know that our necessary and sufficient optimality conditions are $\Delta E(X)=0$. More specifically
+case. Hence we know that our necessary and sufficient optimality conditions are $\nabla E(X)=0$. More specifically
 
-$$\Delta E(X) =\sum\limits_{i,j=M+1, i<j}^{N} \frac{k}{l_{ij}^2}(\Vert x^{(i)}-x^{(j)} \Vert-l_{ij})\begin{bmatrix}
+$$\nabla E(X) =\sum\limits_{i,j=M+1, i<j}^{N} \frac{k}{l_{ij}^2}(\Vert x^{(i)}-x^{(j)} \Vert-l_{ij})\begin{bmatrix}
 \frac{x_1^{(i)}-x_1^{(j)}}{\Vert x^{(i)}-x^{(j)} \Vert} & \frac{x_2^{(i)}-x_2^{(j)}}{\Vert x^{(i)}-
 x^{(j)} \Vert} & \frac{x_3^{(i)}-x_3^{(j)}}{\Vert x^{(i)}-x^{(j)} \Vert} + \frac{m_ig}{2(\Vert x^{(i)}-
 x^{(j)} \Vert-l_{ij}) }\\
@@ -126,26 +126,23 @@ $\textbf{Discuss why the lack of differentiability should in practical situation
 
 The problem that we face in (5) lies in having the cables. What happens is that by the
 definition of $E_{elast}^{cable}$, there is no restriction on the values $x^{(i)}$ and $x^{(j)}$ can
-take, so we could have indeed the possibility of $x^{(i)}=x^{(j)}$. For the bars we found that by
+take, so we could have indeed the possibility of $x^{(i)}=x^{(j)}$. For the cables we found that by
 the definition of their energy, there was no problem with having a hypotetical case were
-$x^{(i)}=x^{(j)}$ because their energy would be 0, and so its derivative. But for the cables we
+$x^{(i)}=x^{(j)}$ because their energy would be 0, and so its derivative. But for the bars we
 have that
-$$\Delta E_{elast}^{bar}(X) =\sum\limits_{e_{i,j}\in \mathcal{B}, i,j=M+1, i\le j}^{N} \frac{c(\Vert
+$$\nabla E_{elast}^{bar}(X) =\sum\limits_{e_{i,j}\in \mathcal{B}, i,j=M+1, i\le j}^{N} \frac{c(\Vert
 x^{(i)}-x^{(j)} \Vert-l_{ij})}{l_{ij}^2\Vert x^{(i)}-x^{(j)} \Vert}\begin{bmatrix}
 x_1^{(i)}-x_1^{(j)} & x_2^{(i)}-x_2^{(j)} & x_3^{(i)}-x_3^{(j)} \\
 -x_1^{(i)}+x_1^{(j)} & -x_2^{(i)}+x_2^{(j)} & -x_3^{(i)}+x_3^{(j)}
 \end{bmatrix}$$
-where if $x^{(i)}=x^{(j)}$ then every term goes to infinity and thus it is not differentiable.
+where if $x^{(i)}=x^{(j)}$ then this it is not differentiable.
 
-In reality there are not going to be nodes with all their coordinates the same, which means
-that we will have different nodes in different positions in space (not all the nodes in one same
-place, because there wouldn´t be any structure).
+Using any reasonable algorithm, the nodes connected by bars will not coincide, since the energy would grow fast as the points come closer. 
 
-$\textbf{P7: Formulate the necessary optimality conditions for (5).}$ $\textbf{Are they also
-sufficient for a local minimum?}$
+$\textbf{P7: Formulate the necessary optimality conditions for (5).}$ $\textbf{Are they also sufficient for a local minimum?}$
 We can treat problem (5) as differentiable because in reality we are not going to have the case
 where the function is not differentiable. As the function is not convex (see problem 8), we can
-only formulate the necessary optimality conditions. These are $\Delta E(X)=0$. The function is
+only formulate the necessary optimality conditions. These are $\nabla E(X)=0$. The function is
 not twice differentiable (the same issue as in Problem 2), so we cannot formulate the second
 order optimality conditions.
 
@@ -181,7 +178,7 @@ Is this enough for local minima?
 $\textbf{P10: Formulate the first order optimality conditions (i.e., KKT-conditions) for(6).}$ $\textbf{Are they sufficient or necessary for a local solution?}$
 $\textbf{What can be said about constraint qualifications?}$
 
-There is only one constrain $c_1^{(i)}(x^{(i)})=x_{3}^{(i)}\geq 0$, $i=1,...,N$ and $\Delta c_1^{(i)}(x^{(i)})=(0,0,1)$, which is linearly independent as it is non-zero. Then for every point
+There is only one constrain $c_1^{(i)}(x^{(i)})=x_{3}^{(i)}\geq 0$, $i=1,...,N$ and $\nabla c_1^{(i)}(x^{(i)})=(0,0,1)$, which is linearly independent as it is non-zero. Then for every point 
 LICQ holds, and we can formulate the KKT-conditions.
 When the constraint is active, $c_1^{(i)}(x^{(i)})=x_{3}^{(i)}= 0$ for every i, it does not make
 physical sense for us, because it would mean that our whole structure is on the floor.
@@ -191,7 +188,7 @@ There may be some equal to zero.
 Then we will consider the inactive case, when $c_1^{(i)}(x^{(i)})=x_{3}^{(i)}> 0$.
 $\mathcal{L}(X, \lambda)= E(X)-\sum\limits_{i=1}^{N}\lambda _{i}c_1(x^{(i)})$
 KKT conditions establish:
-$\Delta_{x} E(X)=\sum\limits_{i=1}^{N}\lambda_i(0,0,1)$
+$\nabla_{x} E(X)=\sum\limits_{i=1}^{N}\lambda_i(0,0,1)$
 If $c_1(x^{(i)})>0$, inactive, $\Rightarrow \lambda _i=0$.
 If $c_1(x^{(i)})=0$, active, $\Rightarrow \lambda _i>0$.
 $$\begin{align*}

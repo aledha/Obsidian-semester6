@@ -107,4 +107,10 @@ Which again, we will compute numerically.
 
 
 
-
+## 2e)
+$f(x)=x^{- \frac{1}{4}}$
+$$\begin{align*}
+\int_{0}^{1}|x^{- \frac{1}{4}}|^{2}\text{ d}x&=  \int_{0}^{1}x^{- \frac{1}{2}}\text{ d}x\\
+&= \left[2x^{\frac{1}{2}} \right]_{0}^{1}= 2<\infty\\
+&\implies\quad f\in L^{2}(0,1)
+\end{align*}$$

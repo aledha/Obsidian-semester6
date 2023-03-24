@@ -147,3 +147,5 @@ $$A^{K_{i}}= \frac{1}{h}\cdot 1\cdot \begin{bmatrix}1 & -1 \\ -1 & 1\end{bmatrix
 $$\vec{F}=h \begin{bmatrix} 1/2 \\ 1 \\ \vdots \\ 1 \\ 1/2\end{bmatrix}$$
 $$A= \frac{1}{h}\begin{bmatrix}1 & -1 \\ -1 & 2 & -1 \\ 0 & -1 & 2 & -1 \\ 0 &   & \ddots & \ddots & \ddots \\  &   &   &   -1 & 1\end{bmatrix}$$
 $$\tilde{A}= \frac{1}{h}\text{tridiag }\{-1,2,-1 \}$$
+
+

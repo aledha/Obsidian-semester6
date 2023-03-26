@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 2/Project 2 TMA4212.md",
+                "file": "NumDiffDiff/Week 12/Convergence of Galerkin method.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 2/Project 2 TMA4212.md",
+                "file": "NumDiffDiff/Week 12/Convergence of Galerkin method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 2/Project 2 TMA4212.md",
+                "file": "NumDiffDiff/Week 12/Convergence of Galerkin method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/Exercises and projects/Project 2/Project 2 TMA4212.md"
+                "file": "NumDiffDiff/Week 12/Convergence of Galerkin method.md"
               }
             }
           }
@@ -158,12 +158,12 @@
   },
   "active": "704123b127048136",
   "lastOpenFiles": [
-    "NumDiffDiff/Week 11/P1 FEM in 1d-complication.md",
-    "NumDiffDiff/Exercises and projects/Project 2/Project 2 TMA4212.md",
-    "NumDiffDiff/Week 11/P1 FEM in 1d.md",
-    "NumDiffDiff/Week 12/Convergence of Galerkin method.md",
     "NumDiffDiff/Week 12/P1 FEM in 2d.md",
+    "NumDiffDiff/Exercises and projects/Project 2/Project 2 TMA4212.md",
+    "NumDiffDiff/Week 12/Convergence of Galerkin method.md",
+    "NumDiffDiff/Week 11/P1 FEM in 1d.md",
     "NumDiffDiff/Exercises and projects/Project 2/Proj2 scribbles.md",
+    "NumDiffDiff/Week 11/P1 FEM in 1d-complication.md",
     "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
     "NumDiffDiff/Week 12/Week 12.md",
     "Optimering/Opt exercises/Project 1 TMA4180.md",

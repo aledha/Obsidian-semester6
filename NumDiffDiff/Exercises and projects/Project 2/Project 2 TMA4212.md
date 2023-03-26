@@ -114,3 +114,6 @@ $$\begin{align*}
 &= \left[2x^{\frac{1}{2}} \right]_{0}^{1}= 2<\infty\\
 &\implies\quad f\in L^{2}(0,1)
 \end{align*}$$
+
+
+## 2c)

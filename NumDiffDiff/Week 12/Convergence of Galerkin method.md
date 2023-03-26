@@ -39,26 +39,22 @@ $$\tilde{E}_{h}(v)^{2}=\lVert e \rVert^{2}_{H^{1}}=\lVert e \rVert^{2}_{L^{2}}+\
 	$e(x_{i})=0 \quad\text{for }i=0,\dots,M$.
 
 **Mean value theorem**
-	There exists $\xi _{i}\in K_{i}=(x_{i-1},x_{i})$ such that
-	$e'(\xi _{i})=0$.
+	There exists $\xi _{i}\in K_{i}=(x_{i-1},x_{i})$ such that $e'(\xi _{i})=0$.
 	Note: not illegal
 		$e'|_{K_{i}}$ is continuous since $v' \in H^1$.
 
-**Fundemental theorem of calculus**
-	$e'(x)=e'(\xi _{i})+\int_{\xi _{i}}^{x}e''(s)\text{ d}s$,
-	for $x\in K_{i}$
+**Fundamental theorem of calculus**
+	$e'(x)=e'(\xi _{i})+\int_{\xi _{i}}^{x}e''(s)\text{ d}s=\int_{\xi _{i}}^{x}e''(s)\text{ d}s$,   for $x\in K_{i}$
 
-And $e''=v''-(I_{h}v)''$
-Inside every element the linear interpolant is zero:
-$e''=v''$.
+And $e''=v''-(I_{h}v)''=v''$
 
-So combining these we get,
+So combining these, we get,
+
+We start by computing $\lVert e' \rVert_{L^{2}}^{2}=\int_{0}^{1}\lvert e'(x) \rvert^{2}  \text{ d}x= \sum\limits_{i}^{}\int_{K_{i}}\lvert e'(x) \rvert^{2}\text{ d}x$. First, we derive an expression for $\lvert e'(x) \rvert^{2}$:
 $$\begin{align*}
-\lvert e'(x) \rvert^{2}&\le  \left(\int_{K_{i}}\lvert e''(s) \rvert \text{ d}s \right)^{2}\\
-&= \left(\int_{K_{i}}1\cdot \lvert v''(s) \rvert \text{ d}s\right)^{2}\\
-\text{(*)}\qquad &\stackrel{\text{Cauchy Sch}}{\le}\int_{K_{i}}1^{2}\text{ d}s \cdot \int_{K_{i}}\lvert v''(s) \rvert^{2} \text{ d}s\\
-&= (x_{i}-x_{i-1})\int_{K_{i}}\lvert v''(s) \rvert^{2} \text{ d}s\\
-&= h\int_{K_{i}}\lvert v''(s) \rvert^{2} \text{ d}s
+\lvert e'(x) \rvert^{2}&\mathop{\le}\limits^{x< x_{i}}_{\xi> x_{i-1} }  \left(\int_{K_{i}}\lvert e''(s) \rvert \text{ d}s \right)^{2}= \left(\int_{K_{i}}1\cdot \lvert v''(s) \rvert \text{ d}s\right)^{2}\\
+\text{(*)}\qquad &{\stackrel{\text{Cauchy Sch}}{\le}}\int_{K_{i}}1^{2}\text{ d}s \cdot \int_{K_{i}}\lvert v''(s) \rvert^{2} \text{ d}s\\
+&= h_{i}\int_{K_{i}}\lvert v''(s) \rvert^{2} \text{ d}s
 \end{align*}$$
 Integrate over $x \in (0,1)$, then we get
 $$\begin{align*}
@@ -70,20 +66,14 @@ $$\begin{align*}
 So far we have computed $\lVert e' \rVert^{2}_{L^{2}(0,1)}$. 
 Now we need to compute $\lVert e \rVert^{2}_{L^{2}(0,1)}$.
 As before, we obtain
-$$\lvert e(x) \rvert^{2}\stackrel{x\in K_{i}}{\le}h_{i}\int_{K_{i}}\lvert e'(s) \rvert^{2}\text{ d}s.$$
-Using $(*)$:
-$$\le h_{i}\left(h_{i}\int_{K_{i}}\lvert v'' \rvert^{2}\text{ d}s\right)\int_{K_{i}}\text{ d}x$$
-$$\le h^{3}\int_{K_{i}}\lvert v''(s) \rvert^{2}\text{ d}s$$
-$$\implies\quad \lVert e \rVert^{2}_{L^{2}(0,1)}=\sum\limits_{i}^{}\int_{K_{i}} \lvert e(s) \rvert^{2}\text{ d}s$$
-$$\le \sum\limits_{i}^{}\left(h^{3}\int_{K_{i}}\lvert v''(s) \rvert^{2}\text{ d}s\right)\int_{K_{i}}\text{ d}x$$
-$$\lVert e(x) \rVert^{2}_{L^{2}(0,1)}\le h^{4}\lVert v'' \rVert^{2}_{L^{2}(0,1)}\tag{2}$$
+$$\lvert e(x) \rvert^{2}\stackrel{x\in K_{i}}{\le}h_{i}\int_{K_{i}}\lvert e'(s) \rvert^{2}\text{ d}s \stackrel{(*)}{\le} h_{i}\left(h_{i}\int_{K_{i}}\lvert v'' \rvert^{2}\text{ d}s\right)\int_{K_{i}}\text{ d}x \le h^{3}\int_{K_{i}}\lvert v''(s) \rvert^{2}\text{ d}s,$$
+$$\implies\quad \lVert e \rVert^{2}_{L^{2}(0,1)}=\sum\limits_{i}^{}\int_{K_{i}} \lvert e(s) \rvert^{2}\text{ d}s
+\le \sum\limits_{i}^{}\left(h^{3}\int_{K_{i}}\lvert v''(s) \rvert^{2}\text{ d}s\right)\int_{K_{i}}\text{ d}x\le h^{4}\lVert v'' \rVert^{2}_{L^{2}(0,1)}\tag{2}$$
 ### Conclusion
 
 $$\lVert v-I_{h}u \rVert_{L^{2}}+h\lVert (v-I_{h})' \rVert_{L^2} \stackrel{(1)+(2)}{\le}2h^{2}\lVert v'' \rVert_{L^2}$$
-$$\begin{align*}
-\tilde{E}_{h}(v)^{2}&= \lVert e \rVert^{2}_{H^{1}}=\lVert e \rVert^{2}_{L^{2}}+\lVert e' \rVert^{2}_{L^{2}}\\
-	\tilde{E}_{h}(v)&\le 2h \lVert v'' \rVert_{L^{2}(0,1)}\tag{3}
-\end{align*}$$
+$$\tilde{E}_{h}(v) =\sqrt{\lVert e \rVert_{L^{2}}^{2}+\lVert e' \rVert_{L^{2}}^{2}}\le \sqrt{(h^{2} + h^{4})\lVert v'' \rVert_{L^{2}}^{2}}=h \lVert v'' \rVert _{L^{2}}^{2} \sqrt{1+h^{2}}\le2h \lVert v \rVert_{L^{2}(0,1)}^{2}$$
+
 ## Error bound and convergence for $\mathbb{P}_{1}$ FEM
 Error in $H^{1}$:
 $$\lVert u-u_{h} \rVert_{H^{1}}\stackrel{\text{Cea}}{\le } \frac{M}{\alpha }\inf_\limits{v_{h}\in X^{1}_{h}\cap H^{1}_{0}}\lVert u-v_{h} \rVert_{H^{1}}$$

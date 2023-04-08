@@ -20,7 +20,31 @@
             }
           },
           {
-            "id": "5901f99037afa9c2",
+            "id": "c8e1907b40c717ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimering/Week 9/DFP and BFGS method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e84a672709381fd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimering/Week 9/SR1-method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5a46ddb006f0b91",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -91,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 221.5
   },
   "right": {
     "id": "03198d569b8cf077",
@@ -169,10 +193,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5901f99037afa9c2",
+  "active": "c5a46ddb006f0b91",
   "lastOpenFiles": [
+    "Optimering/Week 9/SR1-method.md",
     "Optimering/Week 9/DFP and BFGS method.md",
     "Optimering/Week 9/Quasi-Newton methods.md",
+    "Optimering/Opt exercises/Project 1 TMA4180.md",
     "Optimering/Week 11/Quadratic programming.md",
     "NumDiffDiff/Week 12/Convergence of Galerkin method.md",
     "NumDiffDiff/Week 12/P1 FEM in 2d.md",
@@ -182,7 +208,6 @@
     "NumDiffDiff/Week 11/P1 FEM in 1d-complication.md",
     "NumDiffDiff/Exercises and projects/Project 2/Proj2.md",
     "NumDiffDiff/Week 12/Week 12.md",
-    "Optimering/Opt exercises/Project 1 TMA4180.md",
     "[.md",
     "NumDiffDiff/Week 12",
     "Optimering/Week 7/Monday/Farkas Lemma.md",
@@ -198,7 +223,6 @@
     "Optimering/Week 10/Week 10.md",
     "Optimering/Week 9/Chapter 5- Advanced methods for unconstrained optimization.md",
     "Screenshots/Pasted image 20230316124831.png",
-    "NumDiffDiff/Week 11/Week 11.md",
     "NumDiffDiff/Week 11",
     "Screenshots/Pasted image 20230313154523.png",
     "Screenshots/Pasted image 20230313154502.png",

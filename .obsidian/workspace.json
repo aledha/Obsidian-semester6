@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Opt exercises/Project 1 TMA4180.md",
+                "file": "Optimering/Week 8/Penality and barrier methods.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Opt exercises/Project 1 TMA4180.md",
+                "file": "Optimering/Week 9/DFP and BFGS method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Opt exercises/Project 1 TMA4180.md",
+                "file": "Optimering/Week 9/DFP and BFGS method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Opt exercises/Project 1 TMA4180.md"
+                "file": "Optimering/Week 9/DFP and BFGS method.md"
               }
             }
           }
@@ -193,12 +193,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5a46ddb006f0b91",
+  "active": "c8e1907b40c717ba",
   "lastOpenFiles": [
     "Optimering/Week 9/SR1-method.md",
     "Optimering/Week 9/DFP and BFGS method.md",
-    "Optimering/Week 9/Quasi-Newton methods.md",
+    "Optimering/Week 8/Penality and barrier methods.md",
+    "Optimering/Week 9/Trust region methods.md",
+    "Optimering/Week 10/Exact solution of the trust region problem.md",
+    "Optimering/Week 8/Augmented Lagrangian method.md",
+    "Optimering/Week 8/Quadratic penalty method.md",
     "Optimering/Opt exercises/Project 1 TMA4180.md",
+    "Optimering/Week 9/Quasi-Newton methods.md",
     "Optimering/Week 11/Quadratic programming.md",
     "NumDiffDiff/Week 12/Convergence of Galerkin method.md",
     "NumDiffDiff/Week 12/P1 FEM in 2d.md",
@@ -217,11 +222,6 @@
     "Optimering/Week 11/SQP method for equality constraints.md",
     "Optimering/Week 11/Week 11.md",
     "Optimering/Week 11/Active set method.md",
-    "NumDiffDiff/Week 10/Some functional analysis.md",
-    "Optimering/Week 10/Exact solution of the trust region problem.md",
-    "Optimering/Week 9/Trust region methods.md",
-    "Optimering/Week 10/Week 10.md",
-    "Optimering/Week 9/Chapter 5- Advanced methods for unconstrained optimization.md",
     "Screenshots/Pasted image 20230316124831.png",
     "NumDiffDiff/Week 11",
     "Screenshots/Pasted image 20230313154523.png",

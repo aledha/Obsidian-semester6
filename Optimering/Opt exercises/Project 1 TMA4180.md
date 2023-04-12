@@ -115,11 +115,16 @@ x^{(j)} \Vert-l_{ij}) }
 or the same written differently:
 $$\nabla  E(X) =\sum\limits_{i,j=M+1, i<j}^{N} \frac{k(\Vert x^{(i)}-x^{(j)} \Vert-
 l_{ij})}{l_{ij}^2\Vert x^{(i)}-x^{(j)} \Vert}\begin{bmatrix}
-x_1^{(i)}-x_1^{(j)} & x_2^{(i)}-x_2^{(j)} & x_3^{(i)}-x_3^{(j)} + \frac{l_{ij}^2m_{ig}\Vert x^{(i)}-
-x^{(j)} \Vert}{k(\Vert x^{(i)}-x^{(j)} \Vert-l_{ij}) }\\
+  & 0\\ & \vdots \\  & 0 \\  x_1^{(i)}-x_1^{(j)} & x_2^{(i)}-x_2^{(j)} & x_3^{(i)}-x_3^{(j)} + \frac{l_{ij}^2m_{ig}\Vert x^{(i)}-
+x^{(j)} \Vert}{k(\Vert x^{(i)}-x^{(j)} \Vert-l_{ij}) }\\  & 0\\ & \vdots \\  & 0 \\ 
 -x_1^{(i)}+x_1^{(j)} & -x_2^{(i)}+x_2^{(j)} & -x_3^{(i)}+x_3^{(j)} + \frac{l_{ij}^2m_{jg}\Vert
-x^{(i)}-x^{(j)} \Vert}{k(\Vert x^{(i)}-x^{(j)} \Vert-l_{ij}) }
+x^{(i)}-x^{(j)} \Vert}{k(\Vert x^{(i)}-x^{(j)} \Vert-l_{ij}) } \\   & 0\\ & \vdots \\  & 0 \\ 
 \end{bmatrix} $$
+$$E(X)=E \left(\begin{bmatrix}x_{1}^{0} & x_{2}^{0}  & x_{3}^{0} \\  & \vdots  \\ x_{1}^{N} & x_{2}^{N} & x_{3}^{N}\end{bmatrix} \right)$$
+
+$$\nabla E(X)=\begin{bmatrix}\partial_{x^{(1)}_{1}} E & \partial_{x^{(1)}_{2}} E  & \partial_{x^{(1)}_{3}} E  \\  & \vdots \\ \partial_{x^{(N)}_{1}} E &\partial_{x^{(N)}_{2}} E &\partial_{x^{(N)}_{3}} E \end{bmatrix}
+$$
+
 
 $\textbf{P6: Show that the function E in (5) is typically not differentiable.}$
 $\textbf{Discuss why the lack of differentiability should in practical situations pose no problem.}$

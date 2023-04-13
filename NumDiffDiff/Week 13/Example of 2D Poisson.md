@@ -34,4 +34,3 @@ $$\vec{F}_{K}=2 \lvert K \rvert\begin{bmatrix}Q(1\cdot \psi _{L}, \hat K) \\ Q(1
 With midpoint rule:
 $$\vec{F}_{K}= h^{2} \begin{bmatrix}\psi _{L}\left(\frac{1}{3}, \frac{1}{3} \right)\cdot \lvert \hat K \rvert \\\psi _{M}\left(\frac{1}{3}, \frac{1}{3} \right)\cdot \lvert \hat K \rvert \\\psi _{N}\left(\frac{1}{3}, \frac{1}{3} \right)\cdot \lvert \hat K \rvert \\  \end{bmatrix}$$
 $$\vec{F}_{K }=h^{2} \frac{1}{2} \cdot \frac{1}{3}\begin{bmatrix}1 \\ 1 \\ 1\end{bmatrix}$$
-

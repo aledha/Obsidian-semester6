@@ -82,7 +82,7 @@ The sum of convex functions is convex and a convex function multiplied by a cons
 $\begin{cases}(\lVert x^{(i)}-x^{(j)} \rVert-l_{ij})^{2}  & \quad\text{for }\lVert x^{(i)}-x^{(j)}  \rVert> l_{ij}, \\0 &\quad\text{else,} \end{cases}$ 
 is convex.
 The squared of a non-negative convex function is also convex, and
-$$g(X):=\begin{cases}\lVert x^{(i)}-x^{(j)} \rVert-l_{ij}  & \quad\text{for }\lVert x^{(i)}-x^{(j)}  \rVert> l_{ij}, \\0 &\quad\text{else,} \end{cases}$$
+$$g(X):=\begin{cases}\lVert x^{(i)}-x^{(j)} \rVert-l_{ij}  & \quad\text{for }\lVert x^{(i)}-x^{(j)}  \rVert> l_{ij}, \\0 &\quad\text{else,} \end{cases}\tag{*}$$
 is non-negative, so we need only show that $g(X)$ is convex.
 We have
 $$\begin{align*}

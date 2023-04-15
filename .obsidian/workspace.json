@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Week 8/Quadratic penalty method.md",
+                "file": "Optimering/Opt exercises/Project 1 TMA4180.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Week 8/Quadratic penalty method.md",
+                "file": "Optimering/Opt exercises/Project 1 TMA4180.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Week 8/Quadratic penalty method.md",
+                "file": "Optimering/Opt exercises/Project 1 TMA4180.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Week 8/Quadratic penalty method.md"
+                "file": "Optimering/Opt exercises/Project 1 TMA4180.md"
               }
             }
           }
@@ -158,10 +158,10 @@
   },
   "active": "8acfb7f636f1d147",
   "lastOpenFiles": [
-    "Optimering/Week 8/Penality and barrier methods.md",
-    "Optimering/Opt exercises/Project 1 TMA4180.md",
     "Optimering/Opt exercises/Project 1 problem 8.md",
+    "Optimering/Opt exercises/Project 1 TMA4180.md",
     "Optimering/Week 8/Quadratic penalty method.md",
+    "Optimering/Week 8/Penality and barrier methods.md",
     "Optimering/Week 7/Monday/KKT-conditions.md",
     "Optimering/Week 7/Monday/LICQ.md",
     "Optimering/Week 15/Week 15.md",

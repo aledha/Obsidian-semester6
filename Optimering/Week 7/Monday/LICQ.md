@@ -5,9 +5,9 @@ $$\begin{cases}
 c_{i}=0  &  i\in \xi \\
 c_{i}\ge 0 & i\in \mathcal{I}
 \end{cases}$$
-And let $x\in \Omega$. We say that the "linear independance constraint quialification" (LICQ) is satisfied if the set
+And let $x\in \Omega$. We say that the "linear independence constraint qualification" (LICQ) is satisfied if the set
 $$\nabla c_{i}(x), \qquad i\in \mathcal{A}(x)$$
-is linearly independant.
+is linearly independent.
 ### Example 1
 $$c_{1}(x,y) =x^{2}+y^{2}-1 \stackrel{!}{=}0$$
 $$c_{2}(x,y)=x\ge0$$

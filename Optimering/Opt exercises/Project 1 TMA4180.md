@@ -61,8 +61,14 @@ clearly $C^1$ as $\frac{\partial f_{i4} }{\partial x_3^{(i)}} = m_ig$ is constan
 continuous.
 
 $\textbf{P3: Show that the problem (4) is convex. Is the problem strictly convex? Do we necessarily have a unique solution?}$
+A rather important property we need to explore is the convexity of our unconstrained problem, since a convex problem means that our solution converges to a solution regardless of the initialisation.
+
+**Lemma**
+The problem (4) is convex.
 $$\min_\limits{X}E(X)=\sum\limits_{e_{ij}\in \xi }^{}E^{\text{cable}}_\text{elast} (e_{ij})+E_\text{ext}(X),\tag{4}$$
 such that $x^{(i)}=p^{(i)}\quad\forall\quad i=1,\dots M$.
+
+**Proof**
 
 Let's first explore $E_{ext}(X)=\sum\limits_{i=1}^{N}m_{i}gx_{3}^{(i)}$.
 With our constraints, we have
@@ -94,11 +100,12 @@ So $g$ is convex, and by extension $\sum\limits_{e_{ij}\in \xi }^{}E^{\text{cabl
 
 Again, the sum of of convex functions is also convex, so
 $$\min_\limits{X}E(X)=\sum\limits_{e_{ij}\in \xi }^{}E^{\text{cable}}_\text{elast} (e_{ij})+E_\text{ext}(X),\tag{4}$$
-is convex.
+is convex. $\square$ 
 
 Note that since 
 $$E_{ext}(tX+(1-t)Y)=tE_{ext}(X)+(1-t)E_{ext}(Y),$$
-$E_{ext}(X)$ is not strictly convex. However, this is not sufficient to conclude weather $E(X)$ is strictly convex or not.
+$E_{ext}(X)$ is not strictly convex. However, this is not sufficient to conclude weather $E(X)$ is strictly convex or not. We can therefore not confidently say that (4) admits a unique solution.
+
 
 $\textbf{P4: Formulate the necessary and sufficient optimality conditions for (4).}$
 We have a free optimization problem and our function $E(X)$ is convex and $C^1$ for this

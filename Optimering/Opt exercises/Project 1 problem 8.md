@@ -25,4 +25,9 @@ E (X_{3})&\le  \frac{1}{2}E(X_{1})+ \frac{1}{2}E(X_{2}),\\
 \end{align*}$$
 which is clearly a contradiction. (5) is not convex if $\mathcal{B}≠0$.         $\square$ 
 
-Furthermore, 
+Furthermore, if we choose "small enough"(fotnote) values for $g, \rho , m_{i}>0, \quad i = 1,\dots,N$, it is evident that our example admits a (non-global) local solution close to $X_{1}$, and a global solution close to $X_{2}$.
+
+
+(fotnote): small enough here means that $E_{ext}+b_{grav}$ do not overpower $b_{elast}$.
+
+**invariant under rotation**

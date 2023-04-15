@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Opt exercises/Project 1 problem 8.md",
+                "file": "Optimering/Week 8/Quadratic penalty method.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Opt exercises/Project 1 problem 8.md",
+                "file": "Optimering/Week 8/Quadratic penalty method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Opt exercises/Project 1 problem 8.md",
+                "file": "Optimering/Week 8/Quadratic penalty method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Opt exercises/Project 1 problem 8.md"
+                "file": "Optimering/Week 8/Quadratic penalty method.md"
               }
             }
           }
@@ -158,8 +158,12 @@
   },
   "active": "8acfb7f636f1d147",
   "lastOpenFiles": [
+    "Optimering/Week 8/Penality and barrier methods.md",
     "Optimering/Opt exercises/Project 1 TMA4180.md",
     "Optimering/Opt exercises/Project 1 problem 8.md",
+    "Optimering/Week 8/Quadratic penalty method.md",
+    "Optimering/Week 7/Monday/KKT-conditions.md",
+    "Optimering/Week 7/Monday/LICQ.md",
     "Optimering/Week 15/Week 15.md",
     "Optimering/Week 15/Lagrangian duality.md",
     "Optimering/Week 15/L1 regression.md",
@@ -182,8 +186,6 @@
     "NumDiffDiff/Week 13/2D Poisson Assembly process.md",
     "NumDiffDiff/Week 12/P1 FEM in 2d.md",
     "NumDiffDiff/Week 13",
-    "Optimering/Week 8/Quadratic penalty method.md",
-    "Optimering/Week 8/Penality and barrier methods.md",
     "Optimering/Week 8/Augmented Lagrangian method.md",
     "Optimering/Week 9/DFP and BFGS method.md",
     "Optimering/Week 9/SR1-method.md",
@@ -191,8 +193,6 @@
     "Optimering/Week 10/Exact solution of the trust region problem.md",
     "Optimering/Week 9/Quasi-Newton methods.md",
     "Optimering/Week 11/Quadratic programming.md",
-    "NumDiffDiff/Week 12/Convergence of Galerkin method.md",
-    "NumDiffDiff/Exercises and projects/Project 2/Project 2 TMA4212.md",
     "NumDiffDiff/Week 12",
     "Screenshots/Pasted image 20230316124831.png",
     "NumDiffDiff/Week 11",

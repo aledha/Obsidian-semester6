@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0bd4647bd2c984e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimering/Opt exercises/Project introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Opt exercises/Project 1 TMA4180.md",
+                "file": "Optimering/Opt exercises/Project introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Opt exercises/Project 1 TMA4180.md",
+                "file": "Optimering/Opt exercises/Project introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Opt exercises/Project 1 TMA4180.md"
+                "file": "Optimering/Opt exercises/Project introduction.md"
               }
             }
           }
@@ -156,10 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8acfb7f636f1d147",
+  "active": "0bd4647bd2c984e4",
   "lastOpenFiles": [
-    "Optimering/Opt exercises/Project 1 problem 8.md",
     "Optimering/Opt exercises/Project 1 TMA4180.md",
+    "Optimering/Opt exercises/Project introduction.md",
+    "Optimering/Opt exercises/Project 1 problem 8.md",
     "Optimering/Week 8/Quadratic penalty method.md",
     "Optimering/Week 8/Penality and barrier methods.md",
     "Optimering/Week 7/Monday/KKT-conditions.md",
@@ -192,7 +206,6 @@
     "Optimering/Week 9/Trust region methods.md",
     "Optimering/Week 10/Exact solution of the trust region problem.md",
     "Optimering/Week 9/Quasi-Newton methods.md",
-    "Optimering/Week 11/Quadratic programming.md",
     "NumDiffDiff/Week 12",
     "Screenshots/Pasted image 20230316124831.png",
     "NumDiffDiff/Week 11",

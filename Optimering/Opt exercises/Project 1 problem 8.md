@@ -31,3 +31,10 @@ Furthermore, if we choose "small enough"(fotnote) values for $g, \rho , m_{i}>0,
 (fotnote): small enough here means that $E_{ext}+b_{grav}$ do not overpower $b_{elast}$.
 
 **invariant under rotation**
+
+
+Recall that if $E$ is convex iff $E(t X_{1}+(1-t )X_{2})\le t E(X_{1})+(1-t )E(X_{2}) \quad\forall\quad t \in [0,1].$ 
+
+Suppose any system with a bar connecting the nodes $x^{(i)}$ and $x^{(j)}$. Then the elastic energy between these bars are given by equation.  
+$$\frac{c}{2l_{ij}^{2}}(\lVert x^{(i)}-x^{(j)} \rVert-l_{ij})^{2}$$
+Now, take $X_{1}$ such that $x^{(i)}=x^{*},\quad x^{(j)}=0$, and take $X_{2}$ such that $x^{(i)}=x^{*},\quad x^{(j)}=2x^{*}$.

@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Week 15/Duality theorem.md",
+                "file": "NumDiffDiff/Week 15/Line search methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2e6c2cad25c228b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumDiffDiff/Week 15/Conjugate Gradient.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Week 15/Duality theorem.md",
+                "file": "NumDiffDiff/Week 15/Conjugate Gradient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Week 15/Duality theorem.md",
+                "file": "NumDiffDiff/Week 15/Conjugate Gradient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Week 15/Duality theorem.md"
+                "file": "NumDiffDiff/Week 15/Conjugate Gradient.md"
               }
             }
           }
@@ -181,10 +193,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63229febaa97c7dd",
+  "active": "e2e6c2cad25c228b",
   "lastOpenFiles": [
-    "Optimering/Week 15/Lagrangian duality.md",
+    "NumDiffDiff/Week 15/Line search methods.md",
+    "NumDiffDiff/Week 15/Conjugate Gradient.md",
+    "NumDiffDiff/Week 15/Week 15.md",
     "Optimering/Week 15/Duality theorem.md",
+    "Optimering/Week 15/Lagrangian duality.md",
     "Optimering/Week 15/L1 regression.md",
     "Optimering/Week 15/Week 15.md",
     "Optimering/Opt exercises/Project 1 problem 8.md",
@@ -198,7 +213,6 @@
     "Optimering/Week 15",
     "NumDiffDiff/Week 15/Variational formulation of linear systems.md",
     "NumDiffDiff/Week 15/Classical iterative methods.md",
-    "NumDiffDiff/Week 15/Week 15.md",
     "NumDiffDiff/Week 15/Direct and iterative methods to solve linear systems.md",
     "Screenshots/Pasted image 20230412163140.png",
     "NumDiffDiff/Week 15",
@@ -216,8 +230,6 @@
     "NumDiffDiff/Week 13",
     "Optimering/Week 8/Augmented Lagrangian method.md",
     "Optimering/Week 9/SR1-method.md",
-    "Optimering/Week 9/Trust region methods.md",
-    "Optimering/Week 10/Exact solution of the trust region problem.md",
     "NumDiffDiff/Week 12",
     "Screenshots/Pasted image 20230316124831.png",
     "NumDiffDiff/Week 11",

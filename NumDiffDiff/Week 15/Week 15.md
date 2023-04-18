@@ -6,3 +6,7 @@
 	Gauss-Seidel, 
 	SOR. 
 	Convergence criteria.
+
+[[Line search methods]]: 
+	[[Conjugate Gradient]]
+Steepest descent and conjugate gradient methods (CG). Derivation, orthogonality properties, and convergence of CG.

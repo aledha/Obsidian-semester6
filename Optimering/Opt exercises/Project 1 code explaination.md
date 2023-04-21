@@ -6,7 +6,7 @@ $\partial_{x^{(i)}}f_{3} \stackrel{\lVert x^{(i)}-x^{(j)} \rVert \to l_{ij}}{\to
 
 remind mar to switch from f_3 to E_cableelast
 
-fix sub and domscript
+fix sub and domscript $\infty$
 
 $$\partial_{x_{1}^{(i)}}f_3  = - \partial_{x_{1}^{(j)}}f_{3} ,\quad 
     \partial_{x_{2}^{(i)}}f_{3} = - \partial_{x_{2}^{(j)}}f_{3} ,\quad 

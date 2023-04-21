@@ -7,3 +7,8 @@ $\partial_{x^{(i)}}f_{3} \stackrel{\lVert x^{(i)}-x^{(j)} \rVert \to l_{ij}}{\to
 remind mar to switch from f_3 to E_cableelast
 
 fix sub and domscript
+
+$$\partial_{x_{1}^{(i)}}f_3  = - \partial_{x_{1}^{(j)}}f_{3} ,\quad 
+    \partial_{x_{2}^{(i)}}f_{3} = - \partial_{x_{2}^{(j)}}f_{3} ,\quad 
+    \partial_{x_{3}^{(i)}}f_{3} = - \partial_{x_{3}^{(j)}}f_{3}\quad \text{, and }
+     \partial_{x_{1}^{(i)}}f_{3} =\frac{k\left(x_1^{(i)}-x_1^{(j)}\right)}{l_{ij}^2\Vert x^{(i)}-x^{(j)} \Vert} \left( \Vert x^{(i)} - x^{(j)} \Vert -l_{ij}\right).$$

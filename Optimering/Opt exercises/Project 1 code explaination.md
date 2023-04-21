@@ -15,6 +15,8 @@ $$\partial_{x_{1}^{(i)}}f_3  = - \partial_{x_{1}^{(j)}}f_{3} ,\quad
 
 increase number of subsections
 
+bfgs global solution
+
 
 $$\partial_{x^{(i)}}E = \begin{pmatrix}\frac{k\left(x_1^{(i)}-x_1^{(j)}\right)}{l_{ij}^2\Vert x^{(i)}-x^{(j)} \Vert} \left( \Vert x^{(i)} - x^{(j)} \Vert -l_{ij}\right) \\ \frac{k\left(x_2^{(i)}-x_2^{(j)}\right)}{l_{ij}^2\Vert x^{(i)}-x^{(j)} \Vert} \left( \Vert x^{(i)} - x^{(j)} \Vert -l_{ij}\right) \\\frac{k\left(x_3^{(i)}-x_3^{(j)}\right)}{l_{ij}^2\Vert x^{(i)}-x^{(j)} \Vert} \left( \Vert x^{(i)} - x^{(j)} \Vert -l_{ij}\right)+m_ig \end{pmatrix}^{T}=\begin{pmatrix}0 \\ 0 \\ 0\end{pmatrix}$$
 

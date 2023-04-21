@@ -56,6 +56,7 @@ $$\min_\limits{x \in \mathbb{R}} \qquad \max_\limits{\lambda \in \mathbb{R}^{\xi
 (P for primal)
 **Idea of duality**: reverse the order of minimisation and maximisation. 
 
+## Dual problem
 Define the **dual problem** as
 $$\max_\limits{\lambda \in \mathbb{R}^{\xi \times \mathcal{I}},\lambda _{i}>0,i \in \mathcal{I}}\min_\limits{x \in  \mathbb{R}^{d}}\mathcal{L}(x, \lambda )\tag{D}$$
 More explicitly: define

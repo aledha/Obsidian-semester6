@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Week 16/Interior point methods for linear programmes.md",
+                "file": "Optimering/Week 9/Quasi-Newton methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f75f6fc74bfbccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinStat/Chewyness factor of noodles.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Week 16/Interior point methods for linear programmes.md",
+                "file": "LinStat/Chewyness factor of noodles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Week 16/Interior point methods for linear programmes.md",
+                "file": "LinStat/Chewyness factor of noodles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Week 16/Interior point methods for linear programmes.md"
+                "file": "LinStat/Chewyness factor of noodles.md"
               }
             }
           }
@@ -193,11 +205,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d056ac4657ca0bc4",
+  "active": "8f75f6fc74bfbccf",
   "lastOpenFiles": [
+    "Optimering/Week 9/Quasi-Newton methods.md",
+    "LinStat/Chewyness factor of noodles.md",
+    "Optimering/Week 9/DFP and BFGS method.md",
+    "Optimering/Week 16/Interior point methods for linear programmes.md",
     "Optimering/Week 15/Duality theorem.md",
     "Optimering/Week 7/Monday/KKT-conditions.md",
-    "Optimering/Week 16/Interior point methods for linear programmes.md",
     "Optimering/Week 15/Lagrangian duality.md",
     "Optimering/Week 15/Week 15.md",
     "Optimering/Opt exercises/Project 1 TMA4180.md",
@@ -213,7 +228,6 @@
     "NumDiffDiff/Week 15/Week 15.md",
     "Optimering/Week 15/L1 regression.md",
     "Optimering/Opt exercises/Project 1 problem 8.md",
-    "Optimering/Week 9/DFP and BFGS method.md",
     "Optimering/Week 7/Monday/LICQ.md",
     "Optimering/Week 15",
     "NumDiffDiff/Week 15/Variational formulation of linear systems.md",
@@ -229,8 +243,6 @@
     "Screenshots/Pasted image 20230412162730.png",
     "Screenshots/Pasted image 20230412162711.png",
     "NumDiffDiff/Week 13/Week 13.md",
-    "NumDiffDiff/Week 13/Boundary conditions for 2D poisson.md",
-    "NumDiffDiff/Week 13/2D Poisson Assembly process.md",
     "NumDiffDiff/Week 13",
     "NumDiffDiff/Week 12",
     "Screenshots/Pasted image 20230316124831.png",

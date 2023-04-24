@@ -44,6 +44,42 @@
             }
           },
           {
+            "id": "5812f52b78af45aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimering/Summary/Summary - cliffnotes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61b733fcef3b72fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimering/Summary/Basics - summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e916b8666e3e14e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimering/Week 15/Lagrangian duality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "87f01fa4840e9d36",
             "type": "leaf",
             "state": {
@@ -68,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -143,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinStat/Chewyness factor of noodles.md",
+                "file": "Optimering/Week 15/Lagrangian duality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinStat/Chewyness factor of noodles.md",
+                "file": "Optimering/Week 15/Lagrangian duality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinStat/Chewyness factor of noodles.md"
+                "file": "Optimering/Week 15/Lagrangian duality.md"
               }
             }
           }
@@ -205,21 +241,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f75f6fc74bfbccf",
+  "active": "6e916b8666e3e14e",
   "lastOpenFiles": [
-    "Optimering/Week 9/Quasi-Newton methods.md",
+    "Optimering/Week 7/Monday/KKT-conditions.md",
+    "Optimering/Summary/Summary - cliffnotes.md",
+    "Optimering/Summary/Basics - summary.md",
+    "Pasted image 20230424152530.png",
+    "Optimering/Summary/Unconstrained problems - summary.md",
+    "Pasted image 20230424152353.png",
+    "Pasted image 20230424152332.png",
+    "Optimering/Summary",
     "LinStat/Chewyness factor of noodles.md",
+    "Optimering/Week 9/Quasi-Newton methods.md",
     "Optimering/Week 9/DFP and BFGS method.md",
     "Optimering/Week 16/Interior point methods for linear programmes.md",
     "Optimering/Week 15/Duality theorem.md",
-    "Optimering/Week 7/Monday/KKT-conditions.md",
     "Optimering/Week 15/Lagrangian duality.md",
     "Optimering/Week 15/Week 15.md",
     "Optimering/Opt exercises/Project 1 TMA4180.md",
     "NumDiffDiff/Week 15/Line search methods.md",
     "Optimering/Opt exercises/Project 1 code explaination.md",
     "Optimering/Week 16/Week 16.md",
-    "Untitled",
     "Optimering/Week 16",
     "Optimering/Opt exercises/Project introduction.md",
     "Optimering/Week 8/Quadratic penalty method.md",
@@ -232,26 +274,19 @@
     "Optimering/Week 15",
     "NumDiffDiff/Week 15/Variational formulation of linear systems.md",
     "NumDiffDiff/Week 15/Classical iterative methods.md",
-    "NumDiffDiff/Week 15/Direct and iterative methods to solve linear systems.md",
     "Screenshots/Pasted image 20230412163140.png",
     "NumDiffDiff/Week 15",
     "Screenshots/Pasted image 20230412163011.png",
-    "NumDiffDiff/Week 13/Example of 2D Poisson.md",
     "Screenshots/Pasted image 20230412163202.png",
     "Screenshots/Pasted image 20230412162812.png",
-    "NumDiffDiff/Week 13/2D Poisson element-wise computations.md",
     "Screenshots/Pasted image 20230412162730.png",
     "Screenshots/Pasted image 20230412162711.png",
-    "NumDiffDiff/Week 13/Week 13.md",
     "NumDiffDiff/Week 13",
     "NumDiffDiff/Week 12",
     "Screenshots/Pasted image 20230316124831.png",
     "NumDiffDiff/Week 11",
-    "Screenshots/Pasted image 20230313154523.png",
-    "Screenshots/Pasted image 20230313154502.png",
     "Optimering/Week 11",
     "NumDiffDiff/Exercises and projects/Project 2",
-    "Optimering/Week 10",
-    "Screenshots/Pasted image 20230308132750.png"
+    "Optimering/Week 10"
   ]
 }

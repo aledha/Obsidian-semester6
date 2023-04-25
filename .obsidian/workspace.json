@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6abba9f4d0f662de",
+            "id": "79a072318dd50075",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Week 15/Week 15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d056ac4657ca0bc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Optimering/Week 9/Quasi-Newton methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f75f6fc74bfbccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinStat/Chewyness factor of noodles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5812f52b78af45aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Optimering/Summary/Summary - cliffnotes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e916b8666e3e14e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Optimering/Summary/Summary - cliffnotes.md",
+                "file": "NumDiffDiff/Exam/Exam 2019.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Summary/Summary - cliffnotes.md",
+                "file": "NumDiffDiff/Exam/Exam 2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Summary/Summary - cliffnotes.md",
+                "file": "NumDiffDiff/Exam/Exam 2019.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Summary/Summary - cliffnotes.md"
+                "file": "NumDiffDiff/Exam/Exam 2019.md"
               }
             }
           }
@@ -229,12 +180,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e916b8666e3e14e",
+  "active": "79a072318dd50075",
   "lastOpenFiles": [
+    "NumDiffDiff/Week 15/Classical iterative methods.md",
+    "NumDiffDiff/Week 15/Variational formulation of linear systems.md",
+    "NumDiffDiff/Week 13/Example of 2D Poisson.md",
+    "NumDiffDiff/Week 13/Boundary conditions for 2D poisson.md",
+    "NumDiffDiff/Week 13/2D Poisson element-wise computations.md",
+    "NumDiffDiff/Week 12/P1 FEM in 2d.md",
+    "NumDiffDiff/Week 12/Convergence of Galerkin method.md",
+    "NumDiffDiff/Week 9/Dissipation and dispersion.md",
+    "NumDiffDiff/Week 9/Implicit schemes.md",
+    "NumDiffDiff/Week 11/P1 FEM in 1d-complication.md",
+    "NumDiffDiff/Week 11/P1 FEM in 1d.md",
+    "NumDiffDiff/Week 11/Neumann and mixed BCs.md",
+    "NumDiffDiff/Week 11/General boundary conditions.md",
+    "NumDiffDiff/Week 10/The Galerkin method.md",
+    "NumDiffDiff/Week 10/A FEM for 1d poisson.md",
+    "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
+    "NumDiffDiff/Week 10/Some functional analysis.md",
+    "NumDiffDiff/Exam/Exam 2019.md",
+    "Pasted image 20230425132006.png",
+    "Pasted image 20230425122809.png",
+    "Optimering/Summary/Summary - cliffnotes.md",
+    "Untitled",
+    "NumDiffDiff/Exam",
     "Optimering/Week 8/Slater's constraint qualification.md",
     "Optimering/Week 15/Lagrangian duality.md",
     "Optimering/Week 7/Monday/KKT-conditions.md",
-    "Optimering/Summary/Summary - cliffnotes.md",
     "Optimering/Summary/Basics - summary.md",
     "Screenshots/Pasted image 20230424152530.png",
     "Optimering/Summary/Unconstrained problems - summary.md",
@@ -243,39 +216,17 @@
     "Optimering/Summary",
     "LinStat/Chewyness factor of noodles.md",
     "Optimering/Week 9/Quasi-Newton methods.md",
-    "Optimering/Week 9/DFP and BFGS method.md",
-    "Optimering/Week 16/Interior point methods for linear programmes.md",
-    "Optimering/Week 15/Duality theorem.md",
-    "Optimering/Week 15/Week 15.md",
-    "Optimering/Opt exercises/Project 1 TMA4180.md",
-    "NumDiffDiff/Week 15/Line search methods.md",
-    "Optimering/Opt exercises/Project 1 code explaination.md",
-    "Optimering/Week 16/Week 16.md",
     "Optimering/Week 16",
-    "Optimering/Opt exercises/Project introduction.md",
-    "Optimering/Week 8/Quadratic penalty method.md",
-    "Optimering/Week 8/Penality and barrier methods.md",
-    "NumDiffDiff/Week 15/Conjugate Gradient.md",
-    "NumDiffDiff/Week 15/Week 15.md",
-    "Optimering/Week 15/L1 regression.md",
-    "Optimering/Opt exercises/Project 1 problem 8.md",
-    "Optimering/Week 7/Monday/LICQ.md",
     "Optimering/Week 15",
-    "NumDiffDiff/Week 15/Variational formulation of linear systems.md",
-    "NumDiffDiff/Week 15/Classical iterative methods.md",
     "Screenshots/Pasted image 20230412163140.png",
     "NumDiffDiff/Week 15",
     "Screenshots/Pasted image 20230412163011.png",
     "Screenshots/Pasted image 20230412163202.png",
     "Screenshots/Pasted image 20230412162812.png",
     "Screenshots/Pasted image 20230412162730.png",
-    "Screenshots/Pasted image 20230412162711.png",
     "NumDiffDiff/Week 13",
     "NumDiffDiff/Week 12",
-    "Screenshots/Pasted image 20230316124831.png",
     "NumDiffDiff/Week 11",
-    "Optimering/Week 11",
-    "NumDiffDiff/Exercises and projects/Project 2",
-    "Optimering/Week 10"
+    "Optimering/Week 11"
   ]
 }

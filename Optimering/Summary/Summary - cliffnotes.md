@@ -16,3 +16,11 @@
 - [[Penalty and barrier methods]]: Methods for solving constrained optimization problems by transforming them into unconstrained problems with penalized or barrier functions.
 - [[Linear and quadratic programming]]: Solving optimization problems with linear or quadratic objective functions subject to linear constraints.
 - [[Sequential quadratic programming]][[:]] An iterative method for solving nonlinear constrained optimization problems by approximating the objective function with a quadratic function in the neighborhood of each point.
+
+
+Exams before 2014, not relevant.
+KKT conditions in all exams
+Last three years-home exams.
+2014-2019 most relevant. (four are same lecturer)
+Will not deviate 
+More duality and multicriteria constraints (vector constraints) on this exam. 

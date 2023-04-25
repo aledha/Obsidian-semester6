@@ -25,13 +25,13 @@ Where usually numerical quadrature is needed for the integration (not in this ca
 # $X^{1}_{h}$ in multi dimensions
 Subdivision/triangulation of $\Omega$:
 $$\tau _{h}=\{K_{j} \}_{j}\quad\text{s.t.}\quad \overline{\Omega }=\overline{\mathop{\cup}\limits_{K\in \tau_{h} } K}$$
-#insert potato
+![[Pasted image 20230425193418.png|300]] 
 
 $N_{h}=\{x_{i} \}_{i}$ :  the vertex points
 $$X_{h}^{1}=\{v_{h}\in C(\overline{\Omega }):\quad v_{h}|_{K}\in \mathbb{P}_{1} \}$$
 
 Basis functions: one per vertex $x_{i}$
-#insert (potato) pyramid/hat function
+![[Pasted image 20230425193438.png|300]]
 
 ### Observation 2
 $\phi _{i}(x_{j})=\delta _{ij}$

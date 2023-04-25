@@ -1,5 +1,4 @@
-#insert 
-
+![[Pasted image 20230425193749.png|500]]
 Elements: $\tau _{h}=\{K_{i} \}_{i=1}^{M}$
 	$K_{i}=(x_{i-1},x_{i}), \quad h_{i}=\lvert x_{i}-x_{i-1} \rvert$.
 

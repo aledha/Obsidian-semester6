@@ -48,7 +48,7 @@ $$\text{Find }\tilde{u}\in V_{h} \qquad\text{s.t.}\quad a(\tilde{u},v)=\tilde{F}
 ## Example: 1d
 $$-u_{xx}=f(x) \quad\text{on }(0,1) \qquad u(0)=g_{0}, \quad u(1)=g_{1}$$
 Lifting function: $\tilde{g}(x)=(1-x)g_{0}+xg_{1}$
-or $\tilde{g}=$ #insert lifting
+or $\tilde{g}=$ ![[Pasted image 20230425193659.png|300]]
 (second is easy to generalise to multi-d)
 $$\Downarrow \tilde{u}=u-\tilde{g}$$
 $$\begin{align*}

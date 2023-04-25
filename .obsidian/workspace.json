@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumDiffDiff/Exam/Exam 2019.md",
+                "file": "NumDiffDiff/Week 11/P1 FEM in 1d-complication.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#insert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumDiffDiff/Exam/Exam 2019.md",
+                "file": "NumDiffDiff/Week 11/P1 FEM in 1d-complication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumDiffDiff/Exam/Exam 2019.md",
+                "file": "NumDiffDiff/Week 11/P1 FEM in 1d-complication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumDiffDiff/Exam/Exam 2019.md"
+                "file": "NumDiffDiff/Week 11/P1 FEM in 1d-complication.md"
               }
             }
           }
@@ -182,6 +182,18 @@
   },
   "active": "79a072318dd50075",
   "lastOpenFiles": [
+    "NumDiffDiff/Week 11/P1 FEM in 1d.md",
+    "Pasted image 20230425193749.png",
+    "NumDiffDiff/Week 11/Neumann and mixed BCs.md",
+    "NumDiffDiff/Week 11/General boundary conditions.md",
+    "Pasted image 20230425193659.png",
+    "NumDiffDiff/Week 10/The Galerkin method.md",
+    "NumDiffDiff/Week 10/Some functional analysis.md",
+    "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
+    "NumDiffDiff/Week 10/A FEM for 1d poisson.md",
+    "Pasted image 20230425193438.png",
+    "Pasted image 20230425193418.png",
+    "NumDiffDiff/Exam/Exam 2019.md",
     "NumDiffDiff/Week 15/Classical iterative methods.md",
     "NumDiffDiff/Week 15/Variational formulation of linear systems.md",
     "NumDiffDiff/Week 13/Example of 2D Poisson.md",
@@ -192,14 +204,6 @@
     "NumDiffDiff/Week 9/Dissipation and dispersion.md",
     "NumDiffDiff/Week 9/Implicit schemes.md",
     "NumDiffDiff/Week 11/P1 FEM in 1d-complication.md",
-    "NumDiffDiff/Week 11/P1 FEM in 1d.md",
-    "NumDiffDiff/Week 11/Neumann and mixed BCs.md",
-    "NumDiffDiff/Week 11/General boundary conditions.md",
-    "NumDiffDiff/Week 10/The Galerkin method.md",
-    "NumDiffDiff/Week 10/A FEM for 1d poisson.md",
-    "NumDiffDiff/Week 10/Weak formulation of PDEs.md",
-    "NumDiffDiff/Week 10/Some functional analysis.md",
-    "NumDiffDiff/Exam/Exam 2019.md",
     "Pasted image 20230425132006.png",
     "Pasted image 20230425122809.png",
     "Optimering/Summary/Summary - cliffnotes.md",
@@ -215,15 +219,10 @@
     "Screenshots/Pasted image 20230424152332.png",
     "Optimering/Summary",
     "LinStat/Chewyness factor of noodles.md",
-    "Optimering/Week 9/Quasi-Newton methods.md",
     "Optimering/Week 16",
     "Optimering/Week 15",
     "Screenshots/Pasted image 20230412163140.png",
     "NumDiffDiff/Week 15",
-    "Screenshots/Pasted image 20230412163011.png",
-    "Screenshots/Pasted image 20230412163202.png",
-    "Screenshots/Pasted image 20230412162812.png",
-    "Screenshots/Pasted image 20230412162730.png",
     "NumDiffDiff/Week 13",
     "NumDiffDiff/Week 12",
     "NumDiffDiff/Week 11",

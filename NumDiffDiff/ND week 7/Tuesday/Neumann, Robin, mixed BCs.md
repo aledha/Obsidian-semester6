@@ -7,7 +7,8 @@ Never use this since this is first order. Rather, we should use
 (ii) Fictitious node
 $$\frac{\partial u_{p}}{\partial n}=-\partial_{{x}}u_{p}=- \frac{u_{E}-u_{W}}{2h}+O(h^{2})+\text{ FDM at P}$$
 ## Irregular domain
-Notation: $d(P,Q)=d$  and  $d(Q,S)=h'$  and  $d(P,S)=k'$. (insert picture)
+Notation: $d(P,Q)=d$  and  $d(Q,S)=h'$  and  $d(P,S)=k'$. 
+(insert picture)
 ### (i)
 $$\frac{\partial u_{p}}{\partial n}= \frac{u_{P}-u_{Q}}{d}+O(d)$$
 where 

@@ -21,7 +21,7 @@ z(t) &= Z(t;x_{0},t_{0})
 \end{align*}$$
 And if $X:(x_{0},t_{0})\to(x,t)$   is invertible, then
 $$u(x,t)=z(t;X^{-1}(x,t))$$
-(Insert figure 2: curve)
+![[Pasted image 20230426134513.png|700]]
 
 ## Remark 2
 * Data/information **flows** from $\Sigma$ to $(x,t)$
@@ -46,7 +46,7 @@ $$\begin{align*}
 u(x,t)&= u(\ln(e^{x}-t),0)\\
 u(x,t)&= u_{0}(\ln(e^{x}-t))\quad\text{for }e^{x}>t
 \end{align*}$$
-(Insert sketch)
+![[Pasted image 20230426134657.png|600]]
 
 ### Example 5: Transport equation
 $$u_{t}+au_{x}=0\quad \quad u(x,0)=u_{0}(x)$$
@@ -55,5 +55,5 @@ $$\dot{x}=a \quad \stackrel{I.C, (5)}{\Rightarrow}\quad x(t)=x_{0}+a(t-t_{0})$$
 $$\dot{z}=0 \quad\Rightarrow\quad z(t)=z(t_{0})\stackrel{\text{def }z}{=}u(x_{0},t_{0})$$
 $$\quad \stackrel{t_{0}=0}{\Rightarrow}\quad u(x,t)=u(x_{0},0)=u_{0}(x_{0})$$
 $$u(x,t)\stackrel{x_{0}=x-at}{=}u_{0}(x-at)$$
-(insert sketch)
+![[Pasted image 20230426134712.png|600]]
 

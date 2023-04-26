@@ -27,7 +27,7 @@ $$u_{t}=au_{x}\quad \text{in }\quad \mathbb{R}\times(0,T)$$
 $$u(x,0)=u_{0}(x)$$
 Solution: (4k)
 $$u(x,t)=u_{0}(x-at)$$
-(First figure)
+![[Pasted image 20230426134627.png|700]]
 
 ### Example 3: Burger's equation
 $$u_{t}-uu_{x}=u_{t}+\partial_{x}\left(\frac{1}{2}u^{2}\right)=0$$

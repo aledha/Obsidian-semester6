@@ -12,7 +12,7 @@ $$u(x,0)=u_{0}(x),\qquad a>0$$
 With boundary conditions.
 x-characterstics:
 $$x(t) \stackrel{\text{example 5}}{=}x_{0}+a(t-t_{0})$$
-(insert sylinder)
+![[Pasted image 20230426134736.png|600]]
 
 Then the boundary conditions becomes:
 $$\begin{align*}
@@ -26,7 +26,7 @@ $$\Rightarrow\quad u(x,t)=z=g_{0}\left(t- \frac{x}{a}\right)$$
 Characteristics starting from $t=0$:
 $$\text{Example 5} \quad\Rightarrow\quad u(x,t)=u_{0}(x-at)$$
 Solution:
-(insert)
+![[Pasted image 20230426134755.png|600]]
 
 Need to have starting points on a large curve such that the solution fills the whole space.
 Think: tube of water.
@@ -52,11 +52,11 @@ $$v_{t}^{i}+\lambda_{i}v^{i}_{x}=0 \quad\Rightarrow\quad \dot{x_{i}}=\lambda_{i}
 #### Boundary conditions for $v_{i}$:
 $x=0$: 
 inflow when $\lambda_{i}>0$
-(insert)
+![[Pasted image 20230426135603.png|400]]
 
 $x=1$:
 inflow when $\lambda_{i}<0$
-(insert)
+![[Pasted image 20230426135620.png|400]]
 
 3 cases ($a>b,\quad a<b, \quad a=b$)
 	(i) $\lambda_{1},\lambda_{2}>0 \quad\Rightarrow\quad$
@@ -68,13 +68,13 @@ inflow when $\lambda_{i}<0$
 		$v_{2}$ no BC!
 
 ##### Case (i):
-(insert)
+![[Pasted image 20230426135637.png|700]]
 Boundary conditions,  $\vec{v_{0}}=\vec{g_{0}}$$\quad\Leftrightarrow\quad \vec{u}(0)=P \vec{g_{0}}$
 **or** $\vec{u}(0)= \vec{\phi_{0}}\quad\Leftrightarrow\quad \vec{v}(0)=P^{T}\vec{\phi_{0}}$
 Can choose $\vec\phi_{0}$ freely
 
 ##### Case (ii):
-(insert)
+![[Pasted image 20230426135657.png|700]]
 Bondary conditions:
 $v_{1}=g_{0}\quad \vec v_{2}(1)=\vec g_{1}$
 Using $\vec{u}=P^{T}\vec{v}$:

@@ -11,8 +11,11 @@
             "id": "79a072318dd50075",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
             }
           },
           {
@@ -93,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,7 +174,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79a072318dd50075",
+  "active": "1e3ca41686d301b2",
   "lastOpenFiles": [
     "NumDiffDiff/Exam/Exam 2019.md",
     "NumDiffDiff/Week 11/P1 FEM in 1d.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Week 16/Interior point methods for linear programmes.md",
+                "file": "Optimering/Summary/Summary - cliffnotes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Week 16/Interior point methods for linear programmes.md",
+                "file": "Optimering/Summary/Summary - cliffnotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Week 16/Interior point methods for linear programmes.md",
+                "file": "Optimering/Summary/Summary - cliffnotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Week 16/Interior point methods for linear programmes.md"
+                "file": "Optimering/Summary/Summary - cliffnotes.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "549033c7b9750caf",
   "lastOpenFiles": [
+    "Optimering/Week 16/Interior point methods for linear programmes.md",
+    "Optimering/Week 16/Week 16.md",
     "desktop.ini",
     "preamble.sty",
     "Screenshots/Pasted image 20230425193749.png",
@@ -185,14 +187,12 @@
     "Optimering/Week 8/Slater's constraint qualification.md",
     "Optimering/Week 8/Penality and barrier methods.md",
     "Optimering/Week 8/Quadratic penalty method.md",
-    "Optimering/Week 8/Augmented Lagrangian method.md",
     "Optimering/Week 7/Monday",
     "Optimering/Week 7/Friday",
     "Optimering/Week 11",
     "Optimering/Week 10",
     "Optimering/Week 9",
     "Optimering/Week 8",
-    "Optimering/Week 7",
-    "Optimering/Week 15"
+    "Optimering/Week 7"
   ]
 }

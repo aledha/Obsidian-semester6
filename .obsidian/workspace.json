@@ -1,39 +1,19 @@
 {
   "main": {
-    "id": "8e601ed9c3ec249d",
+    "id": "b8244be761546e8d",
     "type": "split",
     "children": [
       {
-        "id": "3d1b977622e9d884",
+        "id": "70a20b2969bff327",
         "type": "tabs",
         "children": [
           {
-            "id": "79a072318dd50075",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "87f01fa4840e9d36",
+            "id": "549033c7b9750caf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Week 7/Monday/KKT-conditions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "181ac23039078699",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Optimering/Week 15/Duality theorem.md",
+                "file": "Optimering/Week 16/Interior point methods for linear programmes.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,33 +25,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7e6c6c2d61d34092",
+    "id": "06bdc3f4b5c8a790",
     "type": "split",
     "children": [
       {
-        "id": "6a41bc3c6d0c945b",
+        "id": "808f1743c8afab09",
         "type": "tabs",
         "children": [
           {
-            "id": "1e3ca41686d301b2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "5d7e09c7d111af60",
+            "id": "826fa17f1ad70a45",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "fc299c0c2c80978b",
+            "id": "5824235e7da2c60f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -86,34 +58,34 @@
             }
           },
           {
-            "id": "b77821847d1b6236",
+            "id": "725f7e499cfb3273",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 300
   },
   "right": {
-    "id": "03198d569b8cf077",
+    "id": "1f91deb453cce75e",
     "type": "split",
     "children": [
       {
-        "id": "7b07b3b56432ede8",
+        "id": "f03247e46ee0b165",
         "type": "tabs",
         "children": [
           {
-            "id": "6c9475c85da2f3ba",
+            "id": "3e94570900ea487d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Optimering/Week 16/Interior point methods for linear programmes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,18 +97,19 @@
             }
           },
           {
-            "id": "f0d908eeb2ed9322",
+            "id": "a92eb9b6b866c1dc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Optimering/Week 16/Interior point methods for linear programmes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6078262a9a812f8d",
+            "id": "f4262ad12f2f4910",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,19 +120,20 @@
             }
           },
           {
-            "id": "705dd4988a3ce55e",
+            "id": "05a9e3c7996de636",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Optimering/Week 16/Interior point methods for linear programmes.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -172,53 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79a072318dd50075",
+  "active": "549033c7b9750caf",
   "lastOpenFiles": [
-    "NumDiffDiff/Exam/Exam 2019.md",
-    "NumDiffDiff/Week 11/P1 FEM in 1d.md",
-    "NumDiffDiff/ND week 7/Tuesday/Neumann, Robin, mixed BCs.md",
-    "NumDiffDiff/ND week 7/Tuesday/General discrete maximal principle.md",
-    "NumDiffDiff/ND week 7/Tuesday/Irregular grid.md",
-    "NumDiffDiff/ND week 7/Tuesday/Variable step size.md",
-    "NumDiffDiff/ND week 7/Tuesday/Self-adjoint problems.md",
-    "NumDiffDiff/ND week 7/Tuesday/Defintion of self-adjoint problems.md",
-    "NumDiffDiff/ND week 7/Thursday/Triangular grids.md",
-    "NumDiffDiff/ND week 7/Thursday/Box-integration.md",
-    "NumDiffDiff/ND week 7/Thursday/FDMs through integration..md",
-    "NumDiffDiff/ND week 7/Thursday/Error and stability analysis.md",
-    "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
-    "Pasted image 20230426135657.png",
-    "Pasted image 20230426135637.png",
-    "Pasted image 20230426135620.png",
-    "Pasted image 20230426135603.png",
-    "NumDiffDiff/Exercises and projects/Project 1/1a).md",
-    "NumDiffDiff/Week 11/P1 FEM in 1d-complication.md",
-    "Optimering/Week 15/Duality theorem.md",
-    "Optimering/Week 16/Interior point methods for linear programmes.md",
+    "desktop.ini",
+    "preamble.sty",
+    "Screenshots/Pasted image 20230425193749.png",
+    "Screenshots/Pasted image 20230425193659.png",
+    "Screenshots/Pasted image 20230425193438.png",
+    "Screenshots/Pasted image 20230425193418.png",
+    "Screenshots/Pasted image 20230425132006.png",
+    "Screenshots/Pasted image 20230425122809.png",
+    "Screenshots/Pasted image 20230424152530.png",
+    "Screenshots/Pasted image 20230424152353.png",
+    "Screenshots/Pasted image 20230424152332.png",
+    "Screenshots/Pasted image 20230412163202.png",
+    "Screenshots",
+    "Optimering/Week 7/Monday/Lecture 11.md",
+    "Optimering/Week 7/Monday/LICQ.md",
+    "Optimering/Week 7/Monday/Farkas Lemma.md",
+    "Optimering/Week 7/Monday/KKT-conditions.md",
+    "Optimering/Week 7/Friday/Second order optimality conditions.md",
+    "Optimering/Week 7/Friday/Lecture 12.md",
+    "Optimering/Week 7/Friday/Example of KKT.md",
+    "Optimering/Week 11/SQP method for equality constraints.md",
+    "Optimering/Week 11/Week 11.md",
+    "Optimering/Week 11/Quadratic programming.md",
+    "Optimering/Week 11/Active set method.md",
+    "Optimering/Week 10/Week 10.md",
+    "Optimering/Week 10/Non-linear least squares problems.md",
     "Optimering/Week 10/Linear programming.md",
-    "Optimering/Week 15/Lagrangian duality.md",
-    "NumDiffDiff/Week 12/Convergence of Galerkin method.md",
-    "NumDiffDiff/Week 8/Discretisation of the transport equation.md",
-    "Pasted image 20230426134755.png",
-    "Pasted image 20230426134736.png",
-    "NumDiffDiff/Week 8/Method of characteristics.md",
-    "Pasted image 20230426134712.png",
-    "Pasted image 20230426134657.png",
-    "NumDiffDiff/Week 8/Hyperbolic equations.md",
-    "Pasted image 20230426134627.png",
-    "NumDiffDiff/Week 8/ND Week 8.md",
-    "Pasted image 20230426134513.png",
-    "Optimering/Week 8/Quadratic penalty method.md",
+    "Optimering/Week 10/Exact solution of the trust region problem.md",
+    "Optimering/Week 9/Trust region methods.md",
+    "Optimering/Week 9/Quasi-Newton methods.md",
+    "Optimering/Week 9/SR1-method.md",
+    "Optimering/Week 9/DFP and BFGS method.md",
+    "Optimering/Week 9/Chapter 5- Advanced methods for unconstrained optimization.md",
+    "Optimering/Week 8/Week 8.md",
     "Optimering/Week 8/Slater's constraint qualification.md",
-    "Untitled",
-    "NumDiffDiff/Exam",
-    "Optimering/Summary",
-    "Optimering/Week 16",
-    "Optimering/Week 15",
-    "NumDiffDiff/Week 15",
-    "NumDiffDiff/Week 13",
-    "NumDiffDiff/Week 12",
-    "NumDiffDiff/Week 11",
-    "Optimering/Week 11"
+    "Optimering/Week 8/Penality and barrier methods.md",
+    "Optimering/Week 8/Quadratic penalty method.md",
+    "Optimering/Week 8/Augmented Lagrangian method.md",
+    "Optimering/Week 7/Monday",
+    "Optimering/Week 7/Friday",
+    "Optimering/Week 11",
+    "Optimering/Week 10",
+    "Optimering/Week 9",
+    "Optimering/Week 8",
+    "Optimering/Week 7",
+    "Optimering/Week 15"
   ]
 }

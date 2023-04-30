@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3994ffbf3efd585f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Week 7/Monday/KKT-conditions.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Week 7/Monday/KKT-conditions.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Week 7/Monday/KKT-conditions.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -168,8 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d7e09c7d111af60",
+  "active": "1e3ca41686d301b2",
   "lastOpenFiles": [
+    "Optimering/Week 7/Monday/KKT-conditions.md",
+    "conflict-files-obsidian-git.md",
+    "desktop.ini",
     "NumDiffDiff/Exam/Exam 2019.md",
     "NumDiffDiff/Week 11/P1 FEM in 1d.md",
     "NumDiffDiff/ND week 7/Tuesday/Neumann, Robin, mixed BCs.md",
@@ -204,8 +219,6 @@
     "Pasted image 20230426134627.png",
     "NumDiffDiff/Week 8/ND Week 8.md",
     "Pasted image 20230426134513.png",
-    "Optimering/Week 8/Quadratic penalty method.md",
-    "Optimering/Week 8/Slater's constraint qualification.md",
     "Untitled",
     "NumDiffDiff/Exam",
     "Optimering/Summary",
@@ -214,7 +227,6 @@
     "NumDiffDiff/Week 15",
     "NumDiffDiff/Week 13",
     "NumDiffDiff/Week 12",
-    "NumDiffDiff/Week 11",
-    "Optimering/Week 11"
+    "NumDiffDiff/Week 11"
   ]
 }

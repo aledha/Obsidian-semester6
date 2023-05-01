@@ -1,4 +1,4 @@
-Assume that $x^{*}$ is a point where the [[KKT-conditions]] holds with Lagrange parameter $\lambda^{*}$.
+Assume that $x^{*}$ is a point where the [[KKT-conditions]] holds with Lagrange parameters $\lambda^{*}$.
 ## Critical cone
 $$\mathcal{C}(x^{*},\lambda^{*})=\begin{cases}
 p\in \mathcal{F}_\Omega(x^{*}):\quad {\left\langle \nabla c_{i}(x^{*}),p \right\rangle}=0

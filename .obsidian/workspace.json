@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Week 7/Monday/KKT-conditions.md",
+                "file": "Optimering/Week 7/Friday/Second order optimality conditions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "181ac23039078699",
+            "id": "8e6844b9953672ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Week 15/Duality theorem.md",
+                "file": "Optimering/Exams/Exam 2019.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "critic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Optimering/Week 7/Friday/Second order optimality conditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Optimering/Week 7/Friday/Second order optimality conditions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Optimering/Week 7/Friday/Second order optimality conditions.md"
+              }
             }
           }
         ],
@@ -164,10 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e3ca41686d301b2",
+  "active": "87f01fa4840e9d36",
   "lastOpenFiles": [
-    "Optimering/Week 7/Monday/KKT-conditions.md",
+    "Optimering/Week 7/Friday/Example of KKT.md",
+    "Optimering/Exams/Exam 2019.md",
+    "Optimering/Exams",
+    "Optimering/Week 8/Augmented Lagrangian method.md",
+    "Optimering/Week 8/Slater's constraint qualification.md",
+    "Optimering/Week 11/SQP method for equality constraints.md",
+    "Optimering/Week 9/Trust region methods.md",
+    "Optimering/Summary/Summary - cliffnotes.md",
+    "Screenshots/Pasted image 20230426134513.png",
+    "Optimering/Week 15/Duality theorem.md",
     "conflict-files-obsidian-git.md",
+    "Optimering/Week 7/Monday/KKT-conditions.md",
     "desktop.ini",
     "NumDiffDiff/Exam/Exam 2019.md",
     "NumDiffDiff/Week 11/P1 FEM in 1d.md",
@@ -182,28 +196,18 @@
     "NumDiffDiff/ND week 7/Thursday/FDMs through integration..md",
     "NumDiffDiff/ND week 7/Thursday/Error and stability analysis.md",
     "NumDiffDiff/Week 8/Boundary conditions for hyperbolic equations.md",
-    "Pasted image 20230426135657.png",
-    "Pasted image 20230426135637.png",
-    "Pasted image 20230426135620.png",
-    "Pasted image 20230426135603.png",
+    "Screenshots/Pasted image 20230426135657.png",
+    "Screenshots/Pasted image 20230426135637.png",
+    "Screenshots/Pasted image 20230426135620.png",
+    "Screenshots/Pasted image 20230426135603.png",
     "NumDiffDiff/Exercises and projects/Project 1/1a).md",
     "NumDiffDiff/Week 11/P1 FEM in 1d-complication.md",
-    "Optimering/Week 15/Duality theorem.md",
     "Optimering/Week 16/Interior point methods for linear programmes.md",
-    "Optimering/Week 10/Linear programming.md",
-    "Optimering/Week 15/Lagrangian duality.md",
-    "NumDiffDiff/Week 12/Convergence of Galerkin method.md",
-    "NumDiffDiff/Week 8/Discretisation of the transport equation.md",
-    "Pasted image 20230426134755.png",
-    "Pasted image 20230426134736.png",
-    "NumDiffDiff/Week 8/Method of characteristics.md",
-    "Pasted image 20230426134712.png",
-    "Pasted image 20230426134657.png",
-    "NumDiffDiff/Week 8/Hyperbolic equations.md",
-    "Pasted image 20230426134627.png",
-    "NumDiffDiff/Week 8/ND Week 8.md",
-    "Pasted image 20230426134513.png",
-    "Untitled",
+    "Screenshots/Pasted image 20230426134755.png",
+    "Screenshots/Pasted image 20230426134736.png",
+    "Screenshots/Pasted image 20230426134712.png",
+    "Screenshots/Pasted image 20230426134657.png",
+    "Screenshots/Pasted image 20230426134627.png",
     "NumDiffDiff/Exam",
     "Optimering/Summary",
     "Optimering/Week 16",

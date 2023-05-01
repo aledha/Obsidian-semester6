@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Week 11/SQP method for equality constraints.md",
-                "mode": "source",
+                "file": "Optimering/Week 8/Augmented Lagrangian method.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "armijo",
+                "query": "kkt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Week 11/SQP method for equality constraints.md",
+                "file": "Optimering/Week 8/Augmented Lagrangian method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Week 11/SQP method for equality constraints.md",
+                "file": "Optimering/Week 8/Augmented Lagrangian method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Week 11/SQP method for equality constraints.md"
+                "file": "Optimering/Week 8/Augmented Lagrangian method.md"
               }
             }
           }
@@ -146,8 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "826fa17f1ad70a45",
+  "active": "549033c7b9750caf",
   "lastOpenFiles": [
+    "Optimering/Week 7/Monday/KKT-conditions.md",
+    "Optimering/Week 8/Augmented Lagrangian method.md",
+    "Optimering/Week 8/Slater's constraint qualification.md",
+    "Optimering/Week 15/Duality theorem.md",
+    "Optimering/Week 11/SQP method for equality constraints.md",
     "Optimering/Summary/Summary - cliffnotes.md",
     "Optimering/Week 16/Interior point methods for linear programmes.md",
     "Optimering/Week 16/Week 16.md",
@@ -167,11 +173,9 @@
     "Optimering/Week 7/Monday/Lecture 11.md",
     "Optimering/Week 7/Monday/LICQ.md",
     "Optimering/Week 7/Monday/Farkas Lemma.md",
-    "Optimering/Week 7/Monday/KKT-conditions.md",
     "Optimering/Week 7/Friday/Second order optimality conditions.md",
     "Optimering/Week 7/Friday/Lecture 12.md",
     "Optimering/Week 7/Friday/Example of KKT.md",
-    "Optimering/Week 11/SQP method for equality constraints.md",
     "Optimering/Week 11/Week 11.md",
     "Optimering/Week 11/Quadratic programming.md",
     "Optimering/Week 11/Active set method.md",
@@ -184,9 +188,6 @@
     "Optimering/Week 9/SR1-method.md",
     "Optimering/Week 9/DFP and BFGS method.md",
     "Optimering/Week 9/Chapter 5- Advanced methods for unconstrained optimization.md",
-    "Optimering/Week 8/Week 8.md",
-    "Optimering/Week 8/Slater's constraint qualification.md",
-    "Optimering/Week 8/Penality and barrier methods.md",
     "Optimering/Week 7/Monday",
     "Optimering/Week 7/Friday",
     "Optimering/Week 11",

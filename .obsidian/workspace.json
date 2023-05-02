@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimering/Week 7/Friday/Second order optimality conditions.md",
+                "file": "Optimering/Week 8/Slater's constraint qualification.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "critic",
+                "query": "kkt suffi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Week 7/Friday/Second order optimality conditions.md",
+                "file": "Optimering/Week 8/Slater's constraint qualification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Week 7/Friday/Second order optimality conditions.md",
+                "file": "Optimering/Week 8/Slater's constraint qualification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimering/Week 7/Friday/Second order optimality conditions.md"
+                "file": "Optimering/Week 8/Slater's constraint qualification.md"
               }
             }
           }
@@ -170,18 +170,20 @@
   },
   "active": "87f01fa4840e9d36",
   "lastOpenFiles": [
+    "Optimering/Week 7/Monday/Lecture 11.md",
+    "Optimering/Week 8/Augmented Lagrangian method.md",
+    "Optimering/Week 7/Monday/KKT-conditions.md",
+    "Optimering/Week 8/Slater's constraint qualification.md",
+    "Optimering/Week 7/Friday/Second order optimality conditions.md",
     "Optimering/Week 7/Friday/Example of KKT.md",
     "Optimering/Exams/Exam 2019.md",
     "Optimering/Exams",
-    "Optimering/Week 8/Augmented Lagrangian method.md",
-    "Optimering/Week 8/Slater's constraint qualification.md",
     "Optimering/Week 11/SQP method for equality constraints.md",
     "Optimering/Week 9/Trust region methods.md",
     "Optimering/Summary/Summary - cliffnotes.md",
     "Screenshots/Pasted image 20230426134513.png",
     "Optimering/Week 15/Duality theorem.md",
     "conflict-files-obsidian-git.md",
-    "Optimering/Week 7/Monday/KKT-conditions.md",
     "desktop.ini",
     "NumDiffDiff/Exam/Exam 2019.md",
     "NumDiffDiff/Week 11/P1 FEM in 1d.md",
@@ -201,8 +203,6 @@
     "Screenshots/Pasted image 20230426135620.png",
     "Screenshots/Pasted image 20230426135603.png",
     "NumDiffDiff/Exercises and projects/Project 1/1a).md",
-    "NumDiffDiff/Week 11/P1 FEM in 1d-complication.md",
-    "Optimering/Week 16/Interior point methods for linear programmes.md",
     "Screenshots/Pasted image 20230426134755.png",
     "Screenshots/Pasted image 20230426134736.png",
     "Screenshots/Pasted image 20230426134712.png",

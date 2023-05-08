@@ -18,8 +18,52 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c799f0dbfe53448",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
+          },
+          {
+            "id": "556d8de7a6e6b035",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "staged": false,
+                "file": "conflict-files-obsidian-git.md"
+              }
+            }
+          },
+          {
+            "id": "5e501fd21d59b45f",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".gitignore",
+                "staged": true
+              }
+            }
+          },
+          {
+            "id": "a14493345751f3f0",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -64,9 +108,25 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "20a6528377da5183",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "03f0dcdad2d9bb97",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -86,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimering/Week 8/Augmented Lagrangian method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +162,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimering/Week 8/Augmented Lagrangian method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +183,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Optimering/Week 8/Augmented Lagrangian method.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -147,10 +204,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "549033c7b9750caf",
+  "active": "a14493345751f3f0",
   "lastOpenFiles": [
-    "Optimering/Week 7/Monday/KKT-conditions.md",
+    "conflict-files-obsidian-git.md",
     "Optimering/Week 8/Augmented Lagrangian method.md",
+    "Screenshots/Pasted image 20230426135657.png",
+    "Screenshots/Pasted image 20230426135637.png",
+    "Screenshots/Pasted image 20230426135620.png",
+    "Screenshots/Pasted image 20230426135603.png",
+    "Screenshots/Pasted image 20230426134755.png",
+    "Screenshots/Pasted image 20230426134736.png",
+    "Screenshots/Pasted image 20230426134712.png",
+    "Screenshots/Pasted image 20230426134657.png",
+    "Screenshots/Pasted image 20230426134627.png",
+    "Screenshots/Pasted image 20230426134513.png",
+    "Optimering/Exams/Exam 2019.md",
+    "Optimering/Exams",
+    "Optimering/Week 7/Monday/KKT-conditions.md",
     "Optimering/Week 8/Slater's constraint qualification.md",
     "Optimering/Week 15/Duality theorem.md",
     "Optimering/Week 11/SQP method for equality constraints.md",
@@ -159,16 +229,6 @@
     "Optimering/Week 16/Week 16.md",
     "desktop.ini",
     "preamble.sty",
-    "Screenshots/Pasted image 20230425193749.png",
-    "Screenshots/Pasted image 20230425193659.png",
-    "Screenshots/Pasted image 20230425193438.png",
-    "Screenshots/Pasted image 20230425193418.png",
-    "Screenshots/Pasted image 20230425132006.png",
-    "Screenshots/Pasted image 20230425122809.png",
-    "Screenshots/Pasted image 20230424152530.png",
-    "Screenshots/Pasted image 20230424152353.png",
-    "Screenshots/Pasted image 20230424152332.png",
-    "Screenshots/Pasted image 20230412163202.png",
     "Screenshots",
     "Optimering/Week 7/Monday/Lecture 11.md",
     "Optimering/Week 7/Monday/LICQ.md",
@@ -186,14 +246,11 @@
     "Optimering/Week 9/Trust region methods.md",
     "Optimering/Week 9/Quasi-Newton methods.md",
     "Optimering/Week 9/SR1-method.md",
-    "Optimering/Week 9/DFP and BFGS method.md",
-    "Optimering/Week 9/Chapter 5- Advanced methods for unconstrained optimization.md",
     "Optimering/Week 7/Monday",
     "Optimering/Week 7/Friday",
     "Optimering/Week 11",
     "Optimering/Week 10",
     "Optimering/Week 9",
-    "Optimering/Week 8",
-    "Optimering/Week 7"
+    "Optimering/Week 8"
   ]
 }

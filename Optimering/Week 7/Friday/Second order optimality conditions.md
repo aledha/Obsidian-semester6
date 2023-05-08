@@ -1,4 +1,4 @@
-Assume that $x^{*}$ is a point where the [[KKT-conditions]] holds with Lagrange parameter $\lambda^{*}$.
+Assume that $x^{*}$ is a point where the [[KKT-conditions]] holds with Lagrange parameters $\lambda^{*}$.
 ## Critical cone
 $$\mathcal{C}(x^{*},\lambda^{*})=\begin{cases}
 p\in \mathcal{F}_\Omega(x^{*}):\quad {\left\langle \nabla c_{i}(x^{*}),p \right\rangle}=0
@@ -68,4 +68,4 @@ $$\mathcal{C}(x,\lambda)= \begin{cases}
 p \in \mathbb{R}^{d}:\quad {\left\langle \nabla c_{i}(x),p \right\rangle}=0 \quad\forall\quad i
 \end{cases}$$
 LICQ $\quad\Rightarrow\quad$ $\nabla c_{i}(x)$ form a basis for $\mathbb{R}^{d}$.
-Then the second order optimality condition is automatically satisfied. $\quad\Rightarrow\quad$ we have found a solution
+Then the second order optimality condition is automatically satisfied. $\quad\Rightarrow\quad$ we have found a solutionori

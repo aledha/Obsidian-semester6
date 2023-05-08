@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "b8244be761546e8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec679bb60e7369f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70cab38b945301b9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "88144f9308a0ba88",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06bdc3f4b5c8a790",
+    "type": "split",
+    "children": [
+      {
+        "id": "808f1743c8afab09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "826fa17f1ad70a45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5824235e7da2c60f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "kkt",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "725f7e499cfb3273",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "20a6528377da5183",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "03f0dcdad2d9bb97",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f91deb453cce75e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f03247e46ee0b165",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e94570900ea487d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a92eb9b6b866c1dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4262ad12f2f4910",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "05a9e3c7996de636",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "88144f9308a0ba88",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Optimering/Opt exercises/Project 1 TMA4180.md",
+    "Optimering/Opt exercises/Project 1 problem 8.md",
+    "Optimering/Opt exercises/Ex 5.md",
+    "Optimering/Opt exercises/Project 1 code explaination.md",
+    "Optimering/Week 16/Interior point methods for linear programmes.md",
+    "Optimering/Summary/Summary - cliffnotes.md",
+    "Optimering/Week 16/Week 16.md",
+    "Optimering/Summary/Question session.md",
+    "Optimering/Week 8/Augmented Lagrangian method.md",
+    "Screenshots/Pasted image 20230426135657.png",
+    "Screenshots/Pasted image 20230426135637.png",
+    "Screenshots/Pasted image 20230426135620.png",
+    "Screenshots/Pasted image 20230426135603.png",
+    "Screenshots/Pasted image 20230426134755.png",
+    "Screenshots/Pasted image 20230426134736.png",
+    "Screenshots/Pasted image 20230426134712.png",
+    "Screenshots/Pasted image 20230426134657.png",
+    "Screenshots/Pasted image 20230426134627.png",
+    "Screenshots/Pasted image 20230426134513.png",
+    "Optimering/Exams/Exam 2019.md",
+    "Optimering/Exams",
+    "Optimering/Week 7/Monday/KKT-conditions.md",
+    "Optimering/Week 8/Slater's constraint qualification.md",
+    "Optimering/Week 15/Duality theorem.md",
+    "Optimering/Week 11/SQP method for equality constraints.md",
+    "desktop.ini",
+    "preamble.sty",
+    "Screenshots",
+    "Optimering/Week 7/Monday/Lecture 11.md",
+    "Optimering/Week 7/Monday/LICQ.md",
+    "Optimering/Week 7/Monday/Farkas Lemma.md",
+    "Optimering/Week 7/Friday/Second order optimality conditions.md",
+    "Optimering/Week 7/Friday/Lecture 12.md",
+    "Optimering/Week 7/Friday/Example of KKT.md",
+    "Optimering/Week 11/Week 11.md",
+    "Optimering/Week 11/Quadratic programming.md",
+    "Optimering/Week 11/Active set method.md",
+    "Optimering/Week 10/Week 10.md",
+    "Optimering/Week 10/Non-linear least squares problems.md",
+    "Optimering/Week 7/Monday",
+    "Optimering/Week 7/Friday",
+    "Optimering/Week 11",
+    "Optimering/Week 10",
+    "Optimering/Week 9",
+    "Optimering/Week 8"
+  ]
+}

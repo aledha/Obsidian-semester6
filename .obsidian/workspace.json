@@ -11,11 +11,10 @@
             "id": "549033c7b9750caf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Optimering/Week 8/Augmented Lagrangian method.md",
-                "mode": "preview",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           },
@@ -62,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,10 +202,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a14493345751f3f0",
+  "active": "549033c7b9750caf",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Optimering/Week 8/Augmented Lagrangian method.md",
+    "conflict-files-obsidian-git.md",
     "Screenshots/Pasted image 20230426135657.png",
     "Screenshots/Pasted image 20230426135637.png",
     "Screenshots/Pasted image 20230426135620.png",

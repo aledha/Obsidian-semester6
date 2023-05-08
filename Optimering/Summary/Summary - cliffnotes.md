@@ -1,3 +1,4 @@
+hei
 [PDF](https://wiki.math.ntnu.no/_media/tma4180/2023v/summary.pdf)
 ## Theory of optimization:
 - [[Basics]]: The study of finding the best solution to a problem.

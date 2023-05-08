@@ -15,7 +15,7 @@ q(\lambda ,s)&= \min_\limits{x}\mathcal{L}(x,\lambda ,s)\\
 \end{cases}.
 \end{align*}$$
 $\implies\quad$ the dual problem becomes
-$$\max_\limits{\lambda ,s} \lambda ^{T}b \qquad\text{s.t.}\quad A^{T}\lambda +s=c~~ \text{ and }~~s\ge0$$
+$$\min_\limits{\lambda ,s} \lambda ^{T}b \qquad\text{s.t.}\quad A^{T}\lambda +s=c~~ \text{ and }~~s\ge0$$
 	(or) 
 $$\max_\limits{\lambda }\lambda ^{T}b \qquad\text{s.t.}\quad A^{T}\lambda \le c$$
 	Interestingly: the lagrangian dual to this dual problem **is** the primal problem!

@@ -1,6 +1,6 @@
 # to exclude Obsidian workspace settings (including plugin and hotkey configurations)
 .obsidian/*
-.obsidian/workspace.json
+.obsidian/workspace
 .DS_Store
 
 # This file is used to keep track of last auto backup/pull
@@ -15,3 +15,6 @@ null*
 .trash/
 .DS_Store
 
+
+conflict-files-obsidian-git.md
+.workspace

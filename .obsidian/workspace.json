@@ -13,8 +13,19 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": ".gitignore",
+                "staged": true
+              }
+            }
+          },
+          {
+            "id": "09051a523d4be700",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Optimering/Summary/Question session.md",
+                "staged": true
               }
             }
           },
@@ -61,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,10 +214,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "549033c7b9750caf",
+  "active": "03f0dcdad2d9bb97",
   "lastOpenFiles": [
-    "Optimering/Week 8/Augmented Lagrangian method.md",
     "conflict-files-obsidian-git.md",
+    "Optimering/Summary/Question session.md",
+    "Optimering/Week 8/Augmented Lagrangian method.md",
     "Screenshots/Pasted image 20230426135657.png",
     "Screenshots/Pasted image 20230426135637.png",
     "Screenshots/Pasted image 20230426135620.png",
@@ -243,7 +256,6 @@
     "Optimering/Week 10/Exact solution of the trust region problem.md",
     "Optimering/Week 9/Trust region methods.md",
     "Optimering/Week 9/Quasi-Newton methods.md",
-    "Optimering/Week 9/SR1-method.md",
     "Optimering/Week 7/Monday",
     "Optimering/Week 7/Friday",
     "Optimering/Week 11",

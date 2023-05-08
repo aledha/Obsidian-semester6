@@ -3,12 +3,6 @@
 .obsidian/workspace.json
 .DS_Store
 
-# OR only to exclude workspace cache
-.obsidian/workspace/*
-
-# Exclude plugins
-.obsidian/plugins/*
-
 # This file is used to keep track of last auto backup/pull
 .obsidian-git-data
 

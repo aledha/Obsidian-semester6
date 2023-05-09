@@ -24,3 +24,6 @@ Last three years-home exams.
 2014-2019 most relevant. (four are same lecturer)
 Will not deviate 
 More duality and multicriteria constraints (vector constraints) on this exam. 
+
+OG notes:
+look at tangent cone def

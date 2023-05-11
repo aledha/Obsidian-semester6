@@ -3,7 +3,7 @@ Last topic: [[Variable step size]]
 
 $$-\mathcal{L}_{h}V_{P}= \alpha_{PP}V_{P}- \sum\limits_{Q≠P}\alpha_{PQ}V_{Q}\qquad \text{for }P\in \mathbb{G}, Q\in \overline{\mathbb{G}}$$
 Assume:
-1. (A1) **Positive coefficients** scheme
+1. (A1)  **Positive coefficients** scheme
 $$\alpha_{PQ}\ge0,\qquad \alpha_{PP}\ge \sum\limits_{Q≠P}\quad\forall\quad P\in \mathbb{G}, Q\in\overline{\mathbb{G}}$$
 2. (A2) **Boundary connected**
 For each $P\in \mathbb{G}$ there exists $Q\in \partial^{*}\mathbb{G}$ and $P_{1},\dots, P_{k}\in \mathbb{G}$ such that

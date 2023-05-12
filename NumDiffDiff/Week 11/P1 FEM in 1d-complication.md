@@ -1,7 +1,7 @@
 $$-\partial_{x}(\kappa (x)u_{x})=f(x)\quad\text{on }(0,1)$$
 with $u(0)=g_{0},\quad u(1)=g_{1}$
 Weak formulation:
-	Find $u\in H^{1}_{0}(0,1) \qquad\text{s.t.}\quad u(0)=g_{0}, \quad u(1)=g_{1}$ and
+	Find $u\in H^{1}(0,1) \qquad\text{s.t.}\quad u(0)=g_{0}, \quad u(1)=g_{1}$ and
 	$$a(u,v):=\int_{0}^{1}\kappa (x)u_{x}v_{x}\text{ d}x=\int_{0}^{1}fv \text{ d}x =: F(v)$$
 	$\quad\forall\quad v\in H^{1}_{0}(0,1)$.
 

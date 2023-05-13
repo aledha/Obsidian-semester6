@@ -1,0 +1,7 @@
+<u>Stability</u> in a numerical method refers to the property that small changes in the input (including both initial and boundary conditions, as well as any rounding errors) result in small changes in the output. Formally, if $||u_h(t)||$ is a norm of the solution at time $t$, then the scheme is stable if for every $T$, there exists a constant $C(T)$ such that: 
+$$||u_h(t)|| \leq C(T) \text{ for all } t \in [0, T].$$
+So, stability is about controlling the growth of errors, ensuring they do not blow up as the computation proceeds.
+
+On the other hand, <u>monotonicity</u> in the context of numerical methods for differential equations is a property of certain discretizations of these problems. A scheme is said to be monotone if it preserves the order of the function values. In other words, if the initial data is non-decreasing, then the numerical solution remains non-decreasing at later times.
+
+It's important to note that these are different properties and one does not imply the other. A scheme can be stable but not monotone, and vice versa. However, for certain types of equations (like scalar conservation laws), monotonicity can ensure stability under certain conditions, and such schemes are often preferred because they avoid the introduction of non-physical oscillations in the solution. This is a principle used in the design of many high-resolution schemes for hyperbolic conservation laws.

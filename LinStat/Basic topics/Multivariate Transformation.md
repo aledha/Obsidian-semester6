@@ -2,7 +2,7 @@ The multivariate transformation formula, also known as the Jacobian formula, is 
 
 Let's consider a transformation from an initial set of variables $\mathbf{X} = (X_1, X_2, \ldots, X_n)$ to a new set of variables $\mathbf{Y} = (Y_1, Y_2, \ldots, Y_m)$, where $n$ and $m$ represent the dimensions of the initial and transformed spaces, respectively.
 
-The multivariate transformation formula states that if $\mathbf{Y}$ is a function of $\mathbf{X}$ defined by $\mathbf{Y} = \mathbf{g}(\mathbf{X})$, where $\mathbf{g}$ is a vector-valued function, the joint probability density function (PDF) of $\mathbf{Y}$ can be computed as follows:
+<u>The multivariate transformation formula states</u> that if $\mathbf{Y}$ is a function of $\mathbf{X}$ defined by $\mathbf{Y} = \mathbf{g}(\mathbf{X})$, where $\mathbf{g}$ is a vector-valued function, the joint probability density function (PDF) of $\mathbf{Y}$ can be computed as follows:
 $$
 f_{\mathbf{Y}}(\mathbf{y}) = f_{\mathbf{X}}(\mathbf{x}) \left| \det \left( \frac{\partial \mathbf{g}}{\partial \mathbf{x}} \right) \right|,
 $$

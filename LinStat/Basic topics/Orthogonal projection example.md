@@ -1,0 +1,1 @@
+If $H=X(X^{T}X)^{-1}X^{T}$ it is symmetric and idempotent, which means that $H\mathbf{y}$ is the orthogonal projection of $\mathbf{y}$ onto the <u>column space</u> of $X$ (and $H$) for all $\mathbf{y}\in \mathbb{R}^{n}$. It is symmetric since $H^{T}H$ and idempotent: $H^{2}=H$.

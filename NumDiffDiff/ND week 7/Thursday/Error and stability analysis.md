@@ -3,7 +3,9 @@ $$-\mathcal{L}_{h}U_{P}=f_{P} \quad \text{in } \mathbb{G}\tag{Ph}$$
 Local truncation error
 $$\tau_{P}=\mathcal{L}u_{P}-\mathcal{L}_{h}u_{P}\quad \text{in }\mathbb{G}\tag{C}$$
 $$e_{p}=u_{P}-U_{P}$$
-$$-\mathcal{L}_{h}e_{P}=-\tau_{P}\quad \text{in }\mathbb{G}\tag{E}$$
+$$-\mathcal{L}_{h}e_{P}=-\mathcal{L}_{h}u_{P} -(-\mathcal{L}_{h}U_{P})$$
+$$=(-\mathcal{L}u_{P}+\tau _{P})-(-\mathcal{L}_{h}U_{P})=f_{P}+ \tau -f_{P}$$
+$$=-\tau_{P}\quad \text{in }\mathbb{G}\tag{E}$$
 $$e_{p}=0\quad \text{in }\mathbb{\partial G}$$
 $\mathcal{L}_{h}$ positive coefiicients, boundary connected. DMP:
 $$-\mathcal{L}_{h}V_{P}\le 0 \quad \text{in }\mathbb{G}$$

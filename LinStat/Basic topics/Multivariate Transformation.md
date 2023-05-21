@@ -4,9 +4,9 @@ Let's consider a transformation from an initial set of variables $\mathbf{X} = (
 
 <u>The multivariate transformation formula states</u> that if $\mathbf{Y}$ is a function of $\mathbf{X}$ defined by $\mathbf{Y} = \mathbf{g}(\mathbf{X})$, where $\mathbf{g}$ is a vector-valued function, the joint probability density function (PDF) of $\mathbf{Y}$ can be computed as follows:
 $$
-f_{\mathbf{Y}}(\mathbf{y}) = f_{\mathbf{X}}(\mathbf{x}) \left| \det \left( \frac{\partial \mathbf{g}}{\partial \mathbf{x}} \right) \right|,
+f_{\mathbf{Y}}(\mathbf{y}) = f_{\mathbf{X}}(\mathbf{x}) \left\lvert \det \left( \frac{\partial \mathbf{g}}{\partial \mathbf{x}} \right) \right\rvert,
 $$
-where $f_{\mathbf{X}}(\mathbf{x})$ is the joint PDF of $\mathbf{X}$ evaluated at $\mathbf{x}$, and $\left| \det \left( \frac{\partial \mathbf{g}}{\partial \mathbf{x}} \right) \right|$ represents the determinant of the Jacobian matrix, which is the matrix of partial derivatives of the components of $\mathbf{g}$ with respect to the components of $\mathbf{x}$.
+where $f_{\mathbf{X}}(\mathbf{x})$ is the joint PDF of $\mathbf{X}$ evaluated at $\mathbf{x}$, and $| \det \left( \partial_{\mathbf{x}} \mathbf{g} \right) |$ represents the determinant of the Jacobian matrix, which is the matrix of partial derivatives of the components of $\mathbf{g}$ with respect to the components of $\mathbf{x}$.
 
 In essence, the formula accounts for the stretching, shrinking, and rotation of the probability distribution due to the transformation. It incorporates the effects of changes in scale and orientation when mapping from the initial space to the transformed space.
 

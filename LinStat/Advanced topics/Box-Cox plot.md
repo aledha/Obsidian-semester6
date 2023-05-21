@@ -1,4 +1,4 @@
->The Box-Cox transformation plot is a graphical tool used in statistics to explore the optimal transformation of a variable to achieve approximate normality. The Box-Cox transformation is a power transformation that can be applied to non-normal data to make it more closely resemble a normal distribution. It is defined by the equation:
+>The Box-Cox transformation plot is a graphical tool used in statistics to explore the optimal transformation of a variable to achieve approximate [[Normal Distribution|normality]]. The Box-Cox transformation is a power transformation that can be applied to non-normal data to make it more closely resemble a [[normal distribution]]. It is defined by the equation:
 $$Y(\lambda) = \frac{{Y^\lambda - 1}}{\lambda}$$
 where $Y(\lambda)$ is the transformed variable, $Y$ is the original variable, and $\lambda$ is the transformation parameter.
 
@@ -9,7 +9,7 @@ The Box-Cox plot doesn’t include $1$ in the $95\%$ confidence interval (dotted
 
 ### Further reading
 ---
-The Box-Cox transformation plot helps determine the appropriate value of $\lambda$ for the transformation by visually inspecting the relationship between the transformation parameter and the resulting transformation's normality. The plot typically consists of the transformation parameter ($\lambda$) on the x-axis and a measure of normality (such as the Shapiro-Wilk statistic or the Anderson-Darling statistic) on the y-axis.
+The Box-Cox transformation plot helps determine the appropriate value of $\lambda$ for the transformation by visually inspecting the relationship between the transformation parameter and the resulting transformation's normality. The plot typically consists of the transformation parameter ($\lambda$) on the x-axis and a measure of normality (such as the [[Shapiro–Wilk test|Shapiro-Wilk statistic]] or the [[Anderson-Darling test|Anderson-Darling statistic]]) on the y-axis.
 
 To create a Box-Cox transformation plot, you would typically perform the following steps:
 

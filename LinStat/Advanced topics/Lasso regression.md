@@ -7,3 +7,12 @@ In this equation:
 - $X$ = design matrix containing the independent variables.
 - $\beta$  = vector of regression coefficients.
 - $\lambda$  = regularization parameter that controls the strength of the penalty term. It determines the trade-off between the least squares criterion (goodness of fit) and the penalty term (sparsity).
+
+### Example
+---
+>Given the R-code,
+![[Pasted image 20230521191557.png|350]]
+Write down the fitted regression model for the lasso regression.
+
+The fitted lasso regression model is:
+$$\hat{\text{Species}}^{1/3} = 3.54 + 2.8\cdot10^{-4} \cdot \text{Elevation}.$$

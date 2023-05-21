@@ -5,5 +5,5 @@ To construct an F-distributed random variable, we take a random variable $V$ tha
 The F-distributed random variable, denoted as $F$, is obtained by dividing $V$ by $p$ and dividing $W$ by $q$, resulting in the formula:
 $$
 F = \frac{V/p}{W/q},
-$$ 
+$$
 written as $F\sim F_{p,q}.$ 

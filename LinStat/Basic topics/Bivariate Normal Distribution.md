@@ -1,10 +1,10 @@
-The bivariate normal distribution can also be expressed using the covariance matrix. The covariance matrix for the variables $X$ and $Y$ is denoted as $\Sigma$ and defined as:
+The bivariate [[normal distribution]] can also be expressed using the [[Σ - Covariance Matrix|covariance matrix]]. The covariance matrix for the variables $X$ and $Y$ is denoted as $\Sigma$ and defined as:
 
 $$\Sigma = \begin{bmatrix} \sigma_X^2 & \rho\sigma_X\sigma_Y \\ \rho\sigma_X\sigma_Y & \sigma_Y^2 \end{bmatrix}$$
 
 Here, $\sigma_X^2$ and $\sigma_Y^2$ are the variances of $X$ and $Y$, respectively, and $\rho$ is the correlation coefficient between $X$ and $Y$.
 
-The probability density function (PDF) of the bivariate normal distribution using the covariance matrix is given by:
+The probability density function ([[PDF]]) of the bivariate normal distribution using the covariance matrix is given by:
 
 $$f(x, y) = \frac{1}{2\pi|\Sigma|^{1/2}}\exp\left(-\frac{1}{2}(\mathbf{x}-\boldsymbol{\mu})^T\Sigma^{-1}(\mathbf{x}-\boldsymbol{\mu})\right)$$
 

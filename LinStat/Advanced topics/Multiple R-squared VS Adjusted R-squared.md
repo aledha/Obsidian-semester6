@@ -1,6 +1,6 @@
-*The <u>Multiple R-squared</u> represents the proportion of the variance in the dependent variable that is explained by the independent variables in the model.*
+*The Multiple [[R-squared]] represents the proportion of the variance in the dependent variable that is explained by the independent variables in the model.*
 $$\text{V.S.}$$
-*The <u>Adjusted R-squared</u> adjusts the Multiple R-squared value based on the number of independent variables and the sample size. It penalizes the addition of unnecessary variables to the model, providing a more conservative estimate of the model's explanatory power.*
+*The [[R-squared adjusted|Adjusted R-squared]] adjusts the Multiple R-squared value based on the number of independent variables and the sample size. It penalizes the addition of unnecessary variables to the model, providing a more conservative estimate of the model's explanatory power.*
 
 ### Example
 

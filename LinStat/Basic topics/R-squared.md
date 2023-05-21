@@ -1,0 +1,3 @@
+R^2represents the proportion of the variance in the dependent variable (y) that can be explained by the independent variables (x) in a regression model. It ranges from 0 to 1, where 0 indicates that the model explains none of the variance and 1 indicates a perfect fit. The formula is
+$$R^2 = 1 - \frac{SSR}{SST}$$
+where SSR (Sum of Squares Residuals) is the sum of the squared differences between the observed values (y) and the predicted values (ŷ) from the regression model, and SST (Total Sum of Squares) is the sum of the squared differences between the observed values (y) and the mean of the dependent variable (ȳ).

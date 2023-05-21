@@ -1,4 +1,4 @@
-The Anderson-Darling test is a statistical test used to determine if a given sample of data follows a particular distribution, with the normal distribution being the most commonly tested distribution. The test is an extension of the Kolmogorov-Smirnov test and provides a more accurate assessment of normality, particularly for smaller sample sizes.
+>The Anderson-Darling test is a statistical test used to determine if a given sample of data follows a particular distribution (usually normal distr.) . The test is an extension of the Kolmogorov-Smirnov test and provides a more <u>accurate assessment of normality</u>, particularly for smaller sample sizes.
 
 The Anderson-Darling test evaluates the null hypothesis that a sample comes from a specific distribution, such as the normal distribution. The test calculates a test statistic, denoted as A^2, which is based on the discrepancies between the observed data and the expected values under the assumed distribution.
 

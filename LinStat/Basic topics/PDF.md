@@ -1,4 +1,4 @@
-$$\text{PDF = Probability Density Function. }$$
+>$$\text{PDF = Probability Density Function. }$$
 This function describes the likelihood of a continuous random variable taking on a particular value.
 
 For a random variable $X$, the PDF, often denoted by $f_X(x)$, has the following properties:

@@ -1,4 +1,4 @@
-The Box-Cox transformation plot is a graphical tool used in statistics to explore the optimal transformation of a variable to achieve approximate normality. The Box-Cox transformation is a power transformation that can be applied to non-normal data to make it more closely resemble a normal distribution. It is defined by the equation:
+>The Box-Cox transformation plot is a graphical tool used in statistics to explore the optimal transformation of a variable to achieve approximate normality. The Box-Cox transformation is a power transformation that can be applied to non-normal data to make it more closely resemble a normal distribution. It is defined by the equation:
 $$Y(\lambda) = \frac{{Y^\lambda - 1}}{\lambda}$$
 where $Y(\lambda)$ is the transformed variable, $Y$ is the original variable, and $\lambda$ is the transformation parameter.
 

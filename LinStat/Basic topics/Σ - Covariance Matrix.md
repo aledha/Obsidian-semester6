@@ -1,4 +1,4 @@
-The variance-covariance matrix, also known as the covariance matrix, is a matrix that captures the linear dependence between pairs of random variables in a multivariate random variable $\mathbf{X}$. If $\mathbf{X} = (X_1, X_2, \dots, X_n)^T$ is a random vector with $n$ elements, the covariance matrix $\Sigma$ is an $n \times n$ symmetric matrix, where each element $(i, j)$ represents the covariance between the $i$-th and $j$-th random variables, denoted as $\operatorname{Cov}(X_i, X_j)$.
+>The variance-covariance matrix, also known as the covariance matrix, is a matrix that captures the linear dependence between pairs of random variables in a multivariate random variable $\mathbf{X}$. If $\mathbf{X} = (X_1, X_2, \dots, X_n)^T$ is a random vector with $n$ elements, the covariance matrix $\Sigma$ is an $n \times n$ symmetric matrix, where each element $(i, j)$ represents the covariance between the $i$-th and $j$-th random variables, denoted as $\operatorname{Cov}(X_i, X_j)$.
 
 The covariance matrix $\Sigma$ is given by:
 $$

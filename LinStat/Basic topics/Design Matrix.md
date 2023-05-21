@@ -1,4 +1,4 @@
-The design matrix, denoted by $\mathbf{X}$, is a matrix that contains the values of the independent variables (also known as predictors or regressors) in a linear regression model. Each row of the design matrix represents an observation or data point, while each column represents a different independent variable.
+>The design matrix, denoted by $\mathbf{X}$, is a matrix that contains the values of the independent variables (also known as predictors or regressors) in a linear regression model. Each row of the design matrix represents an observation or data point, while each column represents a different independent variable.
 
 The design matrix is used in the linear regression model to estimate the coefficients (represented by $\hat{\beta}$) that define the relationship between the independent variables and the dependent variable.
 

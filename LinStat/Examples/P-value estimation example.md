@@ -1,4 +1,4 @@
-Given the data
+>Given the data
 ![[Pasted image 20230521170650.png|400]]
 we want to find the p-value of the Area. 
 

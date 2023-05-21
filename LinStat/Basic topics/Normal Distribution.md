@@ -1,4 +1,4 @@
-The normal distribution, also known as the Gaussian distribution, is one of the most commonly used probability distributions in statistics due to its nice mathematical properties and its prevalence in natural phenomena. 
+>The normal distribution, also known as the Gaussian distribution, is one of the most commonly used probability distributions in statistics due to its nice mathematical properties and its prevalence in natural phenomena. 
 
 The notation $N(0,1)$ refers to the standard normal distribution, which is a special case of the normal distribution where the mean $\mu = 0$ and the variance $\sigma^2 = 1$. The probability density function (pdf) of the standard normal distribution, denoted as $\phi(\cdot)$, is given by:
 $$\phi(x) = \frac{1}{\sqrt{2\pi}} e^{-\frac{x^2}{2}}$$

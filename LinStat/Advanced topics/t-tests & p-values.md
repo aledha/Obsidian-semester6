@@ -1,4 +1,4 @@
-The t-tests in the model summary provide information about the statistical significance of each independent variable in the regression model. The t-test assesses whether the estimated coefficient for each independent variable is significantly different from zero.
+>The t-tests in the model summary provide information about the statistical significance of each independent variable in the regression model. The t-test assesses whether the estimated coefficient for each independent variable is significantly different from zero.
 
 The t-value represents the estimated coefficient divided by its standard error. A higher absolute t value indicates a larger magnitude of the estimated coefficient relative to its variability.
 

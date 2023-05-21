@@ -1,4 +1,4 @@
-The multivariate transformation formula, also known as the Jacobian formula, is a mathematical expression used to compute the probability density function (PDF) of a transformed random vector. It allows us to determine the distribution of a function of multiple random variables.
+>The multivariate transformation formula, also known as the Jacobian formula, is a mathematical expression used to compute the probability density function (PDF) of a transformed random vector. It allows us to determine the distribution of a function of multiple random variables.
 
 Let's consider a transformation from an initial set of variables $\mathbf{X} = (X_1, X_2, \ldots, X_n)$ to a new set of variables $\mathbf{Y} = (Y_1, Y_2, \ldots, Y_m)$, where $n$ and $m$ represent the dimensions of the initial and transformed spaces, respectively.
 

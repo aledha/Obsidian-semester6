@@ -1,4 +1,3 @@
-
 An $n \times n$ square matrix $A$ is considered <u>idempotent</u> if when you multiply it by itself ($A^2$), you get the same matrix $A$. In other words, $A^2 = A$. 
 
 The <u>trace</u>, denoted as $\text{tr}(A)$, is simply the sum of the diagonal entries of the matrix. In general, the trace of a matrix is equal to the sum of its eigenvalues (counted with multiplicities) or the roots of the characteristic polynomial.

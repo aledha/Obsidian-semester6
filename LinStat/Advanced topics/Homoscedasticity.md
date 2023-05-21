@@ -1,4 +1,4 @@
-<u>Homoscedasticity</u>: *Equal variability of errors/residuals across the range of predictor values in regression analysis.*
+><u>Homoscedasticity</u>: *Equal variability of errors/residuals across the range of predictor values in regression analysis.*
 
 In regression analysis, homoscedasticity refers to the assumption that the variability of errors or residuals is consistent or equal across the entire range of predictor or independent variables. In other words, it implies that the spread of the residuals is the same regardless of the values of the predictors.
 

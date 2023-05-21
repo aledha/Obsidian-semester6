@@ -1,4 +1,5 @@
-<u>Heteroscedasticity</u>: *Unequal variability of errors/residuals across the range of predictor values in regression analysis.*
+><u>Heteroscedasticity</u>: *Unequal variability of errors/residuals across the range of predictor values in regression analysis.*
+
 ![[Pasted image 20230521145542.png|400]]
 When the plot of studentized residuals vs. fitted values exhibits a clear pattern, such as a fan shape or a widening/narrowing of the spread, it suggests heteroscedasticity in the errors. Heteroscedasticity means that the variability of the residuals is not constant across the range of the predicted values.
 

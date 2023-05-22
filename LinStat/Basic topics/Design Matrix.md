@@ -16,6 +16,7 @@ $$
 
 In this example, we have three observations, and for each observation, we have values for X1 (denoted by $X_{11}$, $X_{21}$, $X_{31}$) and X2 (denoted by $X_{12}$, $X_{22}$, $X_{32}$). The first column of ones is added to account for the intercept term in the linear regression model.
 
+#### [[Beta hat]], $\hat\beta$
 To determine $\hat{\beta}$ in the given example, we need to have the corresponding dependent variable values, denoted as $\mathbf{Y}$. Assuming we have three observations, the vector $\mathbf{Y}$ can be represented as:
 $$
 \mathbf{Y} = \begin{bmatrix}

@@ -24,8 +24,11 @@ We see that we have a full factorial design in the factors A, B, C, but there is
 **What is the generator and the defining relation for the experiment?**  
 The generator for the design is D=AB. The defining relation is then I=ABD. This can be seen by calculating the interaction $AB$ and see that this equals $D$ in each experiment.
 
+**What is aliasing?**
+Aliasing is when a main effect confounds with an interaction. For example, if we observe a significant effect when changing A from -1 to +1, we cannot determine whether it is due to the main effect of A or the confounded BC interaction.
+
 **What is the resolution of the experiment?**  
-The resolution of the design equals the number of letters in the defining relation, thus the resolution is 3.
+The resolution of the design equals the number of letters in the defining relation, thus the resolution is 3. We want it high to avoid aliasing between main effects and low-order inter- actions.
 
 **Write down the alias structure of the experiment**. 
 A=BD, B=AD, C=ABCD, D=AB  

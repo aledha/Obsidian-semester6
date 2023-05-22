@@ -4,7 +4,7 @@ where $Y(\lambda)$ is the transformed variable, $Y$ is the original variable, an
 
 ### Example
 ---
-![[Pasted image 20230521153009.png|250]]
+![[Pasted image 20230521153009.png|300]]
 The Box-Cox plot doesn’t include $1$ in the $95\%$ confidence interval (dotted lines in the plot), and suggests that the cube root transform ($λ = 1/3$) may be suitable as a variance stabilizating transform.
 
 ### Further reading

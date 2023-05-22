@@ -12,7 +12,7 @@ Keywords:
 * generator(s)=how to generate the design,  
 * defining relation(s), found from the generators,  
 * resolution=length of shortest defining relation,  
-* alias structure=confounding pattern, found by multiplyingeach effect of interest with the defining relation.
+* alias structure=confounding pattern, found by multiplying each effect of interest with the defining relation.
 
 When we perform a fractional $2^{k}$ experiment, we must first choose a fraction, where the most common choice is $\frac{1}{2}$. 
 

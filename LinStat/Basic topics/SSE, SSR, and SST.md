@@ -8,7 +8,7 @@ In the context of regression analysis, SSE, SSR, and SST are terms used to descr
 
 Mathematically, these sums of squares can be expressed as follows:
 
-- SSE = $\sum_{i=1}^{n} (y_i - \hat{y}_i)^2=(\textbf{Y} - \textbf{X}\beta)^T(\textbf{Y} - \textbf{X}\beta)$
+- SSE = $\sum_{i=1}^{n} (y_i - \hat{y}_i)^2=(\textbf{Y} - \textbf{X}\beta)^T(\textbf{Y} - \textbf{X}\beta)=(n-p)\hat\sigma^{2}$
 - SSR = $\sum_{i=1}^{n} (\hat{y}_i - \bar{y})^2$
 - SST = $\sum_{i=1}^{n} (y_i - \bar{y})^2$
 

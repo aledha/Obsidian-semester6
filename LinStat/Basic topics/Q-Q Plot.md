@@ -1,4 +1,4 @@
->A Q-Q (quantile-quantile) normal plot based on studentized residuals is a graphical tool used in statistical analysis to assess the normality assumption of the residuals in a regression model. 
+ >A Q-Q (quantile-quantile) normal plot based on studentized residuals is a graphical tool used in statistical analysis to assess the normality assumption of the residuals in a regression model. 
 
 In a Q-Q normal plot based on studentized residuals, the x-axis represents the quantiles of a standard normal distribution (expected values), and the y-axis represents the quantiles of the studentized residuals (observed values). If the studentized residuals are normally distributed, the points on the plot will roughly form a straight line. Deviations from a straight line suggest departures from normality.
 

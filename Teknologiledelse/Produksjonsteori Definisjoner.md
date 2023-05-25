@@ -1,0 +1,8 @@
+- Pris ($P$) er en eller annen funksjon av produksjonsmengden ($Q$), typisk $P = 1000 - Q$ eller lignende.
+- $Q$ er produksjonsmengden.
+- $FC$ er faste kostnader, uavhengig av produksjonsmengden $Q$.
+- $VC(Q)$ er variable kostnader, en funksjon av $Q$.
+- $TC(Q)$ er totalkostnad, gitt ved $TC(Q) = FC + VC(Q)$.
+- $MC$ er marginalkostnad, gitt ved $MC(Q) = \frac{{dTC}}{{dQ}}$. Dette er kostnaden for å produsere én ekstra enhet.
+- $AC$ er gjennomsnittskostnad, gitt ved $AC = \frac{{TC(Q)}}{{Q}}$.
+- Minimale gjennomsnittskostnader oppnås når $\frac{{dAC}}{{dQ}} = 0$, som impliserer at $MC = AC$. Med andre ord er gjennomsnittskostnadene minimert når marginalkostnaden er lik gjennomsnittskostnaden.

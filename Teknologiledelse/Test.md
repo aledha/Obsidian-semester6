@@ -1,1 +1,1 @@
-Even though its bad, i cannot stress this enough. 
+Dett her kan ikke mulig gå bra. 

@@ -10,5 +10,9 @@
     "downscalePercent": 100
   },
   "promptDelete": false,
-  "attachmentFolderPath": "Screenshots"
+  "attachmentFolderPath": "Screenshots",
+  "spellcheckLanguages": [
+    "en-GB",
+    "nb"
+  ]
 }

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"file","file":"Screenshots/Pasted image 20230525141753.png","id":"f1291f35552ac3bd","x":-200,"y":-80,"width":400,"height":120,"color":"1"},
+		{"type":"file","file":"Screenshots/Pasted image 20230525142022.png","id":"f7b40097809a8240","x":220,"y":-80,"width":400,"height":210},
+		{"type":"file","file":"Screenshots/Pasted image 20230525141850.png","id":"d8e5e2100165fee9","x":-102,"y":80,"width":204,"height":50},
+		{"type":"text","text":"Ingen trykte eller håndskrevne hjelpemidler tillatt. Bestemt, enkel kalkulator tillatt.","id":"163d0efd018f4d8d","x":-140,"y":160,"width":280,"height":140}
+	],
+	"edges":[
+		{"id":"9ab81981aab60c8c","fromNode":"f1291f35552ac3bd","fromSide":"bottom","toNode":"d8e5e2100165fee9","toSide":"top"},
+		{"id":"11e2b757c22226c4","fromNode":"f1291f35552ac3bd","fromSide":"top","toNode":"f7b40097809a8240","toSide":"top"},
+		{"id":"03b4626d3ccfb959","fromNode":"d8e5e2100165fee9","fromSide":"bottom","toNode":"163d0efd018f4d8d","toSide":"top"}
+	]
+}

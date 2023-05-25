@@ -1,1 +1,1 @@
-Even though this isn't good, its fine. The fact that it isnt, is not good at all. 
+Even though its bad, i cannot stress this enough. 

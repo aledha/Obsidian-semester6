@@ -1,1 +1,0 @@
-Dett her kan ikke mulig gå bra. 

@@ -1,6 +1,7 @@
 **Inntekter, Kostnader og Profitt -  Mikroøkonomi**
 
 - Etterspørsel & Konsumentoverskudd
+	- [[Etterspørselselastisitet]]
 - Inntekter
     - Totalinntekt (TR)
     - Marginalinntekt (MR)

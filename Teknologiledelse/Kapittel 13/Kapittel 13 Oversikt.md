@@ -2,10 +2,10 @@
 
 - Etterspørsel & Konsumentoverskudd
 	- [[Etterspørselselastisitet]]
-- Inntekter
+- [[Inntekter]]
     - Totalinntekt (TR)
     - Marginalinntekt (MR)
-- Kostnader
+- [[Kostnader]]
     - Variable kostnader (VC)
     - Faste kostnader (FC)
     - Totale kostnader (TC)

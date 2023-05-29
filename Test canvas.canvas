@@ -1,18 +1,20 @@
 {
 	"nodes":[
 		{"type":"group","id":"eaf0496ed4808985","x":200,"y":-580,"width":800,"height":755,"color":"3","label":"Group 1"},
-		{"type":"file","file":"LinStat/Advanced topics/Shapiro–Wilk test.md","id":"0fa65f6bccf9d341","x":-303,"y":-220,"width":443,"height":220},
+		{"type":"file","file":"LinStat/Advanced topics/Shapiro–Wilk test.md","id":"0fa65f6bccf9d341","x":-303,"y":-220,"width":443,"height":220,"color":"4"},
 		{"type":"text","text":"Test\n","id":"b1b1d462c3bdc0cc","x":220,"y":-380,"width":250,"height":60,"color":"4"},
 		{"type":"file","file":"LinStat/Basic topics/Normal Distribution.md","id":"d0e6c4e0d76f601a","x":-260,"y":-560,"width":400,"height":240,"color":"1"},
 		{"type":"file","file":"Screenshots/Pasted image 20230521170650.png","id":"8bbb999f6910a8b7","x":-260,"y":60,"width":399,"height":190},
 		{"type":"link","url":"https://help.obsidian.md/Plugins/Canvas","id":"a0c666b944d0f4b7","x":220,"y":-70,"width":400,"height":225},
-		{"type":"link","url":"https://www.nrk.no/","id":"3ec2abdb7036df8f","x":580,"y":-560,"width":400,"height":305,"color":"5"}
+		{"type":"link","url":"https://www.nrk.no/","id":"3ec2abdb7036df8f","x":580,"y":-560,"width":400,"height":305,"color":"5"},
+		{"id":"19a5587687aeb41e","x":370,"y":300,"width":250,"height":60,"type":"text","text":",,,,,"}
 	],
 	"edges":[
 		{"id":"f2b541f93e30f2d1","fromNode":"0fa65f6bccf9d341","fromSide":"top","toNode":"d0e6c4e0d76f601a","toSide":"bottom"},
 		{"id":"1ceabd76926f7421","fromNode":"d0e6c4e0d76f601a","fromSide":"top","toNode":"b1b1d462c3bdc0cc","toSide":"top"},
 		{"id":"b4b127de78591184","fromNode":"a0c666b944d0f4b7","fromSide":"top","toNode":"3ec2abdb7036df8f","toSide":"left"},
 		{"id":"50612ec8add11ac9","fromNode":"0fa65f6bccf9d341","fromSide":"bottom","toNode":"8bbb999f6910a8b7","toSide":"top"},
-		{"id":"abfb47a13174ff50","fromNode":"0fa65f6bccf9d341","fromSide":"right","toNode":"3ec2abdb7036df8f","toSide":"left"}
+		{"id":"abfb47a13174ff50","fromNode":"0fa65f6bccf9d341","fromSide":"right","toNode":"3ec2abdb7036df8f","toSide":"left"},
+		{"id":"722d81070820f407","fromNode":"d0e6c4e0d76f601a","fromSide":"left","toNode":"0fa65f6bccf9d341","toSide":"left"}
 	]
 }

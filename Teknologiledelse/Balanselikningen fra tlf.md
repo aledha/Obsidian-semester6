@@ -1,9 +1,10 @@
+Notater fra tlf. samtale med Simon og Aurora. Aurora skulle også sende noen eksamensoppgaver over. 
 
 Alt som regnskapsføres
 
 3 ting: 
 * eiendeler
-* egenkap
+* egenkapital
 * gjeld
 
 dette kan deles i subkategorier

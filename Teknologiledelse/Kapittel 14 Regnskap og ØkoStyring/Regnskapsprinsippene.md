@@ -1,6 +1,6 @@
 *(Fra bildene Simon sendte)*
 
->I regnskapsloven $\S\text{4-1}$ er det omtalt <u>fem</u> grunnleggende regnskapsprinsipper og årsregnskapet skal utarbeides i samsvar med disse:
+>I regnskapsloven $\S\text{4-1}$ er det omtalt <u>fem grunnleggende regnskapsprinsipper</u> og årsregnskapet skal utarbeides i samsvar med disse:
 
 1. Transaksjoner skal regnskapsføres til verdien av vederlaget på transaksjonstidspunktet *(transaksjonsprinsippet)*.
 2. Inntekt skal resultatføres når den er opptjent *(opptjeningsprinsippet)*.

@@ -7,7 +7,7 @@
 		{"type":"file","file":"Screenshots/Pasted image 20230521170650.png","id":"8bbb999f6910a8b7","x":-260,"y":60,"width":399,"height":190},
 		{"type":"link","url":"https://help.obsidian.md/Plugins/Canvas","id":"a0c666b944d0f4b7","x":220,"y":-70,"width":400,"height":225},
 		{"type":"link","url":"https://www.nrk.no/","id":"3ec2abdb7036df8f","x":580,"y":-560,"width":400,"height":305,"color":"5"},
-		{"id":"19a5587687aeb41e","x":370,"y":300,"width":250,"height":60,"type":"text","text":",,,,,"}
+		{"type":"text","text":",,,,,","id":"19a5587687aeb41e","x":370,"y":300,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"f2b541f93e30f2d1","fromNode":"0fa65f6bccf9d341","fromSide":"top","toNode":"d0e6c4e0d76f601a","toSide":"bottom"},

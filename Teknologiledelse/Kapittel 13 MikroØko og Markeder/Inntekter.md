@@ -34,9 +34,9 @@ Se [[Etterspørselselastisitet]]
 
 Kobles med **Marginalinntekt** ved:
 $$MR(Q)=P \left(1- \frac{1}{\epsilon } \right)$$
-$\epsilon <1 \quad\implies\quad$ etterspørselen er **uelastisk** $\quad\implies\quad MR(Q)<0$
-$\epsilon >1 \quad\implies\quad$ etterspørselen er **elastisk** $\quad\implies\quad MR(Q)>0$
-$\epsilon = 1 \quad\implies\quad$ etterspørselen er **enhetselastisk** $\quad\implies\quad MR(Q)=0$
+$\epsilon <1 \quad\implies\quad$ etterspørselen er **uelastisk** $\quad\implies\quad MR(Q)<0 \quad\implies\quad$ totalinntekten synker når prisen synker.  
+$\epsilon >1 \quad\implies\quad$ etterspørselen er **elastisk** $\quad\implies\quad MR(Q)>0\quad\implies\quad$totalinntekten øker når prisen synker. 
+$\epsilon = 1 \quad\implies\quad$ etterspørselen er **enhetselastisk** $\quad\implies\quad MR(Q)=0 \quad\implies\quad$ totalinntekten endrer seg ikke når pris synker.
 
 ---
 ## Markedslikevekt

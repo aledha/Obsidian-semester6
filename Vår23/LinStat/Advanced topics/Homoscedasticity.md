@@ -4,5 +4,5 @@ In regression analysis, homoscedasticity refers to the assumption that the varia
 
 <u>When homoscedasticity holds, the scatter of the residuals around the regression line should exhibit a roughly constant spread or dispersion.</u> This indicates that the errors have a consistent level of variability across different levels of the predictor variable(s).
 
-Homoscedasticity is an important assumption in regression analysis because it ensures that the statistical tests and estimation procedures are valid and reliable. Violations of homoscedasticity, known as [[heteroscedasticity]], can lead to biased coefficient estimates, incorrect standard errors, and unreliable inferences.
+Homoscedasticity is an important assumption in regression analysis because it ensures that the statistical tests and estimation procedures are valid and reliable. Violations of homoscedasticity, known as [[Heteroscedasticity]], can lead to biased coefficient estimates, incorrect standard errors, and unreliable inferences.
 

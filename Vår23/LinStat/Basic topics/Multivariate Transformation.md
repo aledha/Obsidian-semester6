@@ -14,6 +14,6 @@ It's worth noting that the multivariate transformation formula assumes that the 
 
 # Example
 
-Find the [[pdf]] of the [[F-distribution]].
+Find the [[PDF]] of the [[F-distribution]].
 
 ![[Pasted image 20230514173326.png]]

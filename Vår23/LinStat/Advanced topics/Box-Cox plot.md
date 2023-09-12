@@ -1,4 +1,4 @@
->The Box-Cox transformation plot is a graphical tool used in statistics to explore the optimal transformation of a variable to achieve approximate [[Normal Distribution|normality]]. The Box-Cox transformation is a power transformation that can be applied to non-normal data to make it more closely resemble a [[normal distribution]]. It is defined by the equation:
+>The Box-Cox transformation plot is a graphical tool used in statistics to explore the optimal transformation of a variable to achieve approximate [[Normal Distribution|normality]]. The Box-Cox transformation is a power transformation that can be applied to non-normal data to make it more closely resemble a [[Normal Distribution]]. It is defined by the equation:
 $$Y(\lambda) = \frac{{Y^\lambda - 1}}{\lambda}$$
 where $Y(\lambda)$ is the transformed variable, $Y$ is the original variable, and $\lambda$ is the transformation parameter.
 
@@ -20,4 +20,4 @@ To create a Box-Cox transformation plot, you would typically perform the followi
 
 The plot allows you to visually assess the transformation's impact on the normality of the data and identify the $\lambda$ value that achieves the best approximation of normality. In practice, it helps determine whether a Box-Cox transformation is necessary and provides guidance on selecting the appropriate transformation parameter for the data at hand.
 
-It's worth noting that the Box-Cox transformation is commonly used in statistical modeling, particularly in linear regression, to meet the assumptions of normality and [[homoscedasticity]] (constant variance). However, the transformation is not suitable for all types of data, and its effectiveness should be evaluated carefully in each specific case.
+It's worth noting that the Box-Cox transformation is commonly used in statistical modeling, particularly in linear regression, to meet the assumptions of normality and [[Homoscedasticity]] (constant variance). However, the transformation is not suitable for all types of data, and its effectiveness should be evaluated carefully in each specific case.

@@ -1,6 +1,6 @@
 The intercept represents the estimated average value of the dependent variable:
 $$\text{Estimate (Intercept)} = \text{t-value}\cdot\text{Std. Error}$$
-Intercept associated with first column of [[design matrix]] (first column of ones) $\hat{\beta} = (\mathbf{X}^T\mathbf{X})^{-1}\mathbf{X}^T\mathbf{Y}$.
+Intercept associated with first column of [[Design Matrix]] (first column of ones) $\hat{\beta} = (\mathbf{X}^T\mathbf{X})^{-1}\mathbf{X}^T\mathbf{Y}$.
 
 ### Example
 ---

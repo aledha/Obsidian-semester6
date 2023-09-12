@@ -1,4 +1,4 @@
-The bivariate [[normal distribution]] can also be expressed using the [[Σ - Covariance Matrix|covariance matrix]]. The covariance matrix for the variables $X$ and $Y$ is denoted as $\Sigma$ and defined as:
+The bivariate [[Normal Distribution]] can also be expressed using the [[Σ - Covariance Matrix|covariance matrix]]. The covariance matrix for the variables $X$ and $Y$ is denoted as $\Sigma$ and defined as:
 
 $$\Sigma = \begin{bmatrix} \sigma_X^2 & \rho\sigma_X\sigma_Y \\ \rho\sigma_X\sigma_Y & \sigma_Y^2 \end{bmatrix}$$
 

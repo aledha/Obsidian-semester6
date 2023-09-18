@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:\"Spania/QQMDS Quantitative and Qualitative Methods in Dynamical Systems/Definitions\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.37703171558493925,
-  "close": true
+  "scale": 0.4483857237154267,
+  "close": false
 }

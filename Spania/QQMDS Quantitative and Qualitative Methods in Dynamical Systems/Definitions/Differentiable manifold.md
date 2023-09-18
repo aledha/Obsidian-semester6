@@ -1,0 +1,3 @@
+A differentiable [[Topological manifold|manifold]] (also differential manifold) is a type of manifold that is locally similar enough to a vector space to allow one to apply calculus. 
+
+Any manifold can be described by a collection of [[Charts|charts]] ([[Atlases|atlas]]). One may then apply ideas from calculus while working within the individual [[Charts|charts]], since each chart lies within a vector space to which the usual rules of calculus apply. If the charts are suitably compatible (namely, the transition from one chart to another is differentiable), then computations done in one chart are valid in any other differentiable chart.

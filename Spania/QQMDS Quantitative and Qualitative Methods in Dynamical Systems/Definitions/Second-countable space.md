@@ -1,0 +1,3 @@
+>In topology, a second-countable space, *also called a completely separable space*, is a [[Topological space|topological space]] whose topology has a [[Topological Basis|countable base]]. 
+
+More explicitly, a topological space $T$ is second-countable if there exists some countable collection $\mathcal{U} = \{U_i\}_{i=1}^\infty$ of open subsets of $T$ such that any open subset of $T$ can be written as a union of elements of some subfamily of $\mathcal{U}$.

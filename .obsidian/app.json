@@ -11,8 +11,5 @@
   },
   "promptDelete": false,
   "attachmentFolderPath": "Screenshots",
-  "spellcheckLanguages": [
-    "en-GB",
-    "nb"
-  ]
+  "spellcheckLanguages": null
 }
